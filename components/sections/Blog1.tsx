@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function Blog1() {
 	return (
 		<>
-			<section className="section-blog-1 @@padding">
+			<section className="section-blog-1 @@padding pb-6">
 				<div className="container">
 					<div className="row align-items-end">
 						<div className="col-12 col-md-6 me-auto">
