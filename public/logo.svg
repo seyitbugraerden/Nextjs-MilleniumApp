@@ -1,0 +1,31 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 484 67" width="484" height="67">
+	<title>logo-svg</title>
+	<style>
+		.s0 { fill: #a85ed6;stroke: #a85ed6;stroke-miterlimit:2;stroke-width: .4 } 
+		.s1 { fill: #ae5fc9;stroke: #ae5fc9;stroke-miterlimit:2;stroke-width: .4 } 
+		.s2 { fill: #b45fbc;stroke: #b45fbc;stroke-miterlimit:2;stroke-width: .4 } 
+		.s3 { fill: #b960ae;stroke: #b960ae;stroke-miterlimit:2;stroke-width: .4 } 
+		.s4 { fill: #bf60a1;stroke: #bf60a1;stroke-miterlimit:2;stroke-width: .4 } 
+		.s5 { fill: #c56194;stroke: #c56194;stroke-miterlimit:2;stroke-width: .4 } 
+		.s6 { fill: #cb6187;stroke: #cb6187;stroke-miterlimit:2;stroke-width: .4 } 
+		.s7 { fill: #d06279;stroke: #d06279;stroke-miterlimit:2;stroke-width: .4 } 
+		.s8 { fill: #d6626c;stroke: #d6626c;stroke-miterlimit:2;stroke-width: .4 } 
+	</style>
+	<g id="logo-group">
+		<g id="logo-center">
+			<g id="slogan">
+			</g>
+			<g id="title">
+				<path id="path31365" class="s0" d="m71 28.8l-14.5 25.9 0.1 8.7h14.5zm-64.9 34.6h14.7v-7.7l-14.7-26.2zm51.9-55.9l-19.2 32.3-19.6-32.3h-13.1l14.7 27.1 14.3 23.3h7l14.4-24.1 14.1-26.3z"/>
+				<path id="path31367" class="s1" d="m82.2 7.5v55.9h15.9v-55.9z"/>
+				<path id="path31369" class="s2" d="m109.4 7.5v55.9h42.5v-12.5h-26.7v-43.4z"/>
+				<path id="path31371" class="s3" d="m158.1 7.5v55.9h42.5v-12.5h-26.7v-43.4z"/>
+				<path id="path31373" class="s4" d="m251.2 7.5h-44.4v12.2h44.4zm0 21.7h-44.4v11.8h44.4zm-44.4 22v12.3h44.4v-12.3z"/>
+				<path id="path31375" fill-rule="evenodd" class="s5" d="m298.2 37.2l15.5 19.7v6.5h-13l-24.7-29.8-15.5-18.7v-7.4h13l24.7 29.8zm15.5-29.8v28.9l-15.5-18.7v-10.2zm-53.2 26.8l15.5 19.8v9.4h-15.5z"/>
+				<path id="path31377" class="s6" d="m325 7.5v55.9h15.8v-55.9z"/>
+				<path id="path31379" class="s7" d="m358.5 57.7c4.7 4.6 11.1 6.8 19.4 6.8 8.4 0 14.7-2.2 19.4-6.8 4.6-4.4 6.9-10.9 6.9-19.2v-31h-15.5v30.5q0 13.4-10.6 13.4c-7.1 0-10.6-4.5-10.6-13.4v-30.5h-15.9v31c0 8.3 2.3 14.8 6.9 19.2z"/>
+				<path id="path31381" class="s8" d="m479.8 28.8l-14.5 25.9 0.1 8.7h14.5zm-64.9 34.6h14.7v-7.7l-14.7-26.2zm51.9-55.9l-19.2 32.3-19.6-32.3h-13.1l14.7 27.1 14.3 23.3h7l14.4-24.1 14.1-26.3z"/>
+			</g>
+		</g>
+	</g>
+</svg>

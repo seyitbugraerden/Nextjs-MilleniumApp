@@ -4,7 +4,7 @@ export default function Menu() {
   return (
     <>
       <div className="d-none d-lg-flex">
-        <ul className="navbar-nav mx-auto gap-4 align-items-lg-center">
+        <ul className="navbar-nav mx-auto gap-4 align-items-lg-center py-2">
           <li className="nav-item dropdown menu-item-has-children">
             <Link
               className="nav-link fw-bold d-flex align-items-center"
@@ -13,7 +13,7 @@ export default function Menu() {
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >
-              Home
+              Ana Sayfa
             </Link>
             <div className="dropdown-menu fix">
               <ul className="list-unstyled">
@@ -51,7 +51,7 @@ export default function Menu() {
               className="nav-link fw-bold d-flex align-items-center"
               href="#"
             >
-              Services
+              Hizmetlerimiz
             </Link>
           </li>
           {/* <li className="nav-item dropdown has-mega-menu">
@@ -315,7 +315,7 @@ export default function Menu() {
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >
-              Company
+              Kurumsal
             </Link>
             <div className="dropdown-menu p-4 fix">
               <ul className="list-unstyled">
@@ -324,7 +324,7 @@ export default function Menu() {
                     className="dropdown-item position-relative z-1 d-flex align-items-start"
                     href="#"
                   >
-                    About Us
+                    Hakkımızda
                   </Link>
                 </li>
                 <li className="position-relative z-1">
@@ -332,7 +332,7 @@ export default function Menu() {
                     className="dropdown-item position-relative z-1 d-flex align-items-start"
                     href="#"
                   >
-                    Our Mission
+                    Misyon ve Vizyon
                   </Link>
                 </li>
               </ul>
@@ -345,7 +345,7 @@ export default function Menu() {
               className="nav-link fw-bold d-flex align-items-center"
               href="/page-contact-1"
             >
-              Contact
+              İletişim
             </Link>
           </li>
         </ul>
