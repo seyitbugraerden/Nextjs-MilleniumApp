@@ -33,7 +33,7 @@ export default function PageContact3() {
 					</div>
 				</section>
 				{/* Contact 2*/}
-				<section className="section-contact-2 position-relative section-padding bg-5">
+				<section className="position-relative section-padding bg-5">
 					<div className="container position-relative z-1">
 						<div className="text-center">
 							<h5 className="ds-5 mt-3 mb-3">

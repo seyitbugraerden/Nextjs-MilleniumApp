@@ -46,14 +46,6 @@ export default function Menu() {
               <div className="ellipse-rotate-primary-sm position-absolute top-50 z-0" />
             </div>
           </li>
-          <li className="nav-item">
-            <Link
-              className="nav-link fw-bold d-flex align-items-center"
-              href="#"
-            >
-              Hizmetlerimiz
-            </Link>
-          </li>
           {/* <li className="nav-item dropdown has-mega-menu">
 						<Link className="nav-link fw-bold d-flex align-items-center" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 							Pages
@@ -315,6 +307,39 @@ export default function Menu() {
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >
+              Hizmetlerimiz
+            </Link>
+            <div className="dropdown-menu p-4 fix">
+              <ul className="list-unstyled">
+                <li className="position-relative border-bottom z-1">
+                  <Link
+                    className="dropdown-item position-relative z-1 d-flex align-items-start"
+                    href="#"
+                  >
+                    Hakkımızda
+                  </Link>
+                </li>
+                <li className="position-relative z-1">
+                  <Link
+                    className="dropdown-item position-relative z-1 d-flex align-items-start"
+                    href="#"
+                  >
+                    Misyon ve Vizyon
+                  </Link>
+                </li>
+              </ul>
+              <div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
+              <div className="ellipse-rotate-primary-sm position-absolute bottom-0 end-0 translate-middle z-0" />
+            </div>
+          </li>
+          <li className="nav-item dropdown menu-item-has-children">
+            <Link
+              className="nav-link fw-bold d-flex align-items-center"
+              href="#"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
               Kurumsal
             </Link>
             <div className="dropdown-menu p-4 fix">
@@ -343,7 +368,7 @@ export default function Menu() {
           <li className="nav-item">
             <Link
               className="nav-link fw-bold d-flex align-items-center"
-              href="/page-contact-1"
+              href="iletisim"
             >
               İletişim
             </Link>

@@ -11,7 +11,6 @@ import Testimonial1 from "@/components/sections/Testimonial1";
 export default function Home() {
   return (
     <>
-      <Layout headerStyle={1} footerStyle={2}>
         <Hero1 />
         <LogoCloud1 />
         <Features1 />
@@ -19,8 +18,6 @@ export default function Home() {
         <Services1 />
         <Static3 />
         <Testimonial1 />
-        <Blog1 />
-      </Layout>
     </>
   );
 }
