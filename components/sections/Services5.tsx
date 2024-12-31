@@ -7,15 +7,13 @@ export default function Services5() {
   const [filterKey, setFilterKey] = useState<string>("*");
 
   useEffect(() => {
-    if (typeof window !== "undefined") {
-      isotope.current = new Isotope(".masonary-active", {
-        itemSelector: ".filter-item",
-        percentPosition: true,
-        masonry: {
-          columnWidth: ".filter-item",
-        },
-      });
-    }
+    isotope.current = new Isotope(".masonary-active", {
+      itemSelector: ".filter-item",
+      percentPosition: true,
+      masonry: {
+        columnWidth: ".filter-item",
+      },
+    });
   }, []);
 
   useEffect(() => {

@@ -67,8 +67,6 @@ const page = () => {
           </div>
         </div>
       </section>
-
-      <Services5 />
     </>
   );
 };
