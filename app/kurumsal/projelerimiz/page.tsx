@@ -1,7 +1,9 @@
-import Services5 from "@/components/sections/Services5";
+import dynamic from "next/dynamic";
 import Link from "next/link";
 import React from "react";
-
+const Services5 = dynamic(() => import("@/components/sections/Services5"), {
+  ssr: false,
+});
 const page = () => {
   return (
     <>
@@ -67,6 +69,8 @@ const page = () => {
           </div>
         </div>
       </section>
+
+      <Services5 />
     </>
   );
 };
