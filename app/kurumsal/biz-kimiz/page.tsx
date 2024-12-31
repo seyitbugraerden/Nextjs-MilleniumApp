@@ -52,7 +52,7 @@ const page = () => {
                   strokeLinejoin="round"
                 />
               </svg>
-              <p className="text-primary mb-0">Hakkımızda</p>
+              <p className="text-primary mb-0">Biz Kimiz?</p>
             </div>
           </div>
         </div>

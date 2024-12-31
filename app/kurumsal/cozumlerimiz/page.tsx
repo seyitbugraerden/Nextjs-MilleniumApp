@@ -86,148 +86,128 @@ const page = () => {
               </div>
               <div className="col-lg-6 offset-lg-1 mt-lg-0 mt-5">
                 <h4 className="ds-4 fw-regular">
-                  All that's necessary <br /> for{" "}
+                  Web Tasarımı
                   <span
                     className="fw-bold"
                     data-aos="fade-zoom-in"
                     data-aos-delay={200}
                   >
-                    effective team <br className="d-none d-lg-inline" /> effort.
+                    {" "}
+                    ve Geliştirme Çözümleri{" "}
+                    <br className="d-none d-lg-inline" />
                   </span>
                 </h4>
                 <p className="fs-5">
-                  Provide your team with top-tier group mentoring programs and
-                  exceptional professional benefits.
+                  Gelişen dijital dünyada, etkileyici ve işlevsel bir web
+                  sitesi, her işletme için kritik öneme sahiptir. Millenium
+                  Yazılım olarak, kullanıcı dostu arayüzler ve modern tasarımlar
+                  ile markaların çevrimiçi varlıklarını güçlendiriyoruz.
+                  İhtiyaçlarınıza özel web çözümleri sunarak, yüksek
+                  performanslı, mobil uyumlu ve SEO dostu siteler oluşturuyoruz.
+                  İster bir başlangıç sitesi, ister büyük ölçekli bir e-ticaret
+                  platformu olsun, her tür web projesini başarıyla hayata
+                  geçiriyoruz.
                 </p>
-                <Link
-                  href="#"
-                  className="btn btn-outline-secondary hover-up bg-transparent mt-5"
-                  data-aos="fade-zoom-in"
-                  data-aos-delay={200}
-                >
-                  Explore Now
-                  <svg
-                    className="ms-2"
-                    xmlns="http://www.w3.org/2000/svg"
-                    width={24}
-                    height={24}
-                    viewBox="0 0 24 24"
-                    fill="none"
-                  >
-                    <path
-                      className="stroke-dark"
-                      d="M17.25 15.25V6.75H8.75"
-                      stroke="#000"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                    <path
-                      className="stroke-dark"
-                      d="M17 7L6.75 17.25"
-                      stroke="#000"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                  </svg>
-                </Link>
               </div>
             </div>
             <div className="row py-90">
               <div className="col-lg-10 px-lg-0 mx-lg-auto d-lg-flex justify-content-lg-between">
-                <Link
-                  href="#"
+                <div
                   className="px-4 py-3 bg-white hover-up rounded-pill text-500 fs-5 text-nowrap d-inline-block mb-lg-0 mb-3"
                   data-aos="fade-zoom-in"
                   data-aos-delay={0}
                 >
-                  Team Messaging
-                </Link>
-                <Link
-                  href="#"
+                  Web Tasarımı ve Geliştirme
+                </div>
+                <div
                   className="px-4 py-3 bg-white hover-up rounded-pill text-500 fs-5 text-nowrap d-inline-block mb-lg-0 mb-3"
                   data-aos="fade-zoom-in"
                   data-aos-delay={100}
                 >
-                  4K Video
-                </Link>
-                <Link
-                  href="#"
+                  Mobil Uygulama Geliştirme
+                </div>
+                <div
                   className="px-4 py-3 bg-white hover-up rounded-pill text-500 fs-5 text-nowrap d-inline-block mb-lg-0 mb-3"
                   data-aos="fade-zoom-in"
                   data-aos-delay={200}
                 >
-                  Ultimate Collaboration
-                </Link>
-                <Link
-                  href="#"
+                  E-Ticaret Çözümleri
+                </div>
+                <div
                   className="px-4 py-3 bg-white hover-up rounded-pill text-500 fs-5 text-nowrap d-inline-block mb-lg-0 mb-3"
                   data-aos="fade-zoom-in"
                   data-aos-delay={300}
                 >
-                  Unified Communications
-                </Link>
-                <Link
-                  href="#"
+                  Sosyal Medya Yönetimi
+                </div>
+                <div
                   className="px-4 py-3 bg-white hover-up rounded-pill text-500 fs-5 text-nowrap d-inline-block mb-lg-0 mb-3"
                   data-aos="fade-zoom-in"
                   data-aos-delay={400}
                 >
-                  Advanced Meeting
-                </Link>
+                  Dijital Pazarlama ve SEO
+                </div>
+              </div>
+              <div className="col-lg-10 px-lg-0 mx-lg-auto d-lg-flex justify-content-lg-between">
+                <div
+                  className="px-4 py-3 bg-white hover-up rounded-pill text-500 fs-5 text-nowrap d-inline-block mb-lg-0 mb-3"
+                  data-aos="fade-zoom-in"
+                  data-aos-delay={0}
+                >
+                  CRM Çözümleri
+                </div>
+                <div
+                  className="px-4 py-3 bg-white hover-up rounded-pill text-500 fs-5 text-nowrap d-inline-block mb-lg-0 mb-3"
+                  data-aos="fade-zoom-in"
+                  data-aos-delay={100}
+                >
+                  Kurumsal Kimlik ve Marka Yönetimi
+                </div>
+                <div
+                  className="px-4 py-3 bg-white hover-up rounded-pill text-500 fs-5 text-nowrap d-inline-block mb-lg-0 mb-3"
+                  data-aos="fade-zoom-in"
+                  data-aos-delay={200}
+                >
+                  Web Yazılım Çözümleri
+                </div>
+                <div
+                  className="px-4 py-3 bg-white hover-up rounded-pill text-500 fs-5 text-nowrap d-inline-block mb-lg-0 mb-3"
+                  data-aos="fade-zoom-in"
+                  data-aos-delay={300}
+                >
+                  Özel Yazılım Geliştirme
+                </div>
+                <div
+                  className="px-4 py-3 bg-white hover-up rounded-pill text-500 fs-5 text-nowrap d-inline-block mb-lg-0 mb-3"
+                  data-aos="fade-zoom-in"
+                  data-aos-delay={400}
+                >
+                  Bulut Çözümleri ve Veri Yönetimi
+                </div>
               </div>
             </div>
             <div className="row align-items-start pb-5 pt-lg-5 pt-0">
               <div className="col-lg-5 order-2 order-lg-1 mt-lg-0 mt-10 pt-lg-0 pt-5">
                 <h4 className="ds-4 fw-regular">
-                  Experience the <br />{" "}
+                  Mobil Uygulama <br />{" "}
                   <span
                     className="fw-bold"
                     data-aos="fade-zoom-in"
                     data-aos-delay={200}
                   >
-                    cutting-edge <br />
+                    Geliştirme Çözümleri <br />
                   </span>
-                  capabilities
                 </h4>
                 <p className="fs-5">
-                  Provide your team with top-tier group mentoring programs and
-                  exceptional professional benefits.
+                  Dijital dünyada mobil uygulamalar, işletmelerin hedef
+                  kitlelerine ulaşmasında önemli bir araçtır. Millenium Yazılım
+                  olarak, iOS ve Android platformlarında yüksek performanslı
+                  mobil uygulamalar geliştirmekteyiz. Müşterilerimizin
+                  ihtiyaçlarına göre özelleştirilmiş, kullanıcı dostu, hızlı ve
+                  güvenli uygulamalar tasarlıyoruz. İnovasyon ve kullanıcı
+                  deneyimini ön planda tutarak, iş süreçlerinizi dijital ortamda
+                  kolayca yönetmenizi sağlıyoruz.
                 </p>
-                <Link
-                  href="#"
-                  className="btn btn-outline-secondary hover-up bg-transparent mt-5"
-                  data-aos="fade-zoom-in"
-                  data-aos-delay={300}
-                >
-                  Explore Now
-                  <svg
-                    className="ms-2"
-                    xmlns="http://www.w3.org/2000/svg"
-                    width={24}
-                    height={24}
-                    viewBox="0 0 24 24"
-                    fill="none"
-                  >
-                    <path
-                      className="stroke-dark"
-                      d="M17.25 15.25V6.75H8.75"
-                      stroke="#000"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                    <path
-                      className="stroke-dark"
-                      d="M17 7L6.75 17.25"
-                      stroke="#000"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                  </svg>
-                </Link>
               </div>
               <div className="col-lg-6 offset-lg-1 order-1 order-lg-2 mt-5 text-lg-end text-center">
                 <div className="photo-description position-relative rounded-4 d-inline-block">
@@ -264,20 +244,20 @@ const page = () => {
               >
                 <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
                 <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
-                  What we offers
+                  Ne sunuyoruz?
                 </span>
               </div>
               <h3 className="ds-3 my-3 fw-regular">
-                Professional
+                Dijital
                 <span
                   className="fw-bold"
                   data-aos="fade-zoom-in"
                   data-aos-delay={200}
                 >
-                  UltraHD Video <br className="d-none d-lg-block" />
-                  Conferencing
+                  {""} Dünyada Başarınızı <br className="d-none d-lg-block" />
+                  Destekleyen {""}
                 </span>
-                Platform
+                Çözümler
               </h3>
             </div>
             <div className="row">
@@ -292,48 +272,13 @@ const page = () => {
                     src="/assets/imgs/features-4/icon-1.svg"
                     alt="infinia"
                   />
-                  <h6 className="my-3 fs-5">Unified Communications</h6>
+                  <h6 className="my-3 fs-5">Web Tasarımı ve Geliştirme</h6>
                   <p className="mb-6">
-                    Promptly solve urgent work issues! Create personal and group
-                    chats that allow for exchanging messages not only during
-                    conferences but also outside of them.
+                    Millenium Yazılım olarak, modern ve kullanıcı dostu web
+                    siteleri tasarlıyoruz. İşletmelerin dijital kimliklerini
+                    güçlendirmek için SEO dostu, mobil uyumlu ve hızlı
+                    performans gösteren web siteleri geliştiriyoruz.
                   </p>
-                  <Link
-                    href="#"
-                    className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more"
-                  >
-                    <svg
-                      className="plus"
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={16}
-                      height={16}
-                      viewBox="0 0 16 16"
-                      fill="none"
-                    >
-                      <g clipPath="url(#)">
-                        <path
-                          className="fill-dark"
-                          d="M15.375 7.375H8.625V0.625C8.625 0.279813 8.34519 0 8 0C7.65481 0 7.375 0.279813 7.375 0.625V7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H7.375V15.375C7.375 15.7202 7.65481 16 8 16C8.34519 16 8.625 15.7202 8.625 15.375V8.625H15.375C15.7202 8.625 16 8.34519 16 8C16 7.65481 15.7202 7.375 15.375 7.375Z"
-                          fill="#111827"
-                        />
-                      </g>
-                    </svg>
-                    <svg
-                      className="arrow"
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={18}
-                      height={10}
-                      viewBox="0 0 18 10"
-                      fill="none"
-                    >
-                      <path
-                        className="fill-dark"
-                        d="M13.0633 0.0634766L12.2615 0.86529L15.8294 4.43321H0V5.56716H15.8294L12.2615 9.13505L13.0633 9.93686L18 5.00015L13.0633 0.0634766Z"
-                        fill="#111827"
-                      />
-                    </svg>
-                    <span className="fw-bold fs-7 text-900">Learm More</span>
-                  </Link>
                 </div>
               </div>
               <div
@@ -347,48 +292,13 @@ const page = () => {
                     src="/assets/imgs/features-4/icon-2.svg"
                     alt="infinia"
                   />
-                  <h6 className="my-3 fs-5">Team Messenger</h6>
+                  <h6 className="my-3 fs-5">Mobil Uygulama Geliştirme</h6>
                   <p className="mb-6">
-                    Promptly solve urgent work issues! Create personal and group
-                    chats that allow for exchanging messages not only during
-                    conferences but also outside of them.
+                    Dijital dünyada mobil uygulamalar, markaların hedef
+                    kitlelerine ulaşmasında kritik bir rol oynar. Millenium
+                    Yazılım, iOS ve Android platformlarında yüksek performanslı,
+                    güvenli ve kullanıcı dostu mobil uygulamalar geliştiriyoruz.
                   </p>
-                  <Link
-                    href="#"
-                    className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more"
-                  >
-                    <svg
-                      className="plus"
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={16}
-                      height={16}
-                      viewBox="0 0 16 16"
-                      fill="none"
-                    >
-                      <g clipPath="url(#)">
-                        <path
-                          className="fill-dark"
-                          d="M15.375 7.375H8.625V0.625C8.625 0.279813 8.34519 0 8 0C7.65481 0 7.375 0.279813 7.375 0.625V7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H7.375V15.375C7.375 15.7202 7.65481 16 8 16C8.34519 16 8.625 15.7202 8.625 15.375V8.625H15.375C15.7202 8.625 16 8.34519 16 8C16 7.65481 15.7202 7.375 15.375 7.375Z"
-                          fill="#111827"
-                        />
-                      </g>
-                    </svg>
-                    <svg
-                      className="arrow"
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={18}
-                      height={10}
-                      viewBox="0 0 18 10"
-                      fill="none"
-                    >
-                      <path
-                        className="fill-dark"
-                        d="M13.0633 0.0634766L12.2615 0.86529L15.8294 4.43321H0V5.56716H15.8294L12.2615 9.13505L13.0633 9.93686L18 5.00015L13.0633 0.0634766Z"
-                        fill="#111827"
-                      />
-                    </svg>
-                    <span className="fw-bold fs-7 text-900">Learm More</span>
-                  </Link>
                 </div>
               </div>
               <div
@@ -402,48 +312,12 @@ const page = () => {
                     src="/assets/imgs/features-4/icon-3.svg"
                     alt="infinia"
                   />
-                  <h6 className="my-3 fs-5">Telephony and PBX</h6>
+                  <h6 className="my-3 fs-5">E-Ticaret Çözümleri</h6>
                   <p className="mb-6">
-                    Promptly solve urgent work issues! Create personal and group
-                    chats that allow for exchanging messages not only during
-                    conferences but also outside of them.
+                    İnternetten satış yapmayı planlayan ya da mevcut e-ticaret
+                    sistemini güçlendirmek isteyen işletmeler için özel çözümler
+                    sunuyoruz.
                   </p>
-                  <Link
-                    href="#"
-                    className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more"
-                  >
-                    <svg
-                      className="plus"
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={16}
-                      height={16}
-                      viewBox="0 0 16 16"
-                      fill="none"
-                    >
-                      <g clipPath="url(#)">
-                        <path
-                          className="fill-dark"
-                          d="M15.375 7.375H8.625V0.625C8.625 0.279813 8.34519 0 8 0C7.65481 0 7.375 0.279813 7.375 0.625V7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H7.375V15.375C7.375 15.7202 7.65481 16 8 16C8.34519 16 8.625 15.7202 8.625 15.375V8.625H15.375C15.7202 8.625 16 8.34519 16 8C16 7.65481 15.7202 7.375 15.375 7.375Z"
-                          fill="#111827"
-                        />
-                      </g>
-                    </svg>
-                    <svg
-                      className="arrow"
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={18}
-                      height={10}
-                      viewBox="0 0 18 10"
-                      fill="none"
-                    >
-                      <path
-                        className="fill-dark"
-                        d="M13.0633 0.0634766L12.2615 0.86529L15.8294 4.43321H0V5.56716H15.8294L12.2615 9.13505L13.0633 9.93686L18 5.00015L13.0633 0.0634766Z"
-                        fill="#111827"
-                      />
-                    </svg>
-                    <span className="fw-bold fs-7 text-900">Learm More</span>
-                  </Link>
                 </div>
               </div>
               <div
@@ -457,88 +331,14 @@ const page = () => {
                     src="/assets/imgs/features-4/icon-4.svg"
                     alt="infinia"
                   />
-                  <h6 className="my-3 fs-5">Smart Meeting</h6>
+                  <h6 className="my-3 fs-5">Dijital Pazarlama ve SEO</h6>
                   <p className="mb-6">
-                    Promptly solve urgent work issues! Create personal and group
-                    chats that allow for exchanging messages not only during
-                    conferences but also outside of them.
+                    İnternetin gücünden tam anlamıyla faydalanabilmek için
+                    etkili dijital pazarlama stratejileri gereklidir. Millenium
+                    Yazılım, markaların çevrimiçi görünürlüğünü artırmak için
+                    SEO, içerik pazarlama, sosyal medya yönetimi ve dijital
+                    reklam çözümleri sunuyor.
                   </p>
-                  <Link
-                    href="#"
-                    className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more"
-                  >
-                    <svg
-                      className="plus"
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={16}
-                      height={16}
-                      viewBox="0 0 16 16"
-                      fill="none"
-                    >
-                      <g clipPath="url(#)">
-                        <path
-                          className="fill-dark"
-                          d="M15.375 7.375H8.625V0.625C8.625 0.279813 8.34519 0 8 0C7.65481 0 7.375 0.279813 7.375 0.625V7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H7.375V15.375C7.375 15.7202 7.65481 16 8 16C8.34519 16 8.625 15.7202 8.625 15.375V8.625H15.375C15.7202 8.625 16 8.34519 16 8C16 7.65481 15.7202 7.375 15.375 7.375Z"
-                          fill="#111827"
-                        />
-                      </g>
-                    </svg>
-                    <svg
-                      className="arrow"
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={18}
-                      height={10}
-                      viewBox="0 0 18 10"
-                      fill="none"
-                    >
-                      <path
-                        className="fill-dark"
-                        d="M13.0633 0.0634766L12.2615 0.86529L15.8294 4.43321H0V5.56716H15.8294L12.2615 9.13505L13.0633 9.93686L18 5.00015L13.0633 0.0634766Z"
-                        fill="#111827"
-                      />
-                    </svg>
-                    <span className="fw-bold fs-7 text-900">Learm More</span>
-                  </Link>
-                </div>
-              </div>
-            </div>
-            <div className="row mt-8">
-              <div className="col-lg-7">
-                <div className="d-flex align-items-center justify-content-lg-end justify-content-center">
-                  <Link href="#" className="btn btn-gradient">
-                    Get Free Quote
-                    <svg
-                      className="ms-2"
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={24}
-                      height={24}
-                      viewBox="0 0 24 24"
-                      fill="none"
-                    >
-                      <path
-                        className="stroke-white"
-                        d="M17.25 15.25V6.75H8.75"
-                        stroke="white"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                      <path
-                        className="stroke-white"
-                        d="M17 7L6.75 17.25"
-                        stroke="white"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  </Link>
-                  <Link
-                    href="#"
-                    className="ms-5 text-decoration-underline fw-bold"
-                  >
-                    How We Work
-                  </Link>
                 </div>
               </div>
             </div>

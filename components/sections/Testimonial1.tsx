@@ -69,14 +69,13 @@ export default function Testimonial1() {
                 data-aos-delay={100}
               >
                 <p className="text-900">
-                  The team's dedication and expertise have transformed our
-                  business.{" "}
+                  Ekibin özverisi ve uzmanlığı işimizi dönüştürdü.{" "}
                   <span className="fw-bold">
-                    Their innovative solutions and outstanding support
+                    Yenilikçi çözümleri ve olağanüstü desteği
                   </span>{" "}
-                  have significantly boosted our productivity and client
-                  satisfaction. Allowing us to streamline our processes and
-                  focus on what matters most.
+                  üretkenliğimizi ve müşteri memnuniyetimizi önemli ölçüde
+                  artırdı. Süreçlerimizi düzene koymamızı ve en önemli olana
+                  odaklanmamızı sağladı.
                 </p>
                 <div className="d-flex align-items-center mt-5">
                   <img
@@ -85,13 +84,9 @@ export default function Testimonial1() {
                     alt="infinia"
                   />
                   <div className="d-flex flex-column">
-                    <h6 className="ms-3 fs-6 mb-0">Kathryn Murphy</h6>
+                    <h6 className="ms-3 fs-6 mb-0">A** G**</h6>
                     <div className="flag ms-3">
-                      <img
-                        src="/assets/imgs/testimonial-1/flag-1.png"
-                        alt="infinia"
-                      />
-                      <span className="fs-8">CEO of Tech Innovators Inc</span>
+                      <span className="fs-8">Müşteri</span>
                     </div>
                   </div>
                 </div>
@@ -106,16 +101,17 @@ export default function Testimonial1() {
                 data-aos-delay={200}
               >
                 <p className="text-900">
-                  Our collaboration with the team has been instrumental in
-                  optimizing our project management processes.{" "}
+                  Ekibimizle olan iş birliğimiz proje yönetimi süreçlerimizi
+                  optimize etmekte etkili oldu.{" "}
                   <span className="fw-bold">
-                    The extensive selection of over 1200 UI blocks has allowed
-                    us to customize our project interfaces to meet specific
-                    client needs effectively.
+                    1200'den fazla kullanıcı arayüzü bloğunun kapsamlı seçimi,
+                    proje arayüzlerimizi belirli müşteri ihtiyaçlarını etkili
+                    bir şekilde karşılayacak şekilde özelleştirmemize olanak
+                    sağladı.
                   </span>{" "}
-                  The generous 10 GB of cloud storage has provided ample space
-                  for storing project files securely, enabling seamless
-                  collaboration across distributed teams.
+                  Cömert 10 GB bulut depolama alanı, proje dosyalarını güvenli
+                  bir şekilde depolamak için yeterli alan sağladı ve dağıtılmış
+                  ekipler arasında sorunsuz iş birliğine olanak sağladı.
                 </p>
                 <div className="d-flex align-items-center mt-5">
                   <img
@@ -124,13 +120,9 @@ export default function Testimonial1() {
                     alt="infinia"
                   />
                   <div className="d-flex flex-column">
-                    <h6 className="ms-3 fs-6 mb-0">Emily Davis</h6>
+                    <h6 className="ms-3 fs-6 mb-0">E** D**</h6>
                     <div className="flag ms-3">
-                      <img
-                        src="/assets/imgs/testimonial-1/flag-2.png"
-                        alt="infinia"
-                      />
-                      <span className="fs-8">Software Engineer</span>
+                      <span className="fs-8">Müşteri</span>
                     </div>
                   </div>
                 </div>
@@ -147,16 +139,13 @@ export default function Testimonial1() {
                 data-aos-delay={300}
               >
                 <p className="text-900">
-                  The individual email account feature has improved internal
-                  communication clarity and professionalism. Moreover, the
-                  premium support team's responsiveness and expertise have
-                  ensured minimal{" "}
-                  <span className="fw-bold">
-                    disruptions and quick resolutions
-                  </span>{" "}
-                  to any technical challenges we've faced. I highly recommend
-                  their services for any enterprise seeking robust SaaS
-                  solutions,
+                  Bireysel e-posta hesabı özelliği, dahili iletişim netliğini ve
+                  profesyonelliği iyileştirdi. Dahası, premium destek ekibinin
+                  duyarlılığı ve uzmanlığı, karşılaştığımız herhangi bir teknik
+                  zorluğa minimum{" "}
+                  <span className="fw-bold">kesinti ve hızlı çözümler</span>{" "}
+                  sağladı. Sağlam SaaS çözümleri arayan her kuruluşa
+                  hizmetlerini şiddetle tavsiye ediyorum,
                 </p>
                 <div className="d-flex align-items-center mt-5">
                   <img
@@ -165,13 +154,9 @@ export default function Testimonial1() {
                     alt="infinia"
                   />
                   <div className="d-flex flex-column">
-                    <h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
+                    <h6 className="ms-3 fs-6 mb-0">S** T**</h6>
                     <div className="flag ms-3">
-                      <img
-                        src="/assets/imgs/testimonial-1/flag-3.png"
-                        alt="infinia"
-                      />
-                      <span className="fs-8">Marketing Director</span>
+                      <span className="fs-8">Müşteri</span>
                     </div>
                   </div>
                 </div>
@@ -186,15 +171,15 @@ export default function Testimonial1() {
                 data-aos-delay={400}
               >
                 <p className="text-900">
-                  Our experience with this team has surpassed our expectations
-                  on every front.{" "}
+                  Bu ekiple yaşadığımız deneyim, her açıdan beklentilerimizi
+                  aştı.{" "}
                   <span className="fw-bold">
-                    The comprehensive suite of over 1200 UI blocks has enabled
-                    us to craft highly functional
+                    1200'den fazla kullanıcı arayüzü bloğundan oluşan kapsamlı
+                    paket, hedef kitlemizle uyumlu, son derece işlevsel
                   </span>{" "}
-                  and aesthetically pleasing user interfaces that resonate with
-                  our target audience. Equally impressive is the premium support
-                  team's proactive approach.
+                  ve estetik açıdan hoş kullanıcı arayüzleri oluşturmamızı
+                  sağladı. Aynı şekilde etkileyici olan, premium destek ekibinin
+                  proaktif yaklaşımıdır.
                 </p>
                 <div className="d-flex align-items-center mt-5">
                   <img
@@ -203,13 +188,9 @@ export default function Testimonial1() {
                     alt="infinia"
                   />
                   <div className="d-flex flex-column">
-                    <h6 className="ms-3 fs-6 mb-0">Emily Adams</h6>
+                    <h6 className="ms-3 fs-6 mb-0">E** A**</h6>
                     <div className="flag ms-3">
-                      <img
-                        src="/assets/imgs/testimonial-1/flag-4.png"
-                        alt="infinia"
-                      />
-                      <span className="fs-8">Software Engineer</span>
+                      <span className="fs-8">Müşteri</span>
                     </div>
                   </div>
                 </div>
