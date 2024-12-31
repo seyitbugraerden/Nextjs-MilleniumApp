@@ -9,7 +9,7 @@ const page = () => {
           <div className="text-start">
             <h3>Bizimle İletişime Geçin</h3>
             <div className="d-flex">
-              <Link href="#">
+              <Link href="/">
                 <p className="mb-0 text-900">Ana Sayfa</p>
               </Link>
               <svg

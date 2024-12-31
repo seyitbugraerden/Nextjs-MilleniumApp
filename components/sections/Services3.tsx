@@ -46,9 +46,9 @@ export default function Services3() {
 					<div className="text-center">
 						<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
 							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
-							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
+							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Çözümlerimiz</span>
 						</div>
-						<h3 className="ds-3 my-3 fw-regular">The Leading <span className=" fw-bold">IT Solutions <br className="d-lg-block d-none" /> Company</span> For You</h3>
+						<h3 className="ds-3 my-3 fw-regular">Dijital Sorunlarınıza <br /> <span className=" fw-bold">En Başarılı Çözümler</span></h3>
 					</div>
 					<div className="row mt-6 position-relative">
 						<Swiper {...swiperOptions}
