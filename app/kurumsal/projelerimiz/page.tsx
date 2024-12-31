@@ -1,3 +1,4 @@
+import Services5 from "@/components/sections/Services5";
 import Link from "next/link";
 import React from "react";
 
@@ -66,6 +67,8 @@ const page = () => {
           </div>
         </div>
       </section>
+
+      <Services5 />
     </>
   );
 };

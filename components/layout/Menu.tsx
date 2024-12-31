@@ -5,7 +5,7 @@ export default function Menu() {
     <>
       <div className="d-none d-lg-flex">
         <ul className="navbar-nav mx-auto gap-4 align-items-lg-center py-2">
-          <li className="nav-item dropdown menu-item-has-children">
+          <li className="nav-item">
             <Link
               className="nav-link fw-bold d-flex align-items-center"
               href="/"
