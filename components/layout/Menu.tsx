@@ -338,17 +338,81 @@ export default function Menu() {
                 <li className="position-relative border-bottom z-1">
                   <Link
                     className="dropdown-item position-relative z-1 d-flex align-items-start"
-                    href="#"
+                    href="/hizmetlerimiz/web-tasarim-ve-gelistirme"
                   >
-                    Hakkımızda
+                    Web Tasarımı ve Geliştirme
                   </Link>
                 </li>
                 <li className="position-relative z-1">
                   <Link
                     className="dropdown-item position-relative z-1 d-flex align-items-start"
-                    href="#"
+                    href="/hizmetlerimiz/mobil-uygulama-cozumleri"
                   >
-                    Misyon ve Vizyon
+                    Mobil Uygulama Çözümleri
+                  </Link>
+                </li>
+                <li className="position-relative z-1">
+                  <Link
+                    className="dropdown-item position-relative z-1 d-flex align-items-start"
+                    href="/hizmetlerimiz/e-ticaret-cozumleri"
+                  >
+                    E-Ticaret Çözümleri
+                  </Link>
+                </li>
+                <li className="position-relative z-1">
+                  <Link
+                    className="dropdown-item position-relative z-1 d-flex align-items-start"
+                    href="/hizmetlerimiz/sosyal-medya-yonetimi"
+                  >
+                    Sosyal Medya Yönetimi
+                  </Link>
+                </li>
+                <li className="position-relative z-1">
+                  <Link
+                    className="dropdown-item position-relative z-1 d-flex align-items-start"
+                    href="/hizmetlerimiz/seo-ve-dijital-pazarlama"
+                  >
+                    SEO ve Dijital Pazarlama
+                  </Link>
+                </li>
+                <li className="position-relative z-1">
+                  <Link
+                    className="dropdown-item position-relative z-1 d-flex align-items-start"
+                    href="/hizmetlerimiz/marka-yonetimi-ve-strateji"
+                  >
+                    Marka Yönetimi ve Strateji
+                  </Link>
+                </li>
+                <li className="position-relative z-1">
+                  <Link
+                    className="dropdown-item position-relative z-1 d-flex align-items-start"
+                    href="/hizmetlerimiz/crm-cozumleri"
+                  >
+                    CRM Çözümleri
+                  </Link>
+                </li>
+                <li className="position-relative z-1">
+                  <Link
+                    className="dropdown-item position-relative z-1 d-flex align-items-start"
+                    href="/hizmetlerimiz/kurumsal-web-sitesi-cozumleri"
+                  >
+                    Kurumsal Web Sitesi Çözümleri
+                  </Link>
+                </li>
+                <li className="position-relative z-1">
+                  <Link
+                    className="dropdown-item position-relative z-1 d-flex align-items-start"
+                    href="/hizmetlerimiz/web-uygulama-gelistirme"
+                  >
+                    Web Uygulama Geliştirme
+                  </Link>
+                </li>
+                <li className="position-relative z-1">
+                  <Link
+                    className="dropdown-item position-relative z-1 d-flex align-items-start"
+                    href="/hizmetlerimiz/logo-ve-grafik-tasarim"
+                  >
+                    Logo ve Grafik Tasarım
                   </Link>
                 </li>
               </ul>
