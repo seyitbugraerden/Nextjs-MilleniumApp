@@ -269,7 +269,7 @@ export default function Menu() {
           <li className="nav-item dropdown menu-item-has-children">
             <Link
               className="nav-link fw-bold d-flex align-items-center"
-              href="/kurumsal"
+              href="#"
               role="button"
               data-bs-toggle="dropdown"
               aria-expanded="false"
