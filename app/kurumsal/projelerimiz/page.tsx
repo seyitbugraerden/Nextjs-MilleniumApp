@@ -1,9 +1,18 @@
+import { metadatas } from "@/app/metadata/metadata";
+import { Metadata } from "next";
 import dynamic from "next/dynamic";
 import Link from "next/link";
 import React from "react";
 const Services5 = dynamic(() => import("@/components/sections/Services5"), {
   ssr: false,
 });
+
+export const metadata: Metadata = {
+  title: metadatas.projelerimiz.title,
+  description: metadatas.projelerimiz.description,
+  alternates: { canonical: metadatas.projelerimiz.canonical },
+};
+
 const page = () => {
   return (
     <>

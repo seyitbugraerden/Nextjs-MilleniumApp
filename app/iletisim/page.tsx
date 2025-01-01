@@ -1,5 +1,13 @@
+import { Metadata } from "next";
 import Link from "next/link";
 import React from "react";
+import { metadatas } from "../metadata/metadata";
+
+export const metadata: Metadata = {
+  title: metadatas.iletisim.title,
+  description: metadatas.iletisim.description,
+  alternates: { canonical: metadatas.iletisim.canonical },
+};
 
 const page = () => {
   return (

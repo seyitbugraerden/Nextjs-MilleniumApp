@@ -1,9 +1,15 @@
+import { metadatas } from "@/app/metadata/metadata";
 import LogoCloud3 from "@/components/sections/LogoCloud3";
 import Testimonial1 from "@/components/sections/Testimonial1";
-import Testimonial2 from "@/components/sections/Testimonial2";
-import Testimonial3 from "@/components/sections/Testimonial3";
+import { Metadata } from "next";
 import Link from "next/link";
 import React from "react";
+
+export const metadata: Metadata = {
+  title: metadatas.referanslarimiz.title,
+  description: metadatas.referanslarimiz.description,
+  alternates: { canonical: metadatas.referanslarimiz.canonical },
+};
 
 const page = () => {
   return (

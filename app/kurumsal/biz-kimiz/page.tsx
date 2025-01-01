@@ -1,8 +1,16 @@
+import { metadatas } from "@/app/metadata/metadata";
 import Cta6 from "@/components/sections/Cta6";
 import Features8 from "@/components/sections/Features8";
 import LogoCloud4 from "@/components/sections/LogoCloud4";
+import { Metadata } from "next";
 import Link from "next/link";
 import React from "react";
+
+export const metadata: Metadata = {
+  title: metadatas.bizKimiz.title,
+  description: metadatas.bizKimiz.description,
+  alternates: { canonical: metadatas.bizKimiz.canonical },
+};
 
 const page = () => {
   return (

@@ -1,10 +1,14 @@
-"use client";
+import { metadatas } from "@/app/metadata/metadata";
+import { Metadata } from "next";
 import Link from "next/link";
-import React, { useState } from "react";
-import ModalVideo from "react-modal-video";
+
+export const metadata: Metadata = {
+  title: metadatas.cozumlerimiz.title,
+  description: metadatas.cozumlerimiz.description,
+  alternates: { canonical: metadatas.cozumlerimiz.canonical },
+};
 
 const page = () => {
-  const [isOpen, setOpen] = useState<boolean>(false);
   return (
     <>
       <section className="section-page-header py-10 fix position-relative">

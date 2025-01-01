@@ -1,5 +1,13 @@
+import { metadatas } from "@/app/metadata/metadata";
+import { Metadata } from "next";
 import Link from "next/link";
 import React from "react";
+
+export const metadata: Metadata = {
+  title: metadatas.misyonVizyon.title,
+  description: metadatas.misyonVizyon.description,
+  alternates: { canonical: metadatas.misyonVizyon.canonical },
+};
 
 const page = () => {
   return (
