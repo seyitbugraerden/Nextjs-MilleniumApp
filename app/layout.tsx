@@ -15,7 +15,9 @@ import type { Metadata } from "next";
 import Layout from "@/components/layout/Layout";
 export const metadata: Metadata = {
   title: "Millenium Yazılım | Web, Mobil Uygulama ve Dijital Çözümler",
-  description: "Millenium Yazılım, web ve mobil uygulama çözümleri, profesyonel marka yönetimi, sosyal medya yönetimi ve CRM hizmetleri sunarak işinizi dijital dünyada güçlendirir.
+  description:
+    "Millenium Yazılım, web ve mobil uygulama çözümleri, profesyonel marka yönetimi, sosyal medya yönetimi ve CRM hizmetleri sunarak işinizi dijital dünyada güçlendirir.",
+};
 
 export default function RootLayout({
   children,
