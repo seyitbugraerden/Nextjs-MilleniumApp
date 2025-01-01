@@ -13,10 +13,12 @@ import { Analytics } from "@vercel/analytics/react";
 
 import type { Metadata } from "next";
 import Layout from "@/components/layout/Layout";
+import { metadatas } from "./metadata/metadata";
+
 export const metadata: Metadata = {
-  title: "Millenium Yazılım | Web, Mobil Uygulama ve Dijital Çözümler",
-  description:
-    "Millenium Yazılım, web ve mobil uygulama çözümleri, profesyonel marka yönetimi, sosyal medya yönetimi ve CRM hizmetleri sunarak işinizi dijital dünyada güçlendirir.",
+  title: metadatas.home.title,
+  description: metadatas.home.description,
+  alternates: { canonical: metadatas.home.canonical },
 };
 
 export default function RootLayout({

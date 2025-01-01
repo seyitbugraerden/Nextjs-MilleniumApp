@@ -35,4 +35,10 @@ export const metadatas = {
       "Millenium Yazılım ile iletişime geçerek dijital çözümlerimiz hakkında detaylı bilgi alabilir ve işbirliği fırsatlarını keşfedebilirsiniz.",
     canonical: "https://milleniumyazilim.com/kurumsal/iletisim",
   },
+  home: {
+    title: "Millenium Yazılım | Dijital Çözümlerle Geleceği Şekillendirin",
+    description:
+      "Millenium Yazılım, yenilikçi web ve mobil uygulama çözümleri, profesyonel marka yönetimi ve CRM hizmetleriyle işletmenizin dijital dünyada öne çıkmasını sağlar.",
+    canonical: "https://milleniumyazilim.com/",
+  },
 };
