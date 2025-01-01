@@ -9,6 +9,7 @@ import "/public/assets/fonts/boxicons/boxicons.min.css";
 import "/public/assets/fonts/satoshi/satoshi.css";
 import "/public/assets/css/main.css";
 import "@/node_modules/react-modal-video/css/modal-video.css";
+import { Analytics } from "@vercel/analytics/react";
 
 import type { Metadata } from "next";
 import Layout from "@/components/layout/Layout";
@@ -26,6 +27,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <Analytics />
         <Layout headerStyle={1} footerStyle={2}>
           {children}
         </Layout>

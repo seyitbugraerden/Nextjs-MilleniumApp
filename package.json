@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.4.1",
     "aos": "^2.3.4",
     "isotope-layout": "^3.0.6",
     "next": "^14.2.13",
