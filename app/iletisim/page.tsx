@@ -309,7 +309,7 @@ const page = () => {
                         className="ms-2 text-decoration-underline text-900 fs-7"
                         href="#"
                       >
-                        support@infinia.com
+                        support@milleniumyazilim.com.tr
                       </Link>
                     </div>
                     <div className="d-flex mb-2 mb-5">
@@ -321,12 +321,12 @@ const page = () => {
                         className="ms-2 text-decoration-underline text-900 fs-7"
                         href="#"
                       >
-                        sale@infinia.com
+                        sale@milleniumyazilim.com.tr
                       </Link>
                     </div>
                     <h6>Daha fazla bilgi için</h6>
                     <p className="text-500">Hemen yardıma ulaşın</p>
-                    <div className="d-flex mb-2">
+                    {/*  <div className="d-flex mb-2">
                       <img
                         src="/assets/imgs/contact-2/icon-5.svg"
                         alt="infinia"
@@ -337,7 +337,7 @@ const page = () => {
                       >
                         +90 (524) 568 90 00
                       </Link>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
@@ -361,10 +361,10 @@ const page = () => {
                 </div>
                 <h6>Yardım</h6>
                 <p className="text-500">
-                  E-Posta{" "}
-                  <span className="text-900">support@alithemes.com</span> Mevcut
-                  bir ürün veya hizmetle ilgili yardım için <br /> SSS sayfamıza
-                  bakın
+                  Mevcut bir ürün veya hizmetle ilgili yardım için <br />
+                  <span className="text-900">
+                    support@milleniumyazilim.com.tr
+                  </span>{" "}
                 </p>
               </div>
             </div>
@@ -381,8 +381,6 @@ const page = () => {
                 <h6>Bizi Arayın</h6>
                 <p className="text-500">
                   Ekibimizin bir üyesiyle görüşmek için bizi arayın. <br />
-                  (+90) 234 567 89 89 <br />
-                  (+90) 456 789 21 21
                 </p>
               </div>
             </div>
@@ -401,7 +399,6 @@ const page = () => {
                   İşbirliği projeleri hakkında satış departmanıyla iletişime
                   geçin
                   <br />
-                  (+90) 789 456 23 23
                 </p>
               </div>
             </div>
@@ -419,8 +416,6 @@ const page = () => {
                 <p className="text-500">
                   You can use WhatsApp for any calls or messages.
                   <br />
-                  (+90) 234 567 89 89 <br />
-                  (+90) 456 789 23 23
                 </p>
               </div>
             </div>
@@ -430,10 +425,13 @@ const page = () => {
       <div className="container pb-120">
         <div className="contact-map w-100">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.332792000835!2d144.96011341744386!3d-37.805673299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sbd!4v1685027435635!5m2!1sen!2sbd"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3060.3450920299256!2d32.809714912446566!3d39.911292871406545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d34f4c6ffc6111%3A0x4b7e97f55bdf4a42!2zS8SxesSxbMSxcm1haywgRHVtbHVwxLFuYXIgQmx2LiBObzozIEthdDoxNiBEYWlyZTo4MCwgMDY1MTAgw4dhbmtheWEvQW5rYXJh!5e0!3m2!1str!2str!4v1735722246762!5m2!1str!2str"
+            width="600"
+            height="450"
             allowFullScreen
             loading="lazy"
-          />
+            referrerPolicy="no-referrer-when-downgrade"
+          ></iframe>
         </div>
       </div>
     </>
