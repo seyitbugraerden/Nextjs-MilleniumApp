@@ -109,7 +109,7 @@ const page = () => {
                 </div>
                 <h1 className="fs-1">Vizyonumuz</h1>
                 <p>
-                  Millenium Digital, dijital dönüşümde öncü olmayı ve
+                  Millenium Yazılım, dijital dönüşümde öncü olmayı ve
                   teknolojiyi verimli bir şekilde kullanarak işletmelerin
                   büyümesine katkıda bulunmayı vizyon edinmiştir. Yenilikçi
                   çözümlerimizle globalde tanınan bir marka olmayı, sektörümüzde

@@ -27,7 +27,7 @@ export default function Cta6() {
                   Dijital Geleceğinizi Birlikte İnşa Ediyoruz
                 </h1>
                 <p>
-                  Millenium Digital olarak, markaların dijital dünyadaki
+                  Millenium Yazılım olarak, markaların dijital dünyadaki
                   potansiyellerini en üst seviyeye taşımak için yenilikçi
                   çözümler üretiyoruz. Web sitesi tasarımı, mobil uygulama
                   geliştirme, sosyal medya yönetimi, e-ticaret çözümleri ve CRM
@@ -43,7 +43,7 @@ export default function Cta6() {
                 </p>
                 <p>
                   Dijital varlığınızı güçlendirmek ve hedeflerinize daha hızlı
-                  ulaşmak için Millenium Digital ile tanışın. Geleceği birlikte
+                  ulaşmak için Millenium Yazılım ile tanışın. Geleceği birlikte
                   inşa edelim!
                 </p>
               </div>

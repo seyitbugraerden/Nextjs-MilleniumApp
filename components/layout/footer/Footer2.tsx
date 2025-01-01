@@ -16,7 +16,7 @@ export default function Footer2() {
                     <img src="/logo.svg" alt="infinia" width={200} />
                   </Link>
                   <p className="text-900 fw-medium mt-3 mb-6 opacity-50">
-                    Millenium Digital, markaların dijital potansiyellerini
+                    Millenium Yazılım, markaların dijital potansiyellerini
                     artırmak için yenilikçi çözümler sunar.
                   </p>
                   <div className="d-flex social-icons">
