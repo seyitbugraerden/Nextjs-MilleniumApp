@@ -60,7 +60,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
                       >
                         <i className="arrow-small-down"></i>
                       </span>
-                      <div>Kurumsal</div>
+                      <div onClick={() => handleAccordion(2)}>Kurumsal</div>
                       <ul
                         className="sub-menu"
                         style={{
@@ -103,7 +103,9 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
                       >
                         <i className="arrow-small-down"></i>
                       </span>
-                      <Link href="#">Hizmetlerimiz</Link>
+                      <div onClick={() => handleAccordion(3)}>
+                        Hizmetlerimiz
+                      </div>
                       <ul
                         className="sub-menu"
                         style={{
