@@ -130,7 +130,7 @@ export default function HowItWork1() {
                     href="/iletisim"
                     className="btn btn-gradient d-none d-md-block rounded-4"
                   >
-                    Jİletişime Geç
+                    İletişime Geç
                     <svg
                       className="ms-2"
                       xmlns="http://www.w3.org/2000/svg"
