@@ -75,7 +75,7 @@ export default function Cta8() {
                 <div className="position-relative z-1 d-inline-block mb-lg-0 mb-8">
                   <img
                     className="rounded-4 position-relative z-1"
-                    src="/assets/imgs/cta-5/img-1.png"
+                    src="/assets/imgs/cta-5/img-1.webp"
                     alt="infinia"
                   />
                   <div className="alltuchtopdown tag-year position-absolute backdrop-filter bg-primary rounded-4 px-4 py-5 text-center z-1">

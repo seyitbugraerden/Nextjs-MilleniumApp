@@ -55,7 +55,7 @@ export default function Hero2() {
               </div>
               <div className="mt-10 mt-md-8 position-relative z-1  text-900">
                 <img
-                  src="/assets/imgs/hero-2/macbook.png"
+                  src="/assets/imgs/hero-2/macbook.webp"
                   alt="infinia"
                   data-aos="fade-up"
                   data-aos-delay={100}

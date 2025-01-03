@@ -120,7 +120,7 @@ export default function HowItWork1() {
             <div className="position-relative d-inline-block">
               <img
                 className="rounded-3 w-100 img-fluid"
-                src="/assets/imgs/howitwork-1/img-bg.png"
+                src="/assets/imgs/howitwork-1/img-bg.webp"
                 alt="infinia"
               />
               <div className="bg-linear-primary rounded-3 position-absolute top-0 start-0 w-75 h-100" />

@@ -20,7 +20,7 @@ export default function Cta5() {
 						<div className="row align-items-center">
 							<div className="col-lg-6 text-lg-start text-center">
 								<div className="position-relative z-1 d-inline-block mb-lg-0 mb-8">
-									<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-5/img-1.png" alt="infinia" />
+									<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-5/img-1.webp" alt="infinia" />
 									<div className="position-absolute bottom-0 start-md-100 start-0 translate-middle-md-x mb-md-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2">Loved by over 4k <br /> happy clients</p>
 										<div className="d-flex align-items-center justify-content-center py-4">
