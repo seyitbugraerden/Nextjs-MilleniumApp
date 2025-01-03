@@ -54,10 +54,10 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 					</div>
 				</div>
 				<div className="offCanvas__social-icon mt-30">
-					<Link href="/javascript:void(0)"><i className="fab fa-facebook-f" /></Link>
-					<Link href="/javascript:void(0)"><i className="fab fa-twitter" /></Link>
-					<Link href="/javascript:void(0)"><i className="fab fa-google-plus-g" /></Link>
-					<Link href="/javascript:void(0)"><i className="fab fa-instagram" /></Link>
+					<Link href="#"><i className="fab fa-facebook-f" /></Link>
+					<Link href="#"><i className="fab fa-twitter" /></Link>
+					<Link href="#"><i className="fab fa-google-plus-g" /></Link>
+					<Link href="#"><i className="fab fa-instagram" /></Link>
 				</div>
 			</div>
 			<div className={`offCanvas__overly ${isOffCanvas ? 'active' : ''}`}  onClick={handleOffCanvas}/>
