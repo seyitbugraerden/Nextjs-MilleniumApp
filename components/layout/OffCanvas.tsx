@@ -45,12 +45,12 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 					</div>
 					<div className="contact-list mb-30">
 						<h4>Business Emails</h4>
-						<p><Link href="/mailto:contact@alithemes.com">contact@alithemes.com</Link></p>
-						<p><Link href="/mailto:sale@alithemes.com ">sale@alithemes.com </Link></p>
+						<p><Link href="#">contact@alithemes.com</Link></p>
+						<p><Link href="#">sale@alithemes.com </Link></p>
 					</div>
 					<div className="contact-list mb-30">
 						<h4>Help  support</h4>
-						<p>Email <Link href="/mailto:support@alithemes.com">support@alithemes.com</Link> For help with a current product or service or refer to FAQs and developer tools.</p>
+						<p>Email <Link href="#">support@alithemes.com</Link> For help with a current product or service or refer to FAQs and developer tools.</p>
 					</div>
 				</div>
 				<div className="offCanvas__social-icon mt-30">

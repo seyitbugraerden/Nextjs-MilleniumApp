@@ -34,7 +34,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, isSear
 										<path d="M10 7.16667V10.5L11.6667 12.1667" stroke="#6B7280" strokeWidth="1.5" />
 									</svg>
 									<span className="text-900 pe-3 ps-1 fs-7">Mon-Fri: 10:00am - 09:00pm</span>
-									<a href="mailto:contact@infinia.com" className="ps-4">
+									<a href="#" className="ps-4">
 										<svg xmlns="http://www.w3.org/2000/svg" width={20} height={21} viewBox="0 0 20 21" fill="none">
 											<path d="M3.9585 6.95834C3.9585 6.03786 4.70469 5.29167 5.62516 5.29167H14.3752C15.2957 5.29167 16.0418 6.03786 16.0418 6.95834V14.0417C16.0418 14.9622 15.2957 15.7083 14.3752 15.7083H5.62516C4.70469 15.7083 3.9585 14.9622 3.9585 14.0417V6.95834Z" stroke="#6B7280" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 											<path d="M4.5835 5.91667L10.0002 10.7083L15.4168 5.91667" stroke="#6B7280" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
