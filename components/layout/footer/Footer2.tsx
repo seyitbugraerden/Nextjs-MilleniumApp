@@ -128,7 +128,7 @@ export default function Footer2() {
                         </Link>
                         <Link
                           className="hover-effect text-900 mb-2 fw-medium fs-6 text-start"
-                          href="/hizmetlerimiz/marka-yoneticisi-ve-strateji"
+                          href="/hizmetlerimiz/marka-yonetimi-ve-stratejileri"
                         >
                           Marka Yönetimi ve Strateji
                         </Link>

@@ -138,8 +138,8 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
                           </Link>
                         </li>
                         <li>
-                          <Link href="/hizmetlerimiz/marka-yoneticisi-ve-strateji">
-                            Marka Yönetimi ve Strateji
+                          <Link href="/hizmetlerimiz/marka-yonetimi-ve-stratejileri">
+                            Marka Yönetimi ve Stratejileri
                           </Link>
                         </li>
                         <li>

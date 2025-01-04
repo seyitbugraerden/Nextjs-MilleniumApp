@@ -55,16 +55,16 @@ export const SwiperCards = ({ selectedService }: { selectedService: any }) => {
           >
             <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
             <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
-              {selectedService.title}
+              {selectedService?.title}
             </span>
           </div>
           <h3 className="ds-3 my-3 fw-regular">
-            {selectedService.description.split("//")[0]}
+            {selectedService?.description.split("//")[0]}
             <span className=" fw-bold">
-              {selectedService.description.split("//")[1]}
+              {selectedService?.description.split("//")[1]}
               <br className="d-lg-block d-none" />
             </span>{" "}
-            {selectedService.description.split("//")[2]}
+            {selectedService?.description.split("//")[2]}
           </h3>
         </div>
         <div className="row mt-6 position-relative">
@@ -74,7 +74,7 @@ export const SwiperCards = ({ selectedService }: { selectedService: any }) => {
             modules={[Keyboard, Autoplay, Pagination, Navigation]}
           >
             <div className="swiper-wrapper">
-              {selectedService.utils.map((x: any, idx: number) => (
+              {selectedService?.utils.map((x: any, idx: number) => (
                 <SwiperSlide key={idx} className="swiper-slide">
                   <div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
                     <div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 ms-3">

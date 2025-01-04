@@ -443,10 +443,10 @@ export const services = [
     },
   },
   {
-    id: "marka-yonetimi-ve-strateji",
-    title: "Marka Yönetimi ve Strateji",
+    id: "marka-yonetimi-ve-stratejileri",
+    title: "Marka Yönetimi ve Stratejiler",
     metaTitle:
-      "Başarılı Marka Yönetim ve Stratejileri | Millenium Yazılım",
+      "Başarılı Marka Yönetimi ve Stratejileri | Millenium Yazılım",
     metaDesc:
       "Millenium Yazılım, marka yönetimi ve strateji geliştirme hizmetleri ile markanızı güçlendirir, hedef kitlenizle etkili bir bağ kurarak uzun vadeli başarı sağlar.",
     subTitle: "Hizmette Öncelikli İlkelerimiz",

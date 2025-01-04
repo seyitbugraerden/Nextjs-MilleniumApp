@@ -13,13 +13,13 @@ export default function HowItWork2({
             <div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
               <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
               <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
-                {selectedService.how.title}
+                {selectedService?.how.title}
               </span>
             </div>
             <h3 className="ds-3 my-3 fw-black">
-              {selectedService.how.subTitle}
+              {selectedService?.how.subTitle}
             </h3>
-            <p className="fs-5 mb-0">{selectedService.how.description}</p>
+            <p className="fs-5 mb-0">{selectedService?.how.description}</p>
           </div>
         </div>
         <div className="position-absolute top-0 start-50 translate-middle-x z-0">
@@ -37,9 +37,9 @@ export default function HowItWork2({
                     />
                   </div>
                 </div>
-                <h5 className="my-3">{selectedService.how.step_one.title}</h5>
+                <h5 className="my-3">{selectedService?.how.step_one.title}</h5>
                 <p className="mb-6">
-                  {selectedService.how.step_one.description}
+                  {selectedService?.how.step_one.description}
                 </p>
               </div>
             </div>
@@ -53,9 +53,9 @@ export default function HowItWork2({
                     />
                   </div>
                 </div>
-                <h5 className="my-3">{selectedService.how.step_two.title}</h5>
+                <h5 className="my-3">{selectedService?.how.step_two.title}</h5>
                 <p className="mb-6">
-                  {selectedService.how.step_two.description}
+                  {selectedService?.how.step_two.description}
                 </p>
               </div>
             </div>
@@ -69,9 +69,9 @@ export default function HowItWork2({
                     />
                   </div>
                 </div>
-                <h5 className="my-3">{selectedService.how.step_three.title}</h5>
+                <h5 className="my-3">{selectedService?.how.step_three.title}</h5>
                 <p className="mb-6">
-                  {selectedService.how.step_three.description}
+                  {selectedService?.how.step_three.description}
                 </p>
               </div>
             </div>

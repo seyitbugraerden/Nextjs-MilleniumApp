@@ -126,9 +126,9 @@ export default function Menu() {
                 <li className="position-relative z-1">
                   <Link
                     className="dropdown-item position-relative z-1 d-flex align-items-start"
-                    href="/hizmetlerimiz/marka-yonetimi-ve-strateji"
+                    href="/hizmetlerimiz/marka-yonetimi-ve-stratejileri"
                   >
-                    Marka Yönetimi ve Strateji
+                    Marka Yönetimi ve Stratejileri
                   </Link>
                 </li>
                 <li className="position-relative z-1">
