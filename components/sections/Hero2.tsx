@@ -67,7 +67,9 @@ export default function Hero2() {
                 />
                 <div className="position-md-absolute d-inline-block pt-10 pt-md-5 top-50 start-0 translate-middle-y mt-10">
                   <div className="alltuchtopdown backdrop-filter rounded-4 p-4">
-                    <h6 className="text-900">Önemli Noktalar</h6>
+                    <h3 className="text-900" style={{ fontSize: "20px" }}>
+                      Önemli Noktalar
+                    </h3>
                     <p className="fs-6 text-900">
                       Millenium Yazılım olarak,
                       <br /> müşteri odaklı yaklaşımımız, <br />

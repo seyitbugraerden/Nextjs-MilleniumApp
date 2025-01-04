@@ -45,7 +45,9 @@ export default function Home() {
               >
                 <div className="card-service bg-white p-6 border rounded-4">
                   <img src="/assets/imgs/service-1/icon-1.svg" alt="infinia" />
-                  <h6 className="my-3">Önceliğimiz Mutlu Müşteriler</h6>
+                  <h4 className="my-3" style={{ fontSize: "20px" }}>
+                    Önceliğimiz Mutlu Müşteriler
+                  </h4>
                   <p className="mb-6">
                     Müşteri memnuniyetini her zaman ön planda tutuyor,
                     ihtiyaçlarınıza özel dijital çözümler sunarak markanızı
