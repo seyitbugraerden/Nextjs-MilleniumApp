@@ -62,9 +62,9 @@ export default function Home() {
               >
                 <div className="card-service bg-white p-6 border rounded-3">
                   <img src="/assets/imgs/service-1/icon-2.svg" alt="infinia" />
-                  <h6 className="my-3">
+                  <h5 className="my-3" style={{ fontSize: "20px" }}>
                     Büyük Düşünün, Dijitalde Fark Yaratın
-                  </h6>
+                  </h5>
                   <p className="mb-6">
                     Markaların dijital dünyada sınırları aşmasını sağlıyoruz.
                     Yenilikçi stratejiler ve güçlü çözümlerle büyük
