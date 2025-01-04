@@ -1,6 +1,5 @@
 import Menu from "../Menu";
 import Link from "next/link";
-import OffCanvas from "../OffCanvas";
 import MobileMenu from "../MobileMenu";
 import ThemeSwitch from "@/components/elements/ThemeSwitch";
 
@@ -8,8 +7,6 @@ export default function Header1({
   scroll,
   isMobileMenu,
   handleMobileMenu,
-  isOffCanvas,
-  handleOffCanvas,
 }: any) {
   return (
     <>
@@ -28,7 +25,7 @@ export default function Header1({
               className="navbar-brand d-flex main-logo align-items-center"
               href="/"
             >
-              <img src="/logo.svg" alt="infinia" width={200}/>
+              <img src="/logo.svg" alt="infinia" width={200} />
             </Link>
             <Menu />
             <div className="d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0">
@@ -44,10 +41,6 @@ export default function Header1({
             </div>
           </div>
         </nav>
-        <OffCanvas
-          handleOffCanvas={handleOffCanvas}
-          isOffCanvas={isOffCanvas}
-        />
         <MobileMenu
           handleMobileMenu={handleMobileMenu}
           isMobileMenu={isMobileMenu}
