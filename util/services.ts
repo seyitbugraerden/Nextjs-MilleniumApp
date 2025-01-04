@@ -182,7 +182,7 @@ export const services = [
     metaTitle:
       "Online Satış ve E-Ticaret Çözümleri | Millenium Yazılım",
     metaDesc:
-      "Millenium Yazılım, etkili e-ticaret çözümleri sunarak online mağazanızın satışlarını artırır. Güçlü altyapı ve özelleştirilmiş tasarımlar ile büyümeye odaklanın.",
+      "Millenium Yazılım, etkili e-ticaret çözümleri sunarak online mağazanızın satışlarını artırır. Güçlü altyapı ve özelleştirilmiş tasarımlarla büyümeye odaklanın.",
     subTitle: "Hizmette Öncelikli İlkelerimiz",
     description:
       "Yüksek performans, // güvenli ödeme sistemleri ve kullanıcı dostu tasarımlarla  //e-ticaret sitenizi başarıya taşıyoruz.",
@@ -448,7 +448,7 @@ export const services = [
     metaTitle:
       "Başarılı Marka Yönetimi ve Stratejileri | Millenium Yazılım",
     metaDesc:
-      "Millenium Yazılım, marka yönetimi ve strateji geliştirme hizmetleri ile markanızı güçlendirir, hedef kitlenizle etkili bir bağ kurarak uzun vadeli başarı sağlar.",
+      "Millenium Yazılım, marka yönetimi ve strateji geliştirme hizmetleriyle markanızı güçlendirir, hedef kitlenizle etkili bağ kurarak uzun vadeli başarı sağlar.",
     subTitle: "Hizmette Öncelikli İlkelerimiz",
     description:
       "Marka kimliği oluşturma, // stratejik planlama ve etkili pazarlama çözümleriyle //markanızı güçlendiriyoruz.",
