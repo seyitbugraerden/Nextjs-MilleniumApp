@@ -1,6 +1,6 @@
 export const metadatas = {
   bizKimiz: {
-    title: "Millenium Yazılım | Dijital Çözümlerde Güvenilir İş Ortağınız",
+    title: "Millenium Yazılım | Güvenilir Dijital Çözümler",
     description:
       "Millenium Yazılım, web ve mobil uygulamalar, marka yönetimi, sosyal medya stratejileri ve CRM çözümleriyle işletmenizi dijital dünyada başarıya taşır.",
     canonical: "https://milleniumyazilim.com/kurumsal/biz-kimiz",
@@ -8,7 +8,7 @@ export const metadatas = {
   misyonVizyon: {
     title: "Millenium Yazılım | Misyonumuz ve Vizyonumuz",
     description:
-      "Millenium Yazılım olarak misyonumuz; yenilikçi çözümlerle işletmeleri dijital dünyada başarıya taşımak, vizyonumuz ise sektörde lider teknoloji partneri olmaktır.",
+      "Millenium Yazılım olarak misyonumuz, yenilikçi çözümlerle işletmeleri dijital dünyada başarıya taşımak; vizyonumuz ise sektörde lider teknoloji partneri olmaktır.",
     canonical: "https://milleniumyazilim.com/kurumsal/misyon-ve-vizyon",
   },
   projelerimiz: {

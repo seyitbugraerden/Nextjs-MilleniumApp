@@ -2,8 +2,7 @@ export const services = [
   {
     id: "web-tasarim-ve-gelistirme",
     title: "Web Tasarım ve Geliştirme",
-    metaTitle:
-      "Web Tasarım ve Geliştirme - Modern ve Etkili Çözümler | Millenium Yazılım",
+    metaTitle: "Web Tasarım ve Geliştirme | Modern ve Etkili Çözümler",
     metaDesc:
       "Web tasarımı ve geliştirme alanında profesyonel çözümler sunan Millenium Yazılım, ihtiyaçlarınıza özel web siteleri ve uygulamalar geliştirir.",
     subTitle: "Hizmette Öncelikli İlkelerimiz",
@@ -92,7 +91,7 @@ export const services = [
     id: "mobil-uygulama-cozumleri",
     title: "Mobil Uygulama Çözümleri",
     metaTitle:
-      "Mobil Uygulama Çözümleri - Yaratıcı ve İşlevsel Tasarımlar | Millenium Yazılım",
+      "Yaratıcı ve İşlevsel Mobil Çözümler | Millenium Yazilim",
     metaDesc:
       "İhtiyaçlarınıza uygun mobil uygulama çözümleri sunan Millenium Yazılım, kullanıcı dostu ve performans odaklı uygulamalar geliştirir.",
     subTitle: "Hizmette Öncelikli İlkelerimiz",
@@ -181,7 +180,7 @@ export const services = [
     id: "e-ticaret-cozumleri",
     title: "E-Ticaret Çözümleri",
     metaTitle:
-      "E-Ticaret Çözümleri - Online Satış ve Büyüme Stratejileri | Millenium Yazılım",
+      "Online Satış ve E-Ticaret Çözümleri | Millenium Yazılım",
     metaDesc:
       "Millenium Yazılım, etkili e-ticaret çözümleri sunarak online mağazanızın satışlarını artırır. Güçlü altyapı ve özelleştirilmiş tasarımlar ile büyümeye odaklanın.",
     subTitle: "Hizmette Öncelikli İlkelerimiz",
@@ -269,7 +268,7 @@ export const services = [
   {
     id: "sosyal-medya-yonetimi",
     title: "Sosyal Medya Yönetimi",
-    metaTitle: "Sosyal Medya Yönetimi - Markanızı Büyütün | Millenium Yazılım",
+    metaTitle: "Markanızı Büyütecek Medya Çözümleri | Millenium Yazılım",
     metaDesc:
       "Millenium Yazılım, etkili sosyal medya yönetimi hizmetleri ile markanızın dijital varlığını güçlendirir ve hedef kitlenizle güçlü bir etkileşim kurar.",
     subTitle: "Hizmette Öncelikli İlkelerimiz",
@@ -358,7 +357,7 @@ export const services = [
     id: "seo-ve-dijital-pazarlama",
     title: "SEO ve Dijital Pazarlama",
     metaTitle:
-      "SEO ve Dijital Pazarlama - Görünürlüğünüzü Artırın | Millenium Yazılım",
+      "Görünülürlüğünüz için SEO Çözümleri | Millenium Yazılım",
     metaDesc:
       "Millenium Yazılım, SEO ve dijital pazarlama çözümleriyle web sitenizin arama motorlarındaki sıralamasını iyileştirir ve çevrimiçi görünürlüğünüzü artırır.",
     subTitle: "Hizmette Öncelikli İlkelerimiz",
@@ -447,7 +446,7 @@ export const services = [
     id: "marka-yonetimi-ve-strateji",
     title: "Marka Yönetimi ve Strateji",
     metaTitle:
-      "Marka Yönetimi ve Strateji - Başarılı Markalar Yaratın | Millenium Yazılım",
+      "Başarılı Marka Yönetim ve Stratejileri | Millenium Yazılım",
     metaDesc:
       "Millenium Yazılım, marka yönetimi ve strateji geliştirme hizmetleri ile markanızı güçlendirir, hedef kitlenizle etkili bir bağ kurarak uzun vadeli başarı sağlar.",
     subTitle: "Hizmette Öncelikli İlkelerimiz",
@@ -535,7 +534,7 @@ export const services = [
   {
     id: "crm-cozumleri",
     title: "CRM Çözümleri",
-    metaTitle: "CRM Çözümleri | Müşteri İlişkilerini Güçlendirin",
+    metaTitle: "İyi Bir Yönetim için CRM Çözümleri | Millenium Yazılım",
     metaDesc:
       "Millenium Yazılım, etkili CRM çözümleri ile müşteri ilişkilerinizi yönetir, satış süreçlerinizi iyileştirir ve iş verimliliğinizi artırır.",
     subTitle: "Müşteri İlişkilerinizi Güçlendirin",
@@ -624,7 +623,7 @@ export const services = [
     id: "kurumsal-web-sitesi-cozumleri",
     title: "Kurumsal Web Sitesi Çözümleri",
     metaTitle:
-      "Kurumsal Web Sitesi Çözümleri - Profesyonel Tasarımlar | Millenium Yazılım",
+      "Profesyonel Web Sitesi Çözümleri | Millenium Yazılım",
     metaDesc:
       "Millenium Yazılım, kurumsal kimliğinize uygun özel web sitesi çözümleri sunarak, markanızı dijital dünyada güçlü bir şekilde temsil eder.",
     subTitle: "Markanızı Dijital Dünyada Güçlendirin",
@@ -712,7 +711,7 @@ export const services = [
     id: "web-uygulama-gelistirme",
     title: "Web Uygulama Geliştirme",
     metaTitle:
-      "Web Uygulama Geliştirme - Yenilikçi ve Ölçeklenebilir Çözümler | Millenium Yazılım",
+      "Yenilikçi Web Uygulama Çözümleri | Millenium Yazılım",
     metaDesc:
       "Millenium Yazılım, ihtiyaçlarınıza özel web uygulamaları geliştirerek, iş süreçlerinizi dijital ortamda hızlandırır ve verimliliğinizi artırır.",
     subTitle: "İhtiyacınıza Uygun Yüksek Performanslı Web Uygulamaları",
@@ -802,7 +801,7 @@ export const services = [
     id: "logo-ve-grafik-tasarim",
     title: "Logo ve Grafik Tasarım",
     metaTitle:
-      "Logo ve Grafik Tasarım - Yaratıcı ve Etkili Çözümler | Millenium Yazılım",
+      "Yenilikçi Logo ve Grafik Tasarım | Millenium Yazılım",
     metaDesc:
       "Millenium Yazılım, özgün logo ve grafik tasarımlarıyla markanızı yansıtan görseller oluşturur ve dijital dünyada dikkat çekici bir imaj yaratır.",
     subTitle: "Markanızı Yansıtan Tasarımlar",
