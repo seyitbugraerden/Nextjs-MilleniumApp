@@ -15,7 +15,7 @@ const page = () => {
       <section className="section-page-header py-10 fix position-relative">
         <div className="container position-relative z-1">
           <div className="text-start">
-            <h3>Misyon ve Vizyon</h3>
+            <h1 style={{ fontSize: "38px !important" }}>Misyon ve Vizyon</h1>
             <div className="d-flex">
               <Link href="/">
                 <p className="mb-0 text-900">Ana Sayfa</p>
@@ -86,7 +86,7 @@ const page = () => {
                     Misyon ve Vizyon
                   </span>
                 </div>
-                <h1 className="fs-1">Misyonumuz</h1>
+                <h3 className="fs-1">Misyonumuz</h3>
                 <p>
                   Millenium Yazılım olarak, müşterilerimize dijital dünyada
                   etkili ve sürdürülebilir çözümler sunmayı hedefliyoruz.
@@ -107,7 +107,7 @@ const page = () => {
                     Misyon ve Vizyon
                   </span>
                 </div>
-                <h1 className="fs-1">Vizyonumuz</h1>
+                <h3 className="fs-1">Vizyonumuz</h3>
                 <p>
                   Millenium Yazılım, dijital dönüşümde öncü olmayı ve
                   teknolojiyi verimli bir şekilde kullanarak işletmelerin

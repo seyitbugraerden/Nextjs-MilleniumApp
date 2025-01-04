@@ -535,8 +535,7 @@ export const services = [
   {
     id: "crm-cozumleri",
     title: "CRM Çözümleri",
-    metaTitle:
-      "CRM Çözümleri - Müşteri İlişkilerini Güçlendirin | Millenium Yazılım",
+    metaTitle: "CRM Çözümleri | Müşteri İlişkilerini Güçlendirin",
     metaDesc:
       "Millenium Yazılım, etkili CRM çözümleri ile müşteri ilişkilerinizi yönetir, satış süreçlerinizi iyileştirir ve iş verimliliğinizi artırır.",
     subTitle: "Müşteri İlişkilerinizi Güçlendirin",

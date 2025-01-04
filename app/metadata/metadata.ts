@@ -8,23 +8,23 @@ export const metadatas = {
   misyonVizyon: {
     title: "Millenium Yazılım | Misyonumuz ve Vizyonumuz",
     description:
-      "Millenium Yazılım olarak misyonumuz; yenilikçi çözümlerle işletmelerin dijital dünyada sürdürülebilir başarıya ulaşmasını sağlamak, vizyonumuz ise sektörde öncü bir teknoloji partneri olmaktır.",
+      "Millenium Yazılım olarak misyonumuz; yenilikçi çözümlerle işletmeleri dijital dünyada başarıya taşımak, vizyonumuz ise sektörde lider teknoloji partneri olmaktır.",
     canonical: "https://milleniumyazilim.com/kurumsal/misyon-ve-vizyon",
   },
   projelerimiz: {
     title: "Millenium Yazılım | Başarıyla Tamamlanan Projelerimiz",
     description:
-      "Millenium Yazılım olarak, yenilikçi web ve mobil uygulama projelerimizle işletmelerin dijital dünyada büyümesine katkı sağlıyoruz. Referans projelerimizi keşfedin.",
+      "Millenium Yazılım olarak, yenilikçi web ve mobil uygulama projelerimizle işletmelerin dijital dünyada büyümesine katkı sağlıyoruz. Projelerimizi keşfedin.",
     canonical: "https://milleniumyazilim.com/kurumsal/projelerimiz",
   },
   cozumlerimiz: {
     title: "Millenium Yazılım | İşletmenize Özel Dijital Çözümler",
     description:
-      "Millenium Yazılım, web ve mobil uygulamalar, sosyal medya yönetimi, CRM ve marka yönetimi gibi dijital çözümlerle işletmenizin büyümesine katkı sağlar.",
+      "Millenium Yazılım, web ve mobil uygulamalar, sosyal medya yönetimi, CRM ve marka yönetimi gibi dijital çözümlerle işletmenizin büyümesini destekler.",
     canonical: "https://milleniumyazilim.com/kurumsal/cozumlerimiz",
   },
   referanslarimiz: {
-    title: "Millenium Yazılım | Güvenilir İş Ortaklarımız ve Referanslarımız",
+    title: "Millenium Yazılım | Referanslarımız",
     description:
       "Millenium Yazılım olarak, dijital çözümler sunduğumuz iş ortaklarımız ve başarıyla tamamladığımız projelerle güvenilirliğimizi kanıtlıyoruz.",
     canonical: "https://milleniumyazilim.com/kurumsal/referanslarimiz",
@@ -36,9 +36,9 @@ export const metadatas = {
     canonical: "https://milleniumyazilim.com/kurumsal/iletisim",
   },
   home: {
-    title: "Millenium Yazılım | Dijital Çözümlerle Geleceği Şekillendirin",
+    title: "Millenium Yazılım | Dijital Çözümlerle Geleceği Yönetin",
     description:
-      "Millenium Yazılım, yenilikçi web ve mobil uygulama çözümleri, profesyonel marka yönetimi ve CRM hizmetleriyle işletmenizin dijital dünyada öne çıkmasını sağlar.",
+      "Millenium Yazılım, yenilikçi web ve mobil uygulama çözümleri, marka yönetimi ve CRM hizmetleriyle işletmenizin dijital dünyada öne çıkmasını sağlar.",
     canonical: "https://milleniumyazilim.com/",
   },
 };
