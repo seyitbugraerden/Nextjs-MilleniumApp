@@ -8,7 +8,7 @@ export const metadatas = {
   misyonVizyon: {
     title: "Millenium Yazılım | Misyonumuz ve Vizyonumuz",
     description:
-      "Millenium Yazılım olarak misyonumuz, yenilikçi çözümlerle işletmeleri dijital dünyada başarıya taşımak; vizyonumuz ise sektörde lider teknoloji partneri olmaktır.",
+      "Millenium Yazılım misyonu, yenilikçi çözümlerle işletmeleri dijital dünyada başarıya taşımak; vizyonu ise sektörde lider teknoloji partneri olmaktır.",
     canonical: "https://milleniumyazilim.com/kurumsal/misyon-ve-vizyon",
   },
   projelerimiz: {
