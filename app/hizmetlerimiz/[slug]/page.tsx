@@ -382,4 +382,15 @@ const page = ({ params }: { params: any }) => {
   );
 };
 
+export const generateMetadata = async ({ params }: { params: any }) => {
+  const selectedService = services.find((x) => x.id === params.slug);
+  return {
+    title: selectedService?.metaTitle || "Default Title",
+    description: selectedService?.metaDesc || "Default description",
+    alternates: {
+      canonical: `https://www.milleniumyazilim.com.tr/hizmetlerimiz/${selectedService?.id}`,
+    },
+  };
+};
+
 export default page;
