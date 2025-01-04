@@ -61,9 +61,12 @@ export default function HowItWork1() {
                   </div>
                 </div>
                 <div data-aos="fade-zoom-in" data-aos-delay={100}>
-                  <h5 className="text-lg-white text-900">
+                  <h6
+                    className="text-lg-white text-900"
+                    style={{ fontSize: "45px" }}
+                  >
                     01. Analiz ve Strateji Geliştirme
-                  </h5>
+                  </h6>
                   <p className="text-lg-white text-900 opacity-75">
                     Markanızın hedeflerini, ihtiyaçlarını ve <br /> hedef
                     kitlenizi detaylı bir şekilde analiz ediyoruz. <br />{" "}

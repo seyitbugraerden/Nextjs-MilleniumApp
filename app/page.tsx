@@ -231,9 +231,12 @@ export default function Home() {
                   İletişime Geç
                 </span>
               </div>
-              <h5 className="ds-5 mt-3 mb-3 text-white">
+              <h6
+                className="ds-5 mt-3 mb-3 text-white"
+                style={{ fontSize: "45px" }}
+              >
                 Bir proje mi düşünüyorsunuz? <br /> Bizimle iletişime geçin.
-              </h5>
+              </h6>
               <span className="fs-5 fw-medium text-white">
                 Aşağıdaki Ayrıntılar aracılığıyla
                 <br className="d-none d-lg-block" />
