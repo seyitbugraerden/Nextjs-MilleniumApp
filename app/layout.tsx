@@ -10,7 +10,7 @@ import "/public/assets/fonts/satoshi/satoshi.css";
 import "/public/assets/css/main.css";
 import "@/node_modules/react-modal-video/css/modal-video.css";
 import { Analytics } from "@vercel/analytics/react";
-
+import { NuqsAdapter } from 'nuqs/adapters/next/app'
 import type { Metadata } from "next";
 import Layout from "@/components/layout/Layout";
 import { metadatas } from "./metadata/metadata";
@@ -29,7 +29,6 @@ export default function RootLayout({
   return (
     <html lang="tr">
       <head>
-
         <link
           rel="apple-touch-icon"
           sizes="57x57"
@@ -104,10 +103,12 @@ export default function RootLayout({
         <meta name="theme-color" content="#ffffff" />
       </head>
       <body>
-        <Analytics />
-        <Layout headerStyle={1} footerStyle={2}>
-          {children}
-        </Layout>
+        <NuqsAdapter>
+          <Analytics />
+          <Layout headerStyle={1} footerStyle={2}>
+            {children}
+          </Layout>
+        </NuqsAdapter>
       </body>
     </html>
   );

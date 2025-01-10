@@ -1,44 +1,41 @@
 "use client";
-import Isotope from "isotope-layout";
-import { useEffect, useRef, useState, useCallback } from "react";
+import { useQueryState } from "nuqs";
+import { useMemo } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+
+const FILTERS = [
+  { id: "", label: "Tüm Projeler" },
+  { id: "web-tasarim-ve-gelistirme", label: "Web Tasarım ve Geliştirme" },
+  { id: "mobil-uygulama-cozumleri", label: "Mobil Uygulama Çözümleri" },
+  { id: "e-ticaret-cozumleri", label: "E-Ticaret Çözümleri" },
+  { id: "sosyal-medya-cozumleri", label: "Sosyal Medya Çözümleri" },
+  { id: "seo-ve-dijital-pazarlama", label: "SEO ve Dijital Pazarlama" },
+  { id: "marka-yonetimi-ve-strateji", label: "Marka Yönetimi ve Strateji" },
+  { id: "crm-cozumleri", label: "CRM Çözümleri" },
+  {
+    id: "kurumsal-web-sitesi-cozumleri",
+    label: "Kurumsal Web Sitesi Çözümleri",
+  },
+  { id: "web-uygulama-gelistirme", label: "Web Uygulama Geliştirme" },
+  { id: "logo-ve-grafik-tasarim", label: "Logo ve Grafik Tasarım" },
+];
+
+const PROJECTS: any[] = [
+  // { id: 1, filter: "crm-cozumleri", title: "CRM Çözümleri", description: "Şirketinizi Tek Bir Yerde Yönetin", image: "/assets/imgs/project-1/img-1.png" },
+  // { id: 2, filter: "web-tasarim-ve-gelistirme", title: "Web Tasarım ve Geliştirme", description: "Modern ve İşlevsel Web Siteleri", image: "/assets/imgs/project-1/img-1.png" },
+  // { id: 3, filter: "mobil-uygulama-cozumleri", title: "Mobil Uygulama Çözümleri", description: "İnovatif Mobil Deneyimler", image: "/assets/imgs/project-1/img-1.png" },
+];
 
 export default function Services5() {
-  const isotope = useRef<Isotope | null>(null);
-  const [filterKey, setFilterKey] = useState<string>("*");
+  const [selectedFilter, setSelectedFilter] = useQueryState("filter");
 
-  useEffect(() => {
-    isotope.current = new Isotope(".masonary-active", {
-      itemSelector: ".filter-item",
-      percentPosition: true,
-      masonry: {
-        columnWidth: ".filter-item",
-      },
-    });
-  }, []);
-
-  useEffect(() => {
-    if (isotope.current) {
-      isotope.current.arrange({
-        filter: filterKey === "*" ? "*" : `.${filterKey}`,
-      });
-    }
-  }, [filterKey]);
-
-  const handleFilterKeyChange = useCallback(
-    (key: string) => () => {
-      setFilterKey(key);
-    },
-    []
-  );
-
-  const activeBtn = (value: string) =>
-    value === filterKey
-      ? "active btn btn-md btn-filter mb-2 me-2"
-      : "btn btn-md btn-filter mb-2 me-2";
+  const filteredProjects = useMemo(() => {
+    if (!selectedFilter) return PROJECTS;
+    return PROJECTS.filter((project) => project.filter === selectedFilter);
+  }, [selectedFilter]);
 
   return (
     <>
-      {/* Services 5 */}
       <section className="section-team-1 position-relative fix section-padding">
         <div className="container position-relative z-2">
           <div className="text-center">
@@ -63,134 +60,56 @@ export default function Services5() {
           </div>
           <div className="text-center mt-6">
             <div className="button-group filter-button-group filter-menu-active">
-              <button
-                className={activeBtn("*")}
-                onClick={handleFilterKeyChange("*")}
-              >
-                Tüm Projeler
-              </button>
-              <button
-                className={activeBtn("web-design")}
-                onClick={handleFilterKeyChange("web-design")}
-              >
-                Web Tasarım ve Geliştirme
-              </button>
-              <button
-                className={activeBtn("mobile-app")}
-                onClick={handleFilterKeyChange("mobile-app")}
-              >
-                Mobil Uygulama Çözümleri
-              </button>
-              <button
-                className={activeBtn("ecommerce")}
-                onClick={handleFilterKeyChange("ecommerce")}
-              >
-                E-Ticaret Çözümleri
-              </button>
-              <button
-                className={activeBtn("marketing-solutions")}
-                onClick={handleFilterKeyChange("marketing-solutions")}
-              >
-                Marketing
-              </button>
-              <button
-                className={activeBtn("social-media")}
-                onClick={handleFilterKeyChange("social-media")}
-              >
-                Sosyal Medya Çözümleri
-              </button>
-              <button
-                className={activeBtn("seo-marketing")}
-                onClick={handleFilterKeyChange("seo-marketing")}
-              >
-                SEO ve Dijital Pazarlama
-              </button>
-              <button
-                className={activeBtn("brand-management")}
-                onClick={handleFilterKeyChange("brand-management")}
-              >
-                Marka Yönetimi ve Strateji
-              </button>
-              <button
-                className={activeBtn("crm-solutions")}
-                onClick={handleFilterKeyChange("crm-solutions")}
-              >
-                CRM Çözümleri
-              </button>
-              <button
-                className={activeBtn("corporate-web")}
-                onClick={handleFilterKeyChange("corporate-web")}
-              >
-                Kurumsal Web Sitesi Çözümleri
-              </button>
-              <button
-                className={activeBtn("web-app")}
-                onClick={handleFilterKeyChange("web-app")}
-              >
-                Web Uygulama Geliştirme
-              </button>
-              <button
-                className={activeBtn("graphic-design")}
-                onClick={handleFilterKeyChange("graphic-design")}
-              >
-                Logo ve Grafik Tasarım
-              </button>
-            </div>
-          </div>
-        </div>
-        <div className="container mt-6">
-          <div className="masonary-active justify-content-between row">
-            <div className="grid-sizer" />
-            <div className="filter-item col-12 col-md-4 seo marketing">
-              <div className="project-item zoom-img rounded-2 fix position-relative">
-                <img
-                  className="rounded-2"
-                  src="/assets/imgs/project-1/img-1.png"
-                  alt="infinia"
-                />
-                <a
-                  href="#"
-                  className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 "
+              {FILTERS.map((filter) => (
+                <button
+                  key={filter.id}
+                  className={`btn btn-md btn-filter mb-2 me-2 ${
+                    selectedFilter === filter.id ? "active" : ""
+                  }`}
+                  onClick={() => setSelectedFilter(filter.id)}
                 >
-                  <span className="shadow-sm d-flex align-items-center bg-white-keep d-inline-flex rounded-pill px-2 py-1 mb-3">
-                    <span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">
-                      CRM
-                    </span>
-                    <span className="fs-7 fw-medium text-primary mx-2">
-                      Çözümleri
-                    </span>
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      width={18}
-                      height={19}
-                      viewBox="0 0 18 19"
-                      fill="none"
-                    >
-                      <path
-                        d="M10.3125 5.5625L14.4375 9.5L10.3125 13.4375"
-                        stroke="#6D4DF2"
-                        strokeWidth="1.125"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                      <path
-                        d="M14.25 9.5H3.5625"
-                        stroke="#6D4DF2"
-                        strokeWidth="1.125"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  </span>
-                  <h5 className="text-700">
-                    Şirketinizi Tek Bir Yerde Yönetin
-                  </h5>
-                  {/* <p className="fs-7 mb-0">Achieve Your a of Business</p>*/}
-                </a>
-              </div>
+                  {filter.label}
+                </button>
+              ))}
             </div>
           </div>
         </div>
+      </section>
+      <section className="container">
+        <motion.div layout className="row justify-content-between">
+          <AnimatePresence>
+            {filteredProjects?.map((project) => (
+              <motion.div
+                key={project.id}
+                className="col-12 col-md-4"
+                initial={{ opacity: 0, y: 50 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -50 }}
+                transition={{ duration: 0.5 }}
+                layout
+              >
+                <div className="project-item zoom-img rounded-2 fix position-relative">
+                  <img
+                    className="rounded-2"
+                    src={project.image}
+                    alt={project.title}
+                  />
+                  <a
+                    href="#"
+                    className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3"
+                  >
+                    <span className="shadow-sm d-flex align-items-center bg-white-keep d-inline-flex rounded-pill px-2 py-1 mb-3">
+                      <span className="fs-7 fw-medium text-primary mx-2">
+                        {project.title}
+                      </span>
+                    </span>
+                    <h5 className="text-700">{project.description}</h5>
+                  </a>
+                </div>
+              </motion.div>
+            ))}
+          </AnimatePresence>
+        </motion.div>
       </section>
     </>
   );

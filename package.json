@@ -14,6 +14,7 @@
     "isotope-layout": "^3.0.6",
     "motion": "^11.15.0",
     "next": "^14.2.13",
+    "nuqs": "^2.3.0",
     "react": "^18",
     "react-countup": "^6.5.3",
     "react-dom": "^18",
