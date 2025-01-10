@@ -180,20 +180,18 @@ export default function Footer2() {
               <div className="row">
                 <div className="d-flex flex-column flex-md-row align-items-center justify-content-between gap-3 py-4 border-top border-white border-opacity-10">
                   <p className="text-900 opacity-50 mb-0 fs-7">
-                    Copyright © 2024 Infinia. All Rights Reserved
+                    Copyright © 2024 <strong>Millenium Yazılım</strong>. Tüm
+                    Hakları Saklıdır.
                   </p>
                   <div className="d-flex">
-                    <Link href="/#" className="text-900 me-3">
+                    <Link href="/gizlilik-politikasi" className="text-900 me-3">
                       {" "}
-                      Privacy policy{" "}
+                      Gizlilik Politikası
                     </Link>
-                    <Link href="/#" className="text-900 me-3">
+
+                    <Link href="/hizmet-sartlari" className="text-900 me-3">
                       {" "}
-                      Cookies{" "}
-                    </Link>
-                    <Link href="/#" className="text-900 me-3">
-                      {" "}
-                      Terms of service{" "}
+                      Hizmet Şartları
                     </Link>
                   </div>
                 </div>

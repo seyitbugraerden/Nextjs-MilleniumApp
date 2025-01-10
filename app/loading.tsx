@@ -7,7 +7,7 @@ export default function Preloader() {
 					<div className="loader-container text-centẻ">
 						<div className="loader-icon">
 							<img src="/assets/imgs/template/favicon.svg" alt="Preloader" />
-							<p>Loading...</p>
+							<p>Yükleniyor...</p>
 						</div>
 					</div>
 				</div>
