@@ -1,9 +1,8 @@
 import Link from "next/link";
 import React from "react";
-import { services } from "@/util/services";
 import HowItWork2 from "@/components/sections/HowItWork2";
-import SectionFaqs from "../components/faq2";
 import SwiperCards from "../components/swiperCards";
+import { services } from "@/util/services";
 
 const page = ({ params }: { params: any }) => {
   const selectedService = services.find((x) => x.id === params.slug);
@@ -63,7 +62,7 @@ const page = ({ params }: { params: any }) => {
         <img
           className="position-absolute bottom-0 start-0 end-0 top-0 z-0"
           src="/assets/imgs/page-header/bg-line.png"
-          alt="infinia"
+          alt="Millenium Yazılım"
         />
         <div className="bouncing-blobs-container">
           <div className="bouncing-blobs-glass" />
@@ -85,7 +84,10 @@ const page = ({ params }: { params: any }) => {
                   data-aos="zoom-in"
                   data-aos-delay={100}
                 >
-                  <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+                  <img
+                    src="/assets/imgs/features-1/dots.png"
+                    alt="Millenium Yazılım"
+                  />
                   <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                     {selectedService?.about.title}
                   </span>
@@ -97,7 +99,11 @@ const page = ({ params }: { params: any }) => {
               </div>
             </div>
             <div className="col-lg-6 text-lg-end text-center">
-              <img src="/assets/imgs/cta-1/img-1.png" alt="infinia" />
+              <img
+                className="rounded-4 position-relative z-1"
+                src={`/HizmetDetayGorsel/${selectedService?.img}`}
+                alt={selectedService?.title}
+              />
             </div>
           </div>
         </div>
@@ -109,7 +115,10 @@ const page = ({ params }: { params: any }) => {
           <div className="row">
             <div className="col-lg-6">
               <div className="d-flex align-items-center justify-content-center bg-primary-soft-keep border border-2 border-white-keep d-inline-flex rounded-pill px-4 py-2">
-                <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+                <img
+                  src="/assets/imgs/features-1/dots.png"
+                  alt="Millenium Yazılım"
+                />
                 <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                   İletişime Geç
                 </span>
@@ -129,7 +138,7 @@ const page = ({ params }: { params: any }) => {
                   <div className="icon">
                     <img
                       src="/assets/imgs/contact-1/icon-1.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
@@ -146,7 +155,7 @@ const page = ({ params }: { params: any }) => {
                   <div className="icon">
                     <img
                       src="/assets/imgs/contact-1/icon-2.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
@@ -163,7 +172,7 @@ const page = ({ params }: { params: any }) => {
                   <div className="icon">
                     <img
                       src="/assets/imgs/contact-1/icon-3.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>

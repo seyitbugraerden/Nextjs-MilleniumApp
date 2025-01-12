@@ -9,7 +9,7 @@ export default function Blog5() {
 					<div className="row align-items-end">
 						<div className="col-lg-7 me-auto">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">From Blog</span>
 							</div>
 							<h3 className="ds-3 mt-3 mb-3">Our Latest Articles</h3>
@@ -26,7 +26,7 @@ export default function Blog5() {
 					<div className="row mt-8 align-items-center">
 						<div className="col-lg-7">
 							<div className="card-team position-relative d-flex flex-lg-row flex-column align-items-center rounded-3 border  card-hover shadow-2 mb-lg-0 mb-8">
-								<img className="rounded rounded-bottom-0 rounded-start-lg rounded-end-lg-0 w-100 w-lg-auto" src="/assets/imgs/blog-5/img-1.png" alt="infinia" />
+								<img className="rounded rounded-bottom-0 rounded-start-lg rounded-end-lg-0 w-100 w-lg-auto" src="/assets/imgs/blog-5/img-1.png" alt="Millenium Yazılım" />
 								<div className="bg-white align-self-stretch rounded rounded-start-lg-0 p-5">
 									<Link href="#" className="z-1 position-relative bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1 mb-2">
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">business</span>
@@ -36,7 +36,7 @@ export default function Blog5() {
 									<div className="d-flex align-items-center justify-content-between mt-5 pt-5 border-top">
 										<div className="d-flex align-items-center position-relative z-1">
 											<div className="icon-shape rounded-circle border border-2 border-white">
-												<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="infinia" />
+												<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="Millenium Yazılım" />
 											</div>
 											<div className="ms-3">
 												<h6 className="fs-7 m-0 mb-1">Evara Rose</h6>
@@ -58,14 +58,14 @@ export default function Blog5() {
 						<div className="col-lg-5">
 							<div>
 								<Link href="#" className="d-flex flex-column flex-md-row align-items-center hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-5/img-2.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-5/img-2.png" alt="Millenium Yazılım" />
 									<div className="content ms-5 mt-4 mt-md-0">
 										<h6 className="mb-2">Why Consistent Brand Identity is Key to Business Success</h6>
 										<p className="mb-0">As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
 									</div>
 								</Link>
 								<Link href="#" className="d-flex flex-column flex-md-row align-items-center mt-7 hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-5/img-3.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-5/img-3.png" alt="Millenium Yazılım" />
 									<div className="content ms-5 mt-4 mt-md-0">
 										<h6 className="mb-2">The Importance of Data Security in Your SaaS Projects</h6>
 										<p className="mb-0">As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>

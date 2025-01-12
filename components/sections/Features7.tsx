@@ -49,7 +49,7 @@ export default function Features7() {
 					<div className="row mb-8 mb-lg-6">
 						<div className="col-lg-6">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Why us ?</span>
 							</div>
 							<h3 className="ds-3 mt-3 mb-3">Reach out to <br /> the world’s most</h3>
@@ -75,7 +75,7 @@ export default function Features7() {
 								{/* prettier-ignore */}
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-										<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">business</span>
 										</Link>
@@ -93,7 +93,7 @@ export default function Features7() {
 								</SwiperSlide>
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-										<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Research</span>
 										</Link>
@@ -111,7 +111,7 @@ export default function Features7() {
 								</SwiperSlide>
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-										<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Social Media</span>
 										</Link>
@@ -129,7 +129,7 @@ export default function Features7() {
 								</SwiperSlide>
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-										<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">business</span>
 										</Link>
@@ -147,7 +147,7 @@ export default function Features7() {
 								</SwiperSlide>
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-										<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Research</span>
 										</Link>
@@ -165,7 +165,7 @@ export default function Features7() {
 								</SwiperSlide>
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-										<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Social Media</span>
 										</Link>

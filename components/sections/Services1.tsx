@@ -8,7 +8,7 @@ export default function Services1() {
 				<div className="container">
 					<div className="text-center">
 						<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+							<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 						</div>
 						<h3 className="ds-3 my-3" data-aos="fade-zoom-in" data-aos-delay={300}>Explore Our Services</h3>
@@ -18,7 +18,7 @@ export default function Services1() {
 						<div className="col-lg-4">
 							<div className="p-2 mt-lg-8 rounded-4 shadow-1 bg-white position-relative z-1 hover-up" data-aos="fade-zoom-in" data-aos-delay={100}>
 								<div className="card-service bg-white p-6 border rounded-4">
-									<img src="/assets/imgs/service-1/icon-1.svg" alt="infinia" />
+									<img src="/assets/imgs/service-1/icon-1.svg" alt="Millenium Yazılım" />
 									<h6 className="my-3">Research planning</h6>
 									<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 									<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -41,7 +41,7 @@ export default function Services1() {
 							</div>
 							<div className="p-2 mt-5 rounded-4 shadow-1 bg-white position-relative z-1 hover-up" data-aos="fade-zoom-in" data-aos-delay={200}>
 								<div className="card-service bg-white p-6 border rounded-3">
-									<img src="/assets/imgs/service-1/icon-2.svg" alt="infinia" />
+									<img src="/assets/imgs/service-1/icon-2.svg" alt="Millenium Yazılım" />
 									<h6 className="my-3">Strategy Lab</h6>
 									<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 									<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -66,7 +66,7 @@ export default function Services1() {
 						<div className="col-lg-4">
 							<div className="p-2 mt-5 rounded-4 shadow-1 bg-white position-relative z-1 hover-up" data-aos="fade-zoom-in" data-aos-delay={300}>
 								<div className="card-service bg-white p-6 border rounded-3">
-									<img src="/assets/imgs/service-1/icon-3.svg" alt="infinia" />
+									<img src="/assets/imgs/service-1/icon-3.svg" alt="Millenium Yazılım" />
 									<h6 className="my-3">Business Consultancy</h6>
 									<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 									<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -89,7 +89,7 @@ export default function Services1() {
 							</div>
 							<div className="p-2 mt-5 rounded-4 shadow-1 bg-white position-relative z-1 hover-up" data-aos="fade-zoom-in" data-aos-delay={100}>
 								<div className="card-service bg-white p-6 border rounded-3">
-									<img src="/assets/imgs/service-1/icon-4.svg" alt="infinia" />
+									<img src="/assets/imgs/service-1/icon-4.svg" alt="Millenium Yazılım" />
 									<h6 className="my-3">Business promotion</h6>
 									<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 									<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -114,7 +114,7 @@ export default function Services1() {
 						<div className="col-lg-4">
 							<div className="p-2 mt-lg-8 mt-5 rounded-4 shadow-1 bg-white position-relative z-1 hover-up hover-up" data-aos="fade-zoom-in" data-aos-delay={200}>
 								<div className="card-service bg-white p-6 border rounded-3">
-									<img src="/assets/imgs/service-1/icon-5.svg" alt="infinia" />
+									<img src="/assets/imgs/service-1/icon-5.svg" alt="Millenium Yazılım" />
 									<h6 className="my-3">Finance Advisory </h6>
 									<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 									<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -137,7 +137,7 @@ export default function Services1() {
 							</div>
 							<div className="p-2 mt-5 rounded-4 shadow-1 bg-white position-relative z-1 hover-up" data-aos="fade-zoom-in" data-aos-delay={300}>
 								<div className="card-service bg-white p-6 border rounded-3">
-									<img src="/assets/imgs/service-1/icon-6.svg" alt="infinia" />
+									<img src="/assets/imgs/service-1/icon-6.svg" alt="Millenium Yazılım" />
 									<h6 className="my-3">Revenue generation</h6>
 									<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 									<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -160,7 +160,7 @@ export default function Services1() {
 							</div>
 						</div>
 						<div className="position-absolute top-50 start-50 translate-middle z-0">
-							<img src="/assets/imgs/service-1/img-bg.png" alt="infinia" />
+							<img src="/assets/imgs/service-1/img-bg.png" alt="Millenium Yazılım" />
 						</div>
 					</div>
 				</div>

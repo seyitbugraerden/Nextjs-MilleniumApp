@@ -12,7 +12,7 @@ export default function Features10() {
 							<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 								<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 									<div className="icon">
-										<img src="/assets/imgs/features-1/icon-1.svg" alt="infinia" />
+										<img src="/assets/imgs/features-1/icon-1.svg" alt="Millenium Yazılım" />
 									</div>
 								</div>
 								<h6>Best Solutions</h6>
@@ -39,7 +39,7 @@ export default function Features10() {
 							<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 								<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 									<div className="icon">
-										<img src="/assets/imgs/features-1/icon-2.svg" alt="infinia" />
+										<img src="/assets/imgs/features-1/icon-2.svg" alt="Millenium Yazılım" />
 									</div>
 								</div>
 								<h6>Secure payment</h6>
@@ -66,7 +66,7 @@ export default function Features10() {
 							<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 								<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 									<div className="icon">
-										<img src="/assets/imgs/features-1/icon-3.svg" alt="infinia" />
+										<img src="/assets/imgs/features-1/icon-3.svg" alt="Millenium Yazılım" />
 									</div>
 								</div>
 								<h6>Save Money</h6>
@@ -93,7 +93,7 @@ export default function Features10() {
 							<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 								<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 									<div className="icon">
-										<img src="/assets/imgs/features-1/icon-4.svg" alt="infinia" />
+										<img src="/assets/imgs/features-1/icon-4.svg" alt="Millenium Yazılım" />
 									</div>
 								</div>
 								<h6>Quick Support</h6>

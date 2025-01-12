@@ -23,7 +23,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
               className="navbar-brand d-flex main-logo align-items-center"
               href="/"
             >
-              <img src="/logo.svg" alt="infinia" width={200} />
+              <img src="/logo.svg" alt="Millenium Yazılım" width={200} />
             </Link>
             <div
               className={`burger-icon burger-icon-white border rounded-3 ${

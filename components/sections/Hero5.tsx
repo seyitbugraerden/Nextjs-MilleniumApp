@@ -50,7 +50,7 @@ export default function Hero5() {
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Millenium Yazılım" />
 														for
 													</span>
 													Innovation
@@ -87,7 +87,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Millenium Yazılım" />
 								</div>
 							</div>
 						</SwiperSlide>
@@ -103,7 +103,7 @@ export default function Hero5() {
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Millenium Yazılım" />
 														for
 													</span>
 													Innovation
@@ -141,7 +141,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Millenium Yazılım" />
 								</div>
 							</div>
 						</SwiperSlide>
@@ -157,7 +157,7 @@ export default function Hero5() {
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Millenium Yazılım" />
 														for
 													</span>
 													Innovation
@@ -195,7 +195,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Millenium Yazılım" />
 								</div>
 							</div>
 						</SwiperSlide>
@@ -211,7 +211,7 @@ export default function Hero5() {
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Millenium Yazılım" />
 														for
 													</span>
 													Innovation
@@ -249,7 +249,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Millenium Yazılım" />
 								</div>
 							</div>
 						</SwiperSlide>
@@ -265,7 +265,7 @@ export default function Hero5() {
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Millenium Yazılım" />
 														for
 													</span>
 													Innovation
@@ -303,7 +303,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Millenium Yazılım" />
 								</div>
 							</div>
 						</SwiperSlide>
@@ -319,7 +319,7 @@ export default function Hero5() {
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Millenium Yazılım" />
 														for
 													</span>
 													Innovation
@@ -357,7 +357,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Millenium Yazılım" />
 								</div>
 							</div>
 						</SwiperSlide>

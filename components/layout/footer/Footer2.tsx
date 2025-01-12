@@ -13,7 +13,7 @@ export default function Footer2() {
                     className="navbar-brand d-flex main-logo align-items-center"
                     href="/"
                   >
-                    <img src="/logo.svg" alt="infinia" width={200} />
+                    <img src="/logo.svg" alt="Millenium Yazılım" width={200} />
                   </Link>
                   <p className="text-900 fw-medium mt-3 mb-6 opacity-50">
                     Millenium Yazılım, markaların dijital potansiyellerini

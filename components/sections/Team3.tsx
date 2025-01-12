@@ -46,7 +46,7 @@ export default function Team3() {
 					<div className="row position-relative z-1">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 							</div>
 							<h3 className="ds-3 my-3">Meet Our Team</h3>
@@ -63,7 +63,7 @@ export default function Team3() {
 								<SwiperSlide className="swiper-slide">
 									<div className="position-relative z-1">
 										<div className="zoom-img rounded-4">
-											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-1.png" alt="infinia" />
+											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-1.png" alt="Millenium Yazılım" />
 										</div>
 										<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 											<div className="position-relative z-1">
@@ -85,7 +85,7 @@ export default function Team3() {
 								<SwiperSlide className="swiper-slide">
 									<div className="position-relative z-1">
 										<div className="zoom-img rounded-4">
-											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-2.png" alt="infinia" />
+											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-2.png" alt="Millenium Yazılım" />
 										</div>
 										<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 											<div className="position-relative z-1">
@@ -107,7 +107,7 @@ export default function Team3() {
 								<SwiperSlide className="swiper-slide">
 									<div className="position-relative z-1">
 										<div className="zoom-img rounded-4">
-											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-3.png" alt="infinia" />
+											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-3.png" alt="Millenium Yazılım" />
 										</div>
 										<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 											<div className="position-relative z-1">
@@ -129,7 +129,7 @@ export default function Team3() {
 								<SwiperSlide className="swiper-slide">
 									<div className="position-relative z-1">
 										<div className="zoom-img rounded-4">
-											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-4.png" alt="infinia" />
+											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-4.png" alt="Millenium Yazılım" />
 										</div>
 										<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 											<div className="position-relative z-1">
@@ -151,7 +151,7 @@ export default function Team3() {
 								<SwiperSlide className="swiper-slide">
 									<div className="position-relative z-1">
 										<div className="zoom-img rounded-4">
-											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-1.png" alt="infinia" />
+											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-1.png" alt="Millenium Yazılım" />
 										</div>
 										<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 											<div className="position-relative z-1">
@@ -173,7 +173,7 @@ export default function Team3() {
 								<SwiperSlide className="swiper-slide">
 									<div className="position-relative z-1">
 										<div className="zoom-img rounded-4">
-											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-2.png" alt="infinia" />
+											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-2.png" alt="Millenium Yazılım" />
 										</div>
 										<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 											<div className="position-relative z-1">
@@ -195,7 +195,7 @@ export default function Team3() {
 								<SwiperSlide className="swiper-slide">
 									<div className="position-relative z-1">
 										<div className="zoom-img rounded-4">
-											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-3.png" alt="infinia" />
+											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-3.png" alt="Millenium Yazılım" />
 										</div>
 										<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 											<div className="position-relative z-1">
@@ -217,7 +217,7 @@ export default function Team3() {
 								<SwiperSlide className="swiper-slide">
 									<div className="position-relative z-1">
 										<div className="zoom-img rounded-4">
-											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-4.png" alt="infinia" />
+											<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-4.png" alt="Millenium Yazılım" />
 										</div>
 										<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 											<div className="position-relative z-1">

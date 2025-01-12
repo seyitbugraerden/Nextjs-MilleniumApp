@@ -11,7 +11,7 @@ export default function HowItWork2({
         <div className="container position-relative z-1">
           <div className="text-center mb-8">
             <div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-              <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+              <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
               <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                 {selectedService?.how.title}
               </span>
@@ -23,7 +23,7 @@ export default function HowItWork2({
           </div>
         </div>
         <div className="position-absolute top-0 start-50 translate-middle-x z-0">
-          <img src="/assets/imgs/howitwork-2/img-bg-line.png" alt="infinia" />
+          <img src="/assets/imgs/howitwork-2/img-bg-line.png" alt="Millenium Yazılım" />
         </div>
         <div className="container">
           <div className="row position-relative justify-content-center">
@@ -33,7 +33,7 @@ export default function HowItWork2({
                   <div className="icon">
                     <img
                       src="/assets/imgs/howitwork-2/icon-1.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
@@ -49,7 +49,7 @@ export default function HowItWork2({
                   <div className="icon">
                     <img
                       src="/assets/imgs/howitwork-2/icon-2.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
@@ -65,7 +65,7 @@ export default function HowItWork2({
                   <div className="icon">
                     <img
                       src="/assets/imgs/howitwork-2/icon-3.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
@@ -77,10 +77,10 @@ export default function HowItWork2({
             </div>
           </div>
           <div className="navigation-arrow-1 d-none d-lg-block position-absolute top-50">
-            <img src="/assets/imgs/howitwork-2/arrow-1.png" alt="infinia" />
+            <img src="/assets/imgs/howitwork-2/arrow-1.png" alt="Millenium Yazılım" />
           </div>
           <div className="navigation-arrow-2 d-none d-lg-block position-absolute">
-            <img src="/assets/imgs/howitwork-2/arrow-2.png" alt="infinia" />
+            <img src="/assets/imgs/howitwork-2/arrow-2.png" alt="Millenium Yazılım" />
           </div>
           <div className="bouncing-blobs-container">
             <div className="bouncing-blobs-glass" />

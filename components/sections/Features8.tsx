@@ -12,7 +12,7 @@ export default function Features8() {
               <div className="col-lg-4 col-md-6 mb-lg-0 mb-8 pe-5 pe-lg-10 position-relative z-1">
                 <img
                   src="/assets/imgs/features-8/icon-star.svg"
-                  alt="infinia"
+                  alt="Millenium Yazılım"
                 />
                 <h2 className="text-white mt-3 mb-4 fw-black">
                   Başlıca Çözümlerimiz
@@ -54,7 +54,7 @@ export default function Features8() {
                       <img
                         className="mt-2"
                         src="/assets/imgs/features-2/tick.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                       <div className="ms-3 pb-4 border-bottom">
                         <h5 className="text-white mb-2">
@@ -74,7 +74,7 @@ export default function Features8() {
                       <img
                         className="mt-2"
                         src="/assets/imgs/features-2/tick.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                       <div className="ms-3 pb-4 border-bottom">
                         <h5 className="text-white mb-2">
@@ -93,7 +93,7 @@ export default function Features8() {
                       <img
                         className="mt-2"
                         src="/assets/imgs/features-2/tick.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                       <div className="ms-3 pb-4 border-bottom">
                         <h5 className="text-white mb-2">
@@ -116,7 +116,7 @@ export default function Features8() {
                       <img
                         className="mt-2"
                         src="/assets/imgs/features-2/tick.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                       <div className="ms-3 pb-4 border-bottom">
                         <h5 className="text-white mb-2">
@@ -136,7 +136,7 @@ export default function Features8() {
                       <img
                         className="mt-2"
                         src="/assets/imgs/features-2/tick.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                       <div className="ms-3 pb-4 border-bottom">
                         <h5 className="text-white mb-2">
@@ -156,7 +156,7 @@ export default function Features8() {
                       <img
                         className="mt-2"
                         src="/assets/imgs/features-2/tick.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                       <div className="ms-3 pb-4 border-bottom">
                         <h5 className="text-white mb-2">
@@ -179,7 +179,7 @@ export default function Features8() {
             <img
               className="rotate-center"
               src="/assets/imgs/features-8/bg-img-favicon.png"
-              alt="infinia"
+              alt="Millenium Yazılım"
             />
           </div>
           <div className="position-absolute top-0 end-0 z-1 p-8">

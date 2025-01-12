@@ -11,13 +11,13 @@ export default function Features3() {
 						<div className="row align-items-center">
 							<div className="col-lg-6 text-lg-end text-center">
 								<div className="position-relative d-inline-block mb-lg-0 mb-8">
-									<img className="rounded-4" src="/assets/imgs/features-3/img-1.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={200} />
+									<img className="rounded-4" src="/assets/imgs/features-3/img-1.png" alt="Millenium Yazılım" data-aos="fade-zoom-in" data-aos-delay={200} />
 									<div className="position-absolute bottom-0 start-0 translate-middle-md-x mb-md-8 backdrop-filter rounded-3 p-md-4 p-3 text-center">
 										<h6>Rate For Us</h6>
 										<div className="d-flex align-items-center justify-content-center py-4">
-											<img src="/assets/imgs/features-3/avatar-1.png" alt="infinia" />
-											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="infinia" />
-											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="infinia" />
+											<img src="/assets/imgs/features-3/avatar-1.png" alt="Millenium Yazılım" />
+											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="Millenium Yazılım" />
+											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="Millenium Yazılım" />
 										</div>
 										<div className="d-flex align-items-center justify-content-center">
 											<svg xmlns="http://www.w3.org/2000/svg" width={26} height={26} viewBox="0 0 26 26" fill="none">

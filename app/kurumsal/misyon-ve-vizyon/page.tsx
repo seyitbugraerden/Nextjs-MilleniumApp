@@ -64,7 +64,7 @@ const page = () => {
         <img
           className="position-absolute bottom-0 start-0 end-0 top-0 z-0"
           src="/assets/imgs/page-header/bg-line.png"
-          alt="infinia"
+          alt="Millenium Yazılım"
         />
         <div className="bouncing-blobs-container">
           <div className="bouncing-blobs-glass" />
@@ -81,7 +81,7 @@ const page = () => {
             <div className="col-12 col-lg-6 ps-lg-0 align-self-stretch">
               <div className="bg-white p-md-8 p-5 rounded-start-lg-0 h-100 rounded-4 mt-lg-0 mt-5 border border-start-lg-0 shadow-1">
                 <div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill mb-2 px-4 py-2">
-                  <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+                  <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
                   <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                     Misyon ve Vizyon
                   </span>
@@ -102,7 +102,7 @@ const page = () => {
             <div className="col-12 col-lg-6 ps-lg-0 align-self-stretch">
               <div className="bg-white p-md-8 p-5 rounded-start-lg-0 h-100 rounded-4 mt-lg-0 mt-5 border border-start-lg-0 shadow-1">
                 <div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill mb-2 px-4 py-2">
-                  <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+                  <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
                   <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                     Misyon ve Vizyon
                   </span>

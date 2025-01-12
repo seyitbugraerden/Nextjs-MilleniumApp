@@ -9,7 +9,7 @@ export default function Blog1() {
 					<div className="row align-items-end">
 						<div className="col-12 col-md-6 me-auto">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">From Blog</span>
 							</div>
 							<h3 className="ds-3 mt-3 mb-3" data-aos="fade-zoom-in" data-aos-delay={100}>Our Latest Articles</h3>
@@ -27,7 +27,7 @@ export default function Blog1() {
 						{/* prettier-ignore */}
 						<div className="col-lg-4 text-start">
 							<div className="card border-0 rounded-3 mt-8 position-relative d-inline-flex" data-aos="fade-zoom-in" data-aos-delay={100}>
-								<img className="rounded-3" src="/assets/imgs/blog-1/card-img-1.png" alt="infinia" />
+								<img className="rounded-3" src="/assets/imgs/blog-1/card-img-1.png" alt="Millenium Yazılım" />
 								<div className="card-body p-0 bg-white">
 									<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Business</span>
@@ -40,7 +40,7 @@ export default function Blog1() {
 						</div>
 						<div className="col-lg-4 text-start">
 							<div className="card border-0 rounded-3 mt-8 position-relative d-inline-flex" data-aos="fade-zoom-in" data-aos-delay={200}>
-								<img className="rounded-3" src="/assets/imgs/blog-1/card-img-2.png" alt="infinia" />
+								<img className="rounded-3" src="/assets/imgs/blog-1/card-img-2.png" alt="Millenium Yazılım" />
 								<div className="card-body p-0 bg-white">
 									<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Technology</span>
@@ -53,7 +53,7 @@ export default function Blog1() {
 						</div>
 						<div className="col-lg-4 text-start">
 							<div className="card border-0 rounded-3 mt-8 position-relative d-inline-flex" data-aos="fade-zoom-in" data-aos-delay={300}>
-								<img className="rounded-3" src="/assets/imgs/blog-1/card-img-3.png" alt="infinia" />
+								<img className="rounded-3" src="/assets/imgs/blog-1/card-img-3.png" alt="Millenium Yazılım" />
 								<div className="card-body p-0 bg-white">
 									<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">security</span>

@@ -20,13 +20,13 @@ export default function Cta5() {
 						<div className="row align-items-center">
 							<div className="col-lg-6 text-lg-start text-center">
 								<div className="position-relative z-1 d-inline-block mb-lg-0 mb-8">
-									<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-5/img-1.webp" alt="infinia" />
+									<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-5/img-1.webp" alt="Millenium Yazılım" />
 									<div className="position-absolute bottom-0 start-md-100 start-0 translate-middle-md-x mb-md-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2">Loved by over 4k <br /> happy clients</p>
 										<div className="d-flex align-items-center justify-content-center py-4">
-											<img src="/assets/imgs/features-3/avatar-1.png" alt="infinia" />
-											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="infinia" />
-											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="infinia" />
+											<img src="/assets/imgs/features-3/avatar-1.png" alt="Millenium Yazılım" />
+											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="Millenium Yazılım" />
+											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="Millenium Yazılım" />
 										</div>
 										<div className="d-flex align-items-center justify-content-center">
 											<svg xmlns="http://www.w3.org/2000/svg" width={26} height={26} viewBox="0 0 26 26" fill="none">
@@ -47,7 +47,7 @@ export default function Cta5() {
 										</div>
 									</div>
 									<div className="position-absolute top-0 start-0 translate-middle z-0 pt-5">
-										<img className="alltuchtopdown" src="/assets/imgs/cta-4/vector.svg" alt="infinia" />
+										<img className="alltuchtopdown" src="/assets/imgs/cta-4/vector.svg" alt="Millenium Yazılım" />
 									</div>
 								</div>
 							</div>

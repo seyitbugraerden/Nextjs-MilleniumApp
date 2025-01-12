@@ -2,6 +2,7 @@ export const services = [
   {
     id: "web-tasarim-ve-gelistirme",
     title: "Web Tasarım ve Geliştirme",
+    img:"Web-Tasarim-Gelistirme.webp",
     metaTitle: "Web Tasarım ve Geliştirme | Modern ve Etkili Çözümler",
     metaDesc:
       "Web tasarımı ve geliştirme alanında profesyonel çözümler sunan Millenium Yazılım, ihtiyaçlarınıza özel web siteleri ve uygulamalar geliştirir.",
@@ -90,6 +91,7 @@ export const services = [
   {
     id: "mobil-uygulama-cozumleri",
     title: "Mobil Uygulama Çözümleri",
+    img:"Mobil-Uygula-Cozumleri.webp",
     metaTitle:
       "Yaratıcı ve İşlevsel Mobil Çözümler | Millenium Yazilim",
     metaDesc:
@@ -179,6 +181,7 @@ export const services = [
   {
     id: "e-ticaret-cozumleri",
     title: "E-Ticaret Çözümleri",
+    img:"E-Ticaret-Cozumleri.webp",
     metaTitle:
       "Online Satış ve E-Ticaret Çözümleri | Millenium Yazılım",
     metaDesc:
@@ -268,6 +271,7 @@ export const services = [
   {
     id: "sosyal-medya-yonetimi",
     title: "Sosyal Medya Yönetimi",
+    img:"Sosyal-Medya-Yonetimi.webp",
     metaTitle: "Markanızı Büyütecek Medya Çözümleri | Millenium Yazılım",
     metaDesc:
       "Millenium Yazılım, etkili sosyal medya yönetimi hizmetleri ile markanızın dijital varlığını güçlendirir ve hedef kitlenizle güçlü bir etkileşim kurar.",
@@ -356,6 +360,7 @@ export const services = [
   {
     id: "seo-ve-dijital-pazarlama",
     title: "SEO ve Dijital Pazarlama",
+    img:"SEO-Dijital-Pazarlama.webp",
     metaTitle:
       "Görünülürlüğünüz için SEO Çözümleri | Millenium Yazılım",
     metaDesc:
@@ -445,6 +450,7 @@ export const services = [
   {
     id: "marka-yonetimi-ve-stratejileri",
     title: "Marka Yönetimi ve Stratejiler",
+    img:"Marka-Yonetimi.webp",
     metaTitle:
       "Başarılı Marka Yönetimi ve Stratejileri | Millenium Yazılım",
     metaDesc:
@@ -534,6 +540,7 @@ export const services = [
   {
     id: "crm-cozumleri",
     title: "CRM Çözümleri",
+    img:"CRM-Cozumleri.webp",
     metaTitle: "İyi Bir Yönetim için CRM Çözümleri | Millenium Yazılım",
     metaDesc:
       "Millenium Yazılım, etkili CRM çözümleri ile müşteri ilişkilerinizi yönetir, satış süreçlerinizi iyileştirir ve iş verimliliğinizi artırır.",
@@ -622,6 +629,7 @@ export const services = [
   {
     id: "kurumsal-web-sitesi-cozumleri",
     title: "Kurumsal Web Sitesi Çözümleri",
+    img:"Kurumsal-Web-Sitesi-Cozumleri.webp",
     metaTitle:
       "Profesyonel Web Sitesi Çözümleri | Millenium Yazılım",
     metaDesc:
@@ -710,6 +718,7 @@ export const services = [
   {
     id: "web-uygulama-gelistirme",
     title: "Web Uygulama Geliştirme",
+    img:"Web-Uygulama-Gelistirme.webp",
     metaTitle:
       "Yenilikçi Web Uygulama Çözümleri | Millenium Yazılım",
     metaDesc:
@@ -800,6 +809,7 @@ export const services = [
   {
     id: "logo-ve-grafik-tasarim",
     title: "Logo ve Grafik Tasarım",
+    img:"Logo-Grafik-Tasarim.webp",
     metaTitle:
       "Yenilikçi Logo ve Grafik Tasarım | Millenium Yazılım",
     metaDesc:

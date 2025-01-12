@@ -68,7 +68,7 @@ const page = () => {
         <img
           className="position-absolute bottom-0 start-0 end-0 top-0 z-0"
           src="/assets/imgs/page-header/bg-line.png"
-          alt="infinia"
+          alt="Millenium Yazılım"
         />
         <div className="bouncing-blobs-container">
           <div className="bouncing-blobs-glass" />

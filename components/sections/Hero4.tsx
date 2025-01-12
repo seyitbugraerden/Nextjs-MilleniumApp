@@ -32,7 +32,7 @@ export default function Hero4() {
 					<div className="row position-relative z-1">
 						<div className="col-lg-6 text-center text-lg-start">
 							<div className="position-relative d-inline-block">
-								<img className="rounded-5 border border-5 border-white" src="/assets/imgs/hero-4/img-1.png" alt="infinia" />
+								<img className="rounded-5 border border-5 border-white" src="/assets/imgs/hero-4/img-1.png" alt="Millenium Yazılım" />
 								<div className="alltuchtopdown backdrop-filter rounded-4 text-center d-inline-block px-6 py-4 m-5 position-absolute bottom-0 end-0">
 									<h2 className="count text-900 fw-black">+<span className="odometer" /><CountUp end={23} enableScrollSpy={true} /><span>k</span></h2>
 									<h6 className="text-500">Professionals</h6>
@@ -44,7 +44,7 @@ export default function Hero4() {
 								</div>
 								<div className="position-absolute start-0 bottom-50 translate-middle-x">
 									<div className="alltuchtopdown">
-										<img src="/assets/imgs/hero-4/vector-1.svg" alt="infinia" />
+										<img src="/assets/imgs/hero-4/vector-1.svg" alt="Millenium Yazılım" />
 									</div>
 								</div>
 							</div>
@@ -100,15 +100,15 @@ export default function Hero4() {
 												<SwiperSlide className="swiper-slide">
 													<div className="d-flex">
 														<div className="img align-self-start">
-															<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="infinia" />
+															<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="Millenium Yazılım" />
 														</div>
 														<div className="content ms-3">
 															<div className="d-flex">
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
 															</div>
 															<p className="text-500 mt-2">
 																Access the same project through five different dynamic <br className="d-md-block d-none" />
@@ -121,15 +121,15 @@ export default function Hero4() {
 												<SwiperSlide className="swiper-slide">
 													<div className="d-flex">
 														<div className="img align-self-start">
-															<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="infinia" />
+															<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="Millenium Yazılım" />
 														</div>
 														<div className="content ms-3">
 															<div className="d-flex">
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
 															</div>
 															<p className="text-500 mt-2">
 																Access the same project through five different dynamic <br className="d-md-block d-none" />
@@ -142,15 +142,15 @@ export default function Hero4() {
 												<SwiperSlide className="swiper-slide">
 													<div className="d-flex">
 														<div className="img align-self-start">
-															<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="infinia" />
+															<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="Millenium Yazılım" />
 														</div>
 														<div className="content ms-3">
 															<div className="d-flex">
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
 															</div>
 															<p className="text-500 mt-2">
 																Access the same project through five different dynamic <br className="d-md-block d-none" />
@@ -163,15 +163,15 @@ export default function Hero4() {
 												<SwiperSlide className="swiper-slide">
 													<div className="d-flex">
 														<div className="img align-self-start">
-															<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="infinia" />
+															<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="Millenium Yazılım" />
 														</div>
 														<div className="content ms-3">
 															<div className="d-flex">
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
+																<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Millenium Yazılım" />
 															</div>
 															<p className="text-500 mt-2">
 																Access the same project through five different dynamic <br className="d-md-block d-none" />
@@ -187,16 +187,16 @@ export default function Hero4() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 end-0 z-1 flickering pt-9 pe-4">
-									<img src="/assets/imgs/hero-4/star-1.svg" alt="infinia" />
+									<img src="/assets/imgs/hero-4/star-1.svg" alt="Millenium Yazılım" />
 								</div>
 							</div>
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-0 bottom-0 mb-5 bg-2 rounded-4 fix">
-						<img className="h-100" src="/assets/imgs/hero-4/line-bg.png" alt="infinia" />
+						<img className="h-100" src="/assets/imgs/hero-4/line-bg.png" alt="Millenium Yazılım" />
 					</div>
 					<div className="position-absolute bg-rotate d-none d-lg-block pb-10 ps-9 mb-8 z-0">
-						<img src="/assets/imgs/hero-4/favicon.svg" alt="infinia" />
+						<img src="/assets/imgs/hero-4/favicon.svg" alt="Millenium Yazılım" />
 					</div>
 				</div>
 			</section>

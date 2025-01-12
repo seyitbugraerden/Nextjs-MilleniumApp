@@ -33,23 +33,23 @@ export default function LogoCloud1() {
                   <li className="carouselTicker__item">
                     <img
                       src="/assets/imgs/logo-cloud/logo-2.png"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </li>
                   <li className="carouselTicker__item">
                     <img
                       src="/assets/imgs/logo-cloud/logo-3.png"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </li>
                   <li className="carouselTicker__item">
                     <img
                       src="/assets/imgs/logo-cloud/logo-4.png"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </li>
                   <li className="carouselTicker__item">
-                    {/* <img src="/assets/imgs/logo-cloud/logo-5.png" alt="infinia"> */}
+                    {/* <img src="/assets/imgs/logo-cloud/logo-5.png" alt="Millenium Yazılım"> */}
                     <svg
                       className="mt-3"
                       xmlns="http://www.w3.org/2000/svg"
@@ -84,19 +84,19 @@ export default function LogoCloud1() {
                   <li className="carouselTicker__item">
                     <img
                       src="/assets/imgs/logo-cloud/logo-6.png"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </li>
                   <li className="carouselTicker__item">
                     <img
                       src="/assets/imgs/logo-cloud/logo-7.png"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </li>
                   <li className="carouselTicker__item">
                     <img
                       src="/assets/imgs/logo-cloud/logo-4.png"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </li>
                 </Marquee>

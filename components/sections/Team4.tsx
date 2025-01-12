@@ -10,7 +10,7 @@ export default function Team4() {
 				<div className="container">
 					<div className="text-center">
 						<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+							<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 						</div>
 						<h3 className="ds-3 my-3">Meet Our Team</h3>
@@ -25,7 +25,7 @@ export default function Team4() {
 						<div className="col-lg-4 col-md-6 mb-lg-4 mb-8 text-center">
 							<div className="position-relative d-inline-block z-1">
 								<div className="zoom-img rounded-3">
-									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-1.png" alt="infinia" />
+									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-1.png" alt="Millenium Yazılım" />
 								</div>
 								<div className="hover-up">
 									<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-6 shadow-1">
@@ -43,7 +43,7 @@ export default function Team4() {
 						<div className="col-lg-4 col-md-6 mb-lg-4 mb-8 text-center">
 							<div className="position-relative d-inline-block z-1">
 								<div className="zoom-img rounded-3">
-									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-2.png" alt="infinia" />
+									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-2.png" alt="Millenium Yazılım" />
 								</div>
 								<div className="hover-up">
 									<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-6 shadow-1">
@@ -61,7 +61,7 @@ export default function Team4() {
 						<div className="col-lg-4 col-md-6 mb-lg-4 mb-8 text-center">
 							<div className="position-relative d-inline-block z-1">
 								<div className="zoom-img rounded-3">
-									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-3.png" alt="infinia" />
+									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-3.png" alt="Millenium Yazılım" />
 								</div>
 								<div className="hover-up">
 									<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-6 shadow-1">
@@ -82,7 +82,7 @@ export default function Team4() {
 						<div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
 							<div className="position-relative d-inline-block z-1">
 								<div className="zoom-img rounded-3">
-									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-4.png" alt="infinia" />
+									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-4.png" alt="Millenium Yazılım" />
 								</div>
 								<div className="hover-up">
 									<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-4 shadow-1">
@@ -100,7 +100,7 @@ export default function Team4() {
 						<div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
 							<div className="position-relative d-inline-block z-1">
 								<div className="zoom-img rounded-3">
-									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-5.png" alt="infinia" />
+									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-5.png" alt="Millenium Yazılım" />
 								</div>
 								<div className="hover-up">
 									<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-4 shadow-1">
@@ -118,7 +118,7 @@ export default function Team4() {
 						<div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
 							<div className="position-relative d-inline-block z-1">
 								<div className="zoom-img rounded-3">
-									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-6.png" alt="infinia" />
+									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-6.png" alt="Millenium Yazılım" />
 								</div>
 								<div className="hover-up">
 									<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-4 shadow-1">
@@ -136,7 +136,7 @@ export default function Team4() {
 						<div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
 							<div className="position-relative d-inline-block z-1">
 								<div className="zoom-img rounded-3">
-									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-7.png" alt="infinia" />
+									<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-7.png" alt="Millenium Yazılım" />
 								</div>
 								<div className="hover-up">
 									<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-4 shadow-1">

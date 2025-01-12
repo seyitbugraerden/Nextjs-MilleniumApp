@@ -25,7 +25,7 @@ export default function Cta7() {
 							<div className="row align-items-center">
 								<div className="col-lg-6 text-lg-start text-center">
 									<div className="position-relative z-1 d-inline-block mb-lg-0 mb-8">
-										<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-7/img-1.png" alt="infinia" />
+										<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-7/img-1.png" alt="Millenium Yazılım" />
 										<div className="alltuchtopdown position-absolute top-50 start-50 ms-md-10 mt-md-10 backdrop-filter bg-primary rounded-4 px-6 py-4 text-center z-1">
 											<span className="h2 count fw-black mb-0 lh-1 text-white text-nowrap">+<span className="odometer" /><CountUp end={23} enableScrollSpy={true} />k</span>
 											<p className="text-white text-nowrap border-bottom border-opacity-50 border-white pb-3 mb-3">Projects Completed</p>
@@ -56,19 +56,19 @@ export default function Cta7() {
 													<p className="text-900">Over the years, we have expanded our services and grown our team of skilled professionals, building a reputation for delivering results-driven solutions. From our humble beginnings to becoming a trusted partner for clients across diverse industries</p>
 													<ul className="list-unstyled phase-items mb-0">
 														<li className="d-flex align-items-center mt-3">
-															<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+															<img src="/assets/imgs/cta-2/check.svg" alt="Millenium Yazılım" />
 															<p className="ms-2 mb-0 text-900 fs-6">Best For IT Consulting</p>
 														</li>
 														<li className="d-flex align-items-center mt-3">
-															<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+															<img src="/assets/imgs/cta-2/check.svg" alt="Millenium Yazılım" />
 															<p className="ms-2 mb-0 text-900 fs-6">Tailored Solutions</p>
 														</li>
 														<li className="d-flex align-items-center mt-3">
-															<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+															<img src="/assets/imgs/cta-2/check.svg" alt="Millenium Yazılım" />
 															<p className="ms-2 mb-0 text-900 fs-6">Save Money  Time</p>
 														</li>
 														<li className="d-flex align-items-center mt-3">
-															<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+															<img src="/assets/imgs/cta-2/check.svg" alt="Millenium Yazılım" />
 															<p className="ms-2 mb-0 text-900 fs-6">Expert Team</p>
 														</li>
 													</ul>
@@ -77,7 +77,7 @@ export default function Cta7() {
 													<img className="rounded-3" src="/assets/imgs/cta-7/img-2.png" alt="" />
 													<Link href="#" className="position-md-absolute d-block translate-middle-md  w-50 start-0 ms-md-0 ms-10 mt-3 mt-md-0 p-3 rounded-3 bg-linear-1">
 														<span className="rounded-circle">
-															<img className="rounded-circle border border-5 border-primary-light" src=" assets/imgs/cta-2/avatar-1.png" alt="infinia" />
+															<img className="rounded-circle border border-5 border-primary-light" src=" assets/imgs/cta-2/avatar-1.png" alt="Millenium Yazılım" />
 														</span>
 														<h6 className="mt-1">Kensei <span className="text-500 fs-6">, CEO</span></h6>
 													</Link>
@@ -107,19 +107,19 @@ export default function Cta7() {
 													<p className="text-900">We strive to be the leading consulting firm known for our unwavering commitment to excellence, integrity, and client success. By continuously evolving and adapting to the ever-changing business landscape, we aim to provide solutions that not only meet the needs of today but also anticipate the challenges of tomorrow.</p>
 													<ul className="list-unstyled phase-items mb-0">
 														<li className="d-flex align-items-center mt-3">
-															<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+															<img src="/assets/imgs/cta-2/check.svg" alt="Millenium Yazılım" />
 															<p className="ms-2 mb-0 text-900 fs-6">Empower Businesses</p>
 														</li>
 														<li className="d-flex align-items-center mt-3">
-															<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+															<img src="/assets/imgs/cta-2/check.svg" alt="Millenium Yazılım" />
 															<p className="ms-2 mb-0 text-900 fs-6">Commitment to Excellence</p>
 														</li>
 														<li className="d-flex align-items-center mt-3">
-															<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+															<img src="/assets/imgs/cta-2/check.svg" alt="Millenium Yazılım" />
 															<p className="ms-2 mb-0 text-900 fs-6">Continuous Evolution</p>
 														</li>
 														<li className="d-flex align-items-center mt-3">
-															<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+															<img src="/assets/imgs/cta-2/check.svg" alt="Millenium Yazılım" />
 															<p className="ms-2 mb-0 text-900 fs-6">Client-Centric Solutions</p>
 														</li>
 													</ul>
@@ -143,7 +143,7 @@ export default function Cta7() {
 							</div>
 						</div>
 						<div className="position-absolute top-0 end-0 z-1 flickering p-10 m-10 d-none d-lg-block">
-							<img src="/assets/imgs/cta-7/star-1.svg" alt="infinia" />
+							<img src="/assets/imgs/cta-7/star-1.svg" alt="Millenium Yazılım" />
 						</div>
 					</div>
 				</div>

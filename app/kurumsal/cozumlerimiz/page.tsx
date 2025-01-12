@@ -63,7 +63,7 @@ const page = () => {
         <img
           className="position-absolute bottom-0 start-0 end-0 top-0 z-0"
           src="/assets/imgs/page-header/bg-line.png"
-          alt="infinia"
+          alt="Millenium Yazılım"
         />
         <div className="bouncing-blobs-container">
           <div className="bouncing-blobs-glass" />
@@ -83,7 +83,7 @@ const page = () => {
                   <img
                     className="rounded-4 border border-2 border-white position-relative z-1"
                     src="/assets/imgs/features-5/img-1.png"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                   <div className="box-gradient-1 ms-lg-8 position-absolute bottom-0 start-0 bg-linear-1 rounded-4 z-0" />
                 </div>
@@ -218,7 +218,7 @@ const page = () => {
                   <img
                     className="rounded-4 border border-2 border-white position-relative z-1"
                     src="/assets/imgs/features-5/img-2.png"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                   <div className="position-absolute top-50 start-50 translate-middle z-0">
                     <div className="box-gradient-2 position-relative bg-linear-1 rounded-4 z-0"></div>
@@ -226,7 +226,7 @@ const page = () => {
                   <img
                     className="position-absolute top-100 start-0 d-none d-md-block translate-middle rounded-4 border border-2 border-white position-relative z-1"
                     src="/assets/imgs/features-5/img-3.png"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                     data-aos="zoom-in"
                     data-aos-delay={100}
                   />
@@ -246,7 +246,7 @@ const page = () => {
                 data-aos="zoom-in"
                 data-aos-delay={200}
               >
-                <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+                <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
                 <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                   Ne sunuyoruz?
                 </span>
@@ -274,7 +274,7 @@ const page = () => {
                   <img
                     className="filter-invert"
                     src="/assets/imgs/features-4/icon-1.svg"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                   <h6 className="my-3 fs-5">Web Tasarımı ve Geliştirme</h6>
                   <p className="mb-6">
@@ -294,7 +294,7 @@ const page = () => {
                   <img
                     className="filter-invert"
                     src="/assets/imgs/features-4/icon-2.svg"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                   <h6 className="my-3 fs-5">Mobil Uygulama Geliştirme</h6>
                   <p className="mb-6">
@@ -314,7 +314,7 @@ const page = () => {
                   <img
                     className="filter-invert"
                     src="/assets/imgs/features-4/icon-3.svg"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                   <h6 className="my-3 fs-5">E-Ticaret Çözümleri</h6>
                   <p className="mb-6">
@@ -333,7 +333,7 @@ const page = () => {
                   <img
                     className="filter-invert"
                     src="/assets/imgs/features-4/icon-4.svg"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                   <h6 className="my-3 fs-5">Dijital Pazarlama ve SEO</h6>
                   <p className="mb-6">

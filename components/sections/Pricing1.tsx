@@ -44,7 +44,7 @@ export default function Pricing1() {
 						<div className="col-lg-auto me-lg-auto">
 							<div className="text-start mb-lg-0 mb-5">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">our plans</span>
 								</div>
 								<h3 className="ds-3 my-3" data-aos="fade-zoom-in" data-aos-delay={200}>Pricing Plans</h3>
@@ -75,23 +75,23 @@ export default function Pricing1() {
 								</button>
 								<ul className="list-unstyled mb-0">
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">Single Team Member</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">Over 1200 UI Blocks</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">10 GB of Cloud Storage</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2 text-400">Personal Email Account</h6>
 									</li>
 									<li className="d-flex align-items-center">
-										<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2 text-400">Priority Support</h6>
 									</li>
 								</ul>
@@ -115,23 +115,23 @@ export default function Pricing1() {
 								</button>
 								<ul className="list-unstyled mb-0">
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">05 Team Member</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">All multimedia channels</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">All advanced CRM features</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">Up to 15,000 contacts</h6>
 									</li>
 									<li className="d-flex align-items-center">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">24/7 Support (Email, Chat)</h6>
 									</li>
 								</ul>
@@ -155,23 +155,23 @@ export default function Pricing1() {
 								</button>
 								<ul className="list-unstyled mb-0">
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">50 Team Member</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">Over 1500 UI Blocks</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">100 GB of Cloud Storage</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">Personal Email Account</h6>
 									</li>
 									<li className="d-flex align-items-center">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">Priority Support</h6>
 									</li>
 								</ul>
@@ -195,23 +195,23 @@ export default function Pricing1() {
 								</button>
 								<ul className="list-unstyled mb-0">
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">Customized features</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">Scalability  security</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">Account manager</h6>
 									</li>
 									<li className="d-flex align-items-center mb-4">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">Unlimited chat history</h6>
 									</li>
 									<li className="d-flex align-items-center">
-										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+										<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Millenium Yazılım" />
 										<h6 className="fs-6 mb-0 ms-2">50 Integrations</h6>
 									</li>
 								</ul>

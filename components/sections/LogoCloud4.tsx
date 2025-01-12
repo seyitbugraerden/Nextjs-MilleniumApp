@@ -13,22 +13,22 @@ export default function LogoCloud4() {
 							<ul className="carouselTicker__list">
 								<Marquee direction="right">
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud-4/logo-1.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-4/logo-1.svg" alt="Millenium Yazılım" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud-4/logo-2.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-4/logo-2.svg" alt="Millenium Yazılım" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud-4/logo-3.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-4/logo-3.svg" alt="Millenium Yazılım" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud-4/logo-4.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-4/logo-4.svg" alt="Millenium Yazılım" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud-4/logo-5.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-4/logo-5.svg" alt="Millenium Yazılım" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud-4/logo-6.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-4/logo-6.svg" alt="Millenium Yazılım" />
 									</li>
 								</Marquee>
 							</ul>

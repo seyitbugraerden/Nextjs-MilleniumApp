@@ -18,24 +18,24 @@ export default function Faqs1() {
 					<div className="row align-items-center">
 						<div className="col-lg-6">
 							<div className="text-start position-relative d-inline-block mb-lg-0 mb-5">
-								<img className="rounded-4" src=" assets/imgs/faqs-1/img-1.png" alt="infinia" />
+								<img className="rounded-4" src=" assets/imgs/faqs-1/img-1.png" alt="Millenium Yazılım" />
 								<div className="px-0 card-team rounded-4 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto px-5 py-8 m-5">
 									<div className="d-flex flex-column flex-md-row align-items-start gap-3 mb-4" data-aos="fade-zoom-in" data-aos-delay={0}>
-										<img src="/assets/imgs/faqs-1/icon-1.png" alt="infinia" />
+										<img src="/assets/imgs/faqs-1/icon-1.png" alt="Millenium Yazılım" />
 										<div>
 											<h6 className="m-0">Live chat support 24/7</h6>
 											<p className="m-0">More than 300 employees are ready to help you</p>
 										</div>
 									</div>
 									<div className="d-flex flex-column flex-md-row align-items-start gap-3 mb-4" data-aos="fade-zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/faqs-1/icon-2.png" alt="infinia" />
+										<img src="/assets/imgs/faqs-1/icon-2.png" alt="Millenium Yazılım" />
 										<div>
 											<h6 className="m-0">Help desk support center</h6>
 											<p className="m-0">Via ticket system. 24/7 available.</p>
 										</div>
 									</div>
 									<div className="d-flex flex-column flex-md-row align-items-start gap-3" data-aos="fade-zoom-in" data-aos-delay={200}>
-										<img src="/assets/imgs/faqs-1/icon-3.png" alt="infinia" />
+										<img src="/assets/imgs/faqs-1/icon-3.png" alt="Millenium Yazılım" />
 										<div>
 											<h6 className="m-0">Book a demo</h6>
 											<p className="m-0">Live support via video call</p>
@@ -132,7 +132,7 @@ export default function Faqs1() {
 						</div>
 					</div>
 				</div>
-				<img className="position-absolute top-0 end-0 z-0" src="/assets/imgs/faqs-1/img-bg-line.png" alt="infinia" />
+				<img className="position-absolute top-0 end-0 z-0" src="/assets/imgs/faqs-1/img-bg-line.png" alt="Millenium Yazılım" />
 			</section>
 		</>
 	)

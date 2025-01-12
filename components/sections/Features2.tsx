@@ -10,7 +10,7 @@ export default function Features2() {
 					<div className="container">
 						<div className="row align-items-center">
 							<div className="col-lg-4 col-md-6 mb-lg-0 mb-8 position-relative z-1">
-								<img src="/assets/imgs/features-2/icon-1.svg" alt="infinia" className="hover-up" />
+								<img src="/assets/imgs/features-2/icon-1.svg" alt="Millenium Yazılım" className="hover-up" />
 								<h2 className="text-white mt-3 mb-4 fw-medium hover-up">Scalable Business for <span className="fw-bold">Startups</span>.</h2>
 								<ul className="list-unstyled phase-items">
 									<li>
@@ -53,7 +53,7 @@ export default function Features2() {
 							</div>
 							<div className="col-lg-4 col-md-6 mb-lg-0 mb-8">
 								<div className="position-relative d-inline-block z-2  hover-up">
-									<img className="rounded-3 border border-3 border-white" src="/assets/imgs/features-2/img-1.png" alt="infinia" />
+									<img className="rounded-3 border border-3 border-white" src="/assets/imgs/features-2/img-1.png" alt="Millenium Yazılım" />
 									<div className="position-absolute bottom-0 start-0 end-0 mb-3 mx-3 backdrop-filter rounded-3 text-start p-3">
 										<Link href="/ #" className="d-flex align-items-center bg-white-keep d-inline-flex rounded-pill px-2 py-1">
 											<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">Get</span>
@@ -69,7 +69,7 @@ export default function Features2() {
 							</div>
 							<div className="col-lg-4 mb-lg-0 mb-8">
 								<div className="px-lg-8">
-									<img src="/assets/imgs/features-2/icon-2.svg" alt="infinia" className="hover-up" />
+									<img src="/assets/imgs/features-2/icon-2.svg" alt="Millenium Yazılım" className="hover-up" />
 									<div data-aos="fade-zoom-in" data-aos-delay={100}>
 										<h5 className="text-white mt-3 mb-3">Efficiency Experts</h5>
 										<p className="text-white border-bottom pb-3">A business consultant provides expert advice and guidance to businesses on various aspects.</p>
@@ -83,7 +83,7 @@ export default function Features2() {
 						</div>
 					</div>
 					<div className="position-absolute bg-rotate z-0">
-						<img className="rotate-center" src="/assets/imgs/features-2/bg-img-favicon.png" alt="infinia" />
+						<img className="rotate-center" src="/assets/imgs/features-2/bg-img-favicon.png" alt="Millenium Yazılım" />
 					</div>
 					<div className="position-absolute top-0 end-0 z-1 p-8">
 						<div className="bloom" />

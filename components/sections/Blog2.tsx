@@ -13,7 +13,7 @@ export default function Blog2() {
 						<div className="col-lg-4">
 							<div className="pe-6">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">From Blog</span>
 								</div>
 								<h3 className="ds-3 mt-3 mb-3" data-aos="fade-zoom-in" data-aos-delay={0}>Our Latest News and Articles</h3>
@@ -61,7 +61,7 @@ export default function Blog2() {
 									<div className="swiper-wrapper">
 										<SwiperSlide className="swiper-slide">
 											<div className="card border-0 rounded-3 position-relative d-inline-flex card-hover">
-												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-1.png" alt="infinia" />
+												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-1.png" alt="Millenium Yazılım" />
 												<div className="card-body">
 													<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 														<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Business</span>
@@ -74,7 +74,7 @@ export default function Blog2() {
 										</SwiperSlide>
 										<SwiperSlide className="swiper-slide">
 											<div className="card border-0 rounded-3 position-relative d-inline-flex card-hover">
-												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-2.png" alt="infinia" />
+												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-2.png" alt="Millenium Yazılım" />
 												<div className="card-body">
 													<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 														<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Business</span>
@@ -87,7 +87,7 @@ export default function Blog2() {
 										</SwiperSlide>
 										<SwiperSlide className="swiper-slide">
 											<div className="card border-0 rounded-3 position-relative d-inline-flex card-hover">
-												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-3.png" alt="infinia" />
+												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-3.png" alt="Millenium Yazılım" />
 												<div className="card-body">
 													<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 														<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Business</span>
@@ -100,7 +100,7 @@ export default function Blog2() {
 										</SwiperSlide>
 										<SwiperSlide className="swiper-slide">
 											<div className="card border-0 rounded-3 position-relative d-inline-flex card-hover">
-												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-1.png" alt="infinia" />
+												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-1.png" alt="Millenium Yazılım" />
 												<div className="card-body">
 													<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 														<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Business</span>
@@ -113,7 +113,7 @@ export default function Blog2() {
 										</SwiperSlide>
 										<SwiperSlide className="swiper-slide">
 											<div className="card border-0 rounded-3 position-relative d-inline-flex card-hover">
-												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-2.png" alt="infinia" />
+												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-2.png" alt="Millenium Yazılım" />
 												<div className="card-body">
 													<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 														<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Business</span>
@@ -126,7 +126,7 @@ export default function Blog2() {
 										</SwiperSlide>
 										<SwiperSlide className="swiper-slide">
 											<div className="card border-0 rounded-3 position-relative d-inline-flex card-hover">
-												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-3.png" alt="infinia" />
+												<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-3.png" alt="Millenium Yazılım" />
 												<div className="card-body">
 													<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 														<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Business</span>
@@ -144,7 +144,7 @@ export default function Blog2() {
 					</div>
 				</div>
 				<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-					<img src="/assets/imgs/blog-2/img-bg-line.png" alt="infinia" />
+					<img src="/assets/imgs/blog-2/img-bg-line.png" alt="Millenium Yazılım" />
 				</div>
 				<div className="bouncing-blobs-container">
 					<div className="bouncing-blobs-glass" />

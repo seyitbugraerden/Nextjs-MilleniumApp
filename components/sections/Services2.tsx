@@ -8,7 +8,7 @@ export default function Services2() {
 				<div className="container position-relative z-2">
 					<div className="text-center">
 						<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+							<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 						</div>
 						<h3 className="ds-3 my-3 fw-regular">
@@ -25,7 +25,7 @@ export default function Services2() {
 								<div className="card-service bg-white p-6 border rounded-4 text-center">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 										<div className="icon">
-											<img src="/assets/imgs/service-2/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/service-2/icon-1.svg" alt="Millenium Yazılım" />
 										</div>
 									</div>
 									<h5 className="my-3">Business Analytics</h5>
@@ -51,7 +51,7 @@ export default function Services2() {
 								<div className="card-service bg-white p-6 border rounded-4 text-center">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 										<div className="icon">
-											<img src="/assets/imgs/service-2/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/service-2/icon-2.svg" alt="Millenium Yazılım" />
 										</div>
 									</div>
 									<h5 className="my-3">Investment</h5>
@@ -77,7 +77,7 @@ export default function Services2() {
 								<div className="card-service bg-white p-6 border rounded-4 text-center">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 										<div className="icon">
-											<img src="/assets/imgs/service-2/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/service-2/icon-3.svg" alt="Millenium Yazılım" />
 										</div>
 									</div>
 									<h5 className="my-3">Tax Advisory</h5>
@@ -103,7 +103,7 @@ export default function Services2() {
 								<div className="card-service bg-white p-6 border rounded-4 text-center">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 										<div className="icon">
-											<img src="/assets/imgs/service-2/icon-4.svg" alt="infinia" />
+											<img src="/assets/imgs/service-2/icon-4.svg" alt="Millenium Yazılım" />
 										</div>
 									</div>
 									<h5 className="my-3">Automated reports</h5>
@@ -129,7 +129,7 @@ export default function Services2() {
 								<div className="card-service bg-white p-6 border rounded-4 text-center">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 										<div className="icon">
-											<img src="/assets/imgs/service-2/icon-5.svg" alt="infinia" />
+											<img src="/assets/imgs/service-2/icon-5.svg" alt="Millenium Yazılım" />
 										</div>
 									</div>
 									<h5 className="my-3">Funnel optimization</h5>
@@ -155,7 +155,7 @@ export default function Services2() {
 								<div className="card-service bg-white p-6 border rounded-4 text-center">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 										<div className="icon">
-											<img src="/assets/imgs/service-2/icon-6.svg" alt="infinia" />
+											<img src="/assets/imgs/service-2/icon-6.svg" alt="Millenium Yazılım" />
 										</div>
 									</div>
 									<h5 className="my-3">Integrations</h5>
@@ -197,7 +197,7 @@ export default function Services2() {
 					</div>
 				</div>
 				<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-					<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+					<img src="/assets/imgs/service-2/bg-line.png" alt="Millenium Yazılım" />
 				</div>
 				<div className="rotate-center ellipse-rotate-success position-absolute z-1" />
 				<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />

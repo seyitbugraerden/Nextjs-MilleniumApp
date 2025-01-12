@@ -19,7 +19,7 @@ export default function Faqs3() {
 						<div className="col-lg-6">
 							<div className="text-start">
 								<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Frequently Asked questions</span>
 								</div>
 								<h3 className="ds-3 my-3 fw-bold">

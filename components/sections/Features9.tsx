@@ -11,7 +11,7 @@ export default function Features9() {
 						<div className="row align-items-center">
 							<div className="col-lg-4 col-md-6 mb-lg-0 mb-8 position-relative z-1">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft d-inline-flex rounded-pill border-white border px-3 py-1">
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Download Mobile App</span>
 								</div>
 								<h2 className=" mt-3 mb-4 fw-black">Manage all from anywhere</h2>
@@ -19,19 +19,19 @@ export default function Features9() {
 								<ul className="list-unstyled phase-items">
 									<li>
 										<Link href="#" className="phase-item d-flex align-items-center mb-3">
-											<img src="/assets/imgs/features-9/tick.svg" alt="infinia" />
+											<img src="/assets/imgs/features-9/tick.svg" alt="Millenium Yazılım" />
 											<p className=" mb-0 ms-2 fs-5 text-900">Beautiful awesome interface</p>
 										</Link>
 									</li>
 									<li>
 										<Link href="#" className="phase-item d-flex align-items-center mb-3">
-											<img src="/assets/imgs/features-9/tick.svg" alt="infinia" />
+											<img src="/assets/imgs/features-9/tick.svg" alt="Millenium Yazılım" />
 											<p className=" mb-0 ms-2 fs-5 text-900">Online collaborative anytime</p>
 										</Link>
 									</li>
 									<li>
 										<Link href="#" className="phase-item d-flex align-items-center mb-3">
-											<img src="/assets/imgs/features-9/tick.svg" alt="infinia" />
+											<img src="/assets/imgs/features-9/tick.svg" alt="Millenium Yazılım" />
 											<p className=" mb-0 ms-2 fs-5 text-900">Real-time updates</p>
 										</Link>
 									</li>
@@ -39,10 +39,10 @@ export default function Features9() {
 							</div>
 							<div className="col-lg-4 col-md-6 mb-lg-0 mb-8">
 								<div className="position-relative d-inline-block z-2">
-									<img className="rounded-4 border border-3 border-white" src="/assets/imgs/features-9/img-1.png" alt="infinia" />
+									<img className="rounded-4 border border-3 border-white" src="/assets/imgs/features-9/img-1.png" alt="Millenium Yazılım" />
 									<div className="position-absolute bottom-0 start-0 end-0 mb-3 mx-3 backdrop-filter rounded-3 text-start p-3">
 										<Link href="/page-contact-1" className="d-flex align-items-center">
-											<img src="/assets/imgs/cta-3/icon-contact.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-3/icon-contact.svg" alt="Millenium Yazılım" />
 											<span className="ms-3">
 												<span className="text-white text-uppercase mb-0 fs-7">Contact Us</span>
 												<span className="fs-4 d-block">+01 (24) 568 900</span>

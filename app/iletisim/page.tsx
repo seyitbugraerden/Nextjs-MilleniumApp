@@ -44,7 +44,7 @@ const page = () => {
         <img
           className="position-absolute bottom-0 start-0 end-0 top-0 z-0"
           src="/assets/imgs/page-header/bg-line.png"
-          alt="infinia"
+          alt="Millenium Yazılım"
         />
         <div className="bouncing-blobs-container">
           <div className="bouncing-blobs-glass" />
@@ -283,7 +283,7 @@ const page = () => {
                     <div className="d-flex mb-2">
                       <img
                         src="/assets/imgs/contact-2/icon-1.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                       <Link
                         className="ms-2 text-decoration-underline text-900 fs-7"
@@ -295,7 +295,7 @@ const page = () => {
                     <div className="d-flex mb-2 mb-5">
                       <img
                         src="/assets/imgs/contact-2/icon-3.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                       <Link
                         className="ms-2 text-decoration-underline text-900 fs-7"
@@ -311,7 +311,7 @@ const page = () => {
                     <div className="d-flex mb-2">
                       <img
                         src="/assets/imgs/contact-2/icon-4.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                       <Link
                         className="ms-2 text-decoration-underline text-900 fs-7"
@@ -323,7 +323,7 @@ const page = () => {
                     <div className="d-flex mb-2 mb-5">
                       <img
                         src="/assets/imgs/contact-2/icon-4.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                       <Link
                         className="ms-2 text-decoration-underline text-900 fs-7"
@@ -337,7 +337,7 @@ const page = () => {
                     {/*  <div className="d-flex mb-2">
                       <img
                         src="/assets/imgs/contact-2/icon-5.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                       <Link
                         className="ms-2 text-decoration-underline text-900 fs-7"
@@ -363,7 +363,7 @@ const page = () => {
                   <div className="icon">
                     <img
                       src="/assets/imgs/contact-5/icon-1.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
@@ -382,7 +382,7 @@ const page = () => {
                   <div className="icon">
                     <img
                       src="/assets/imgs/contact-5/icon-2.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
@@ -398,7 +398,7 @@ const page = () => {
                   <div className="icon">
                     <img
                       src="/assets/imgs/contact-5/icon-3.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
@@ -416,7 +416,7 @@ const page = () => {
                   <div className="icon">
                     <img
                       src="/assets/imgs/contact-5/icon-4.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>

@@ -47,7 +47,7 @@ export default function Blog4() {
 					<div className="row align-items-end">
 						<div className="col-12 col-md-4 me-auto">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">From Blog</span>
 							</div>
 							<h3 className="ds-3 mt-3 mb-3">Our Latest Articles</h3>
@@ -70,7 +70,7 @@ export default function Blog4() {
 								{/* prettier-ignore */}
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover shadow-2">
-										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-1.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-1.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Business</span>
 										</Link>
@@ -80,7 +80,7 @@ export default function Blog4() {
 											<div className="d-flex align-items-center justify-content-between mt-5 pt-5 border-top ">
 												<div className="d-flex align-items-center">
 													<div className="icon-shape rounded-circle border border-2 border-white">
-														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="infinia" />
+														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="Millenium Yazılım" />
 													</div>
 													<div className="ms-3">
 														<h6 className="fs-7 m-0 mb-1">Evara Rose</h6>
@@ -100,7 +100,7 @@ export default function Blog4() {
 								</SwiperSlide>
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover shadow-2">
-										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-2.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-2.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">SEO</span>
 										</Link>
@@ -110,7 +110,7 @@ export default function Blog4() {
 											<div className="d-flex align-items-center justify-content-between mt-5 pt-5 border-top ">
 												<div className="d-flex align-items-center">
 													<div className="icon-shape rounded-circle border border-2 border-white">
-														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-2.png" alt="infinia" />
+														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-2.png" alt="Millenium Yazılım" />
 													</div>
 													<div className="ms-3">
 														<h6 className="fs-7 m-0 mb-1">Olivia Smith</h6>
@@ -130,7 +130,7 @@ export default function Blog4() {
 								</SwiperSlide>
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover shadow-2">
-										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-3.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-3.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Marketing</span>
 										</Link>
@@ -140,7 +140,7 @@ export default function Blog4() {
 											<div className="d-flex align-items-center justify-content-between mt-5 pt-5 border-top ">
 												<div className="d-flex align-items-center">
 													<div className="icon-shape rounded-circle border border-2 border-white">
-														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-3.png" alt="infinia" />
+														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-3.png" alt="Millenium Yazılım" />
 													</div>
 													<div className="ms-3">
 														<h6 className="fs-7 m-0 mb-1">Sophia Martinez</h6>
@@ -160,7 +160,7 @@ export default function Blog4() {
 								</SwiperSlide>
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover shadow-2">
-										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-1.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-1.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Business</span>
 										</Link>
@@ -170,7 +170,7 @@ export default function Blog4() {
 											<div className="d-flex align-items-center justify-content-between mt-5 pt-5 border-top ">
 												<div className="d-flex align-items-center">
 													<div className="icon-shape rounded-circle border border-2 border-white">
-														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="infinia" />
+														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="Millenium Yazılım" />
 													</div>
 													<div className="ms-3">
 														<h6 className="fs-7 m-0 mb-1">Evara Rose</h6>
@@ -190,7 +190,7 @@ export default function Blog4() {
 								</SwiperSlide>
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover shadow-2">
-										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-2.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-2.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">SEO</span>
 										</Link>
@@ -200,7 +200,7 @@ export default function Blog4() {
 											<div className="d-flex align-items-center justify-content-between mt-5 pt-5 border-top ">
 												<div className="d-flex align-items-center">
 													<div className="icon-shape rounded-circle border border-2 border-white">
-														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-2.png" alt="infinia" />
+														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-2.png" alt="Millenium Yazılım" />
 													</div>
 													<div className="ms-3">
 														<h6 className="fs-7 m-0 mb-1">Olivia Smith</h6>
@@ -220,7 +220,7 @@ export default function Blog4() {
 								</SwiperSlide>
 								<SwiperSlide className="swiper-slide">
 									<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover shadow-2">
-										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-3.png" alt="infinia" />
+										<img className="rounded-top-3" src="/assets/imgs/blog-4/card-img-3.png" alt="Millenium Yazılım" />
 										<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Marketing</span>
 										</Link>
@@ -230,7 +230,7 @@ export default function Blog4() {
 											<div className="d-flex align-items-center justify-content-between mt-5 pt-5 border-top ">
 												<div className="d-flex align-items-center">
 													<div className="icon-shape rounded-circle border border-2 border-white">
-														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-3.png" alt="infinia" />
+														<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-3.png" alt="Millenium Yazılım" />
 													</div>
 													<div className="ms-3">
 														<h6 className="fs-7 m-0 mb-1">Sophia Martinez</h6>

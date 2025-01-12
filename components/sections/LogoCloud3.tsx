@@ -12,25 +12,25 @@ export default function LogoCloud3() {
                   <img
                     className="filter-invert"
                     src="/assets/imgs/logo-cloud-3/logo-1.svg"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                 </li>
                 <li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
                   <img
                     src="/assets/imgs/logo-cloud-3/logo-2.svg"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                 </li>
                 <li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
                   <img
                     src="/assets/imgs/logo-cloud-3/logo-3.svg"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                 </li>
                 <li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
                   <img
                     src="/assets/imgs/logo-cloud-3/logo-4.svg"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                 </li>
                 <li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
@@ -68,13 +68,13 @@ export default function LogoCloud3() {
                 <li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
                   <img
                     src="/assets/imgs/logo-cloud-3/logo-6.svg"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                 </li>
                 <li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
                   <img
                     src="/assets/imgs/logo-cloud-3/logo-7.svg"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                 </li>
               </Marquee>
@@ -89,40 +89,40 @@ export default function LogoCloud3() {
                       <img
                         className="filter-invert"
                         src="/assets/imgs/logo-cloud-3/logo-8.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                     </li>
                     <li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
                       <img
                         className="filter-invert"
                         src="/assets/imgs/logo-cloud-3/logo-9.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                     </li>
                     <li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
                       <img
                         src="/assets/imgs/logo-cloud-3/logo-3.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                     </li>
                     <li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
                       <img
                         className="filter-invert"
                         src="/assets/imgs/logo-cloud-3/logo-10.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                     </li>
                     <li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
                       <img
                         src="/assets/imgs/logo-cloud-3/logo-11.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                     </li>
                     <li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
                       <img
                         className="filter-invert"
                         src="/assets/imgs/logo-cloud-3/logo-12.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                     </li>
                   </Marquee>

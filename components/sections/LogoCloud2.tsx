@@ -20,16 +20,16 @@ export default function LogoCloud2() {
 								<ul className="carouselTicker__list">
 									<Marquee>
 										<li className="carouselTicker__item">
-											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-1.png" alt="infinia" />
+											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-1.png" alt="Millenium Yazılım" />
 										</li>
 										<li className="carouselTicker__item">
-											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-2.png" alt="infinia" />
+											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-2.png" alt="Millenium Yazılım" />
 										</li>
 										<li className="carouselTicker__item">
-											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-3.png" alt="infinia" />
+											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-3.png" alt="Millenium Yazılım" />
 										</li>
 										<li className="carouselTicker__item">
-											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-4.png" alt="infinia" />
+											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-4.png" alt="Millenium Yazılım" />
 										</li>
 									</Marquee>
 								</ul>
@@ -38,13 +38,13 @@ export default function LogoCloud2() {
 								<ul className="carouselTicker__list">
 									<Marquee direction="right">
 										<li className="carouselTicker__item">
-											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-5.png" alt="infinia" />
+											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-5.png" alt="Millenium Yazılım" />
 										</li>
 										<li className="carouselTicker__item">
-											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-6.png" alt="infinia" />
+											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-6.png" alt="Millenium Yazılım" />
 										</li>
 										<li className="carouselTicker__item">
-											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-7.png" alt="infinia" />
+											<img className="rounded-4" src="/assets/imgs/logo-cloud-2/logo-7.png" alt="Millenium Yazılım" />
 										</li>
 									</Marquee>
 								</ul>

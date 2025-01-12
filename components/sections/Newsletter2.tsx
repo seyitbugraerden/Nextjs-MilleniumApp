@@ -10,7 +10,7 @@ export default function Newsletter2() {
 						<div className="col-lg-6 mx-auto">
 							<div className="px-lg-3 text-center">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Join Our Community</span>
 								</div>
 								<h4 className="my-5 text-white">

@@ -18,7 +18,7 @@ export default function Features6() {
 				<div className="container position-relative z-2">
 					<div className="text-center">
 						<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+							<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Why We Are The Best</span>
 						</div>
 						<h3 className="ds-3 my-3 fw-regular">Proud projects <span className=" fw-bold">that make <br className="d-none d-lg-inline" /> us stand</span> out</h3>
@@ -110,21 +110,21 @@ export default function Features6() {
 						</div>
 						<div className="col-lg-6 px-lg-6 mt-lg-0 mt-8">
 							<Link href="#" className="d-flex flex-column flex-md-row align-items-center mb-6 hover-up">
-								<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-1.png" alt="infinia" />
+								<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-1.png" alt="Millenium Yazılım" />
 								<div className="content mt-md-0 mt-4 ms-5">
 									<h6 className="mb-2">Cloud Migration Services</h6>
 									<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
 								</div>
 							</Link>
 							<Link href="#" className="d-flex flex-column flex-md-row align-items-center mb-6 hover-up">
-								<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-2.png" alt="infinia" />
+								<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-2.png" alt="Millenium Yazılım" />
 								<div className="content mt-md-0 mt-4 ms-5">
 									<h6 className="mb-2">Mobile App Development</h6>
 									<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
 								</div>
 							</Link>
 							<Link href="#" className="d-flex flex-column flex-md-row align-items-center mb-6 hover-up">
-								<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-3.png" alt="infinia" />
+								<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-3.png" alt="Millenium Yazılım" />
 								<div className="content mt-md-0 mt-4 ms-5">
 									<h6 className="mb-2">UI/UX Design Teaching</h6>
 									<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
@@ -134,7 +134,7 @@ export default function Features6() {
 					</div>
 				</div>
 				<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-					<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+					<img src="/assets/imgs/service-2/bg-line.png" alt="Millenium Yazılım" />
 				</div>
 				<div className="rotate-center ellipse-rotate-success position-absolute z-1" />
 				<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />

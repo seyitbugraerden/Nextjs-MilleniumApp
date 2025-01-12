@@ -62,7 +62,7 @@ export default function Static1() {
 					</div>
 				</div>
 				<div className="img-decorate position-absolute top-0 start-0">
-					<img src="/assets/imgs/static-1/img-decorate.png" alt="infinia" />
+					<img src="/assets/imgs/static-1/img-decorate.png" alt="Millenium Yazılım" />
 				</div>
 				<div className="bouncing-blobs-container">
 					<div className="bouncing-blobs-glass bg-transparent" />

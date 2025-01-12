@@ -10,7 +10,7 @@ export default function Services4() {
 				<div className="container position-relative z-2">
 					<div className="text-center">
 						<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+							<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 						</div>
 						<h3 className="ds-3 my-3 fw-regular">Building <span className=" fw-bold">enduring value <br className="d-none d-md-inline" /> </span>through <span className="fw-bold">bold</span> strategies</h3>
@@ -72,7 +72,7 @@ export default function Services4() {
 												<div className="d-flex pt-5">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-1.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -83,7 +83,7 @@ export default function Services4() {
 												<div className="d-flex">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-2.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -107,7 +107,7 @@ export default function Services4() {
 												<div className="d-flex pt-5">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-1.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -118,7 +118,7 @@ export default function Services4() {
 												<div className="d-flex">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-2.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -142,7 +142,7 @@ export default function Services4() {
 												<div className="d-flex pt-5">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-1.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -153,7 +153,7 @@ export default function Services4() {
 												<div className="d-flex">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-2.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -177,7 +177,7 @@ export default function Services4() {
 												<div className="d-flex pt-5">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-1.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -188,7 +188,7 @@ export default function Services4() {
 												<div className="d-flex">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-2.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -212,7 +212,7 @@ export default function Services4() {
 												<div className="d-flex pt-5">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-1.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -223,7 +223,7 @@ export default function Services4() {
 												<div className="d-flex">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-2.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -247,7 +247,7 @@ export default function Services4() {
 												<div className="d-flex pt-5">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-1.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -258,7 +258,7 @@ export default function Services4() {
 												<div className="d-flex">
 													<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 														<div className="icon">
-															<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+															<img src="/assets/imgs/service-4/icon-2.svg" alt="Millenium Yazılım" />
 														</div>
 													</div>
 													<div className="ps-5">
@@ -290,7 +290,7 @@ export default function Services4() {
 					</div>
 				</div>
 				<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-					<img src="/assets/imgs/blog-2/img-bg-line.png" alt="infinia" />
+					<img src="/assets/imgs/blog-2/img-bg-line.png" alt="Millenium Yazılım" />
 				</div>
 				<div className="bouncing-blobs-container">
 					<div className="bouncing-blobs-glass" />

@@ -10,7 +10,7 @@ export default function Features5() {
 						<div className="row align-items-center">
 							<div className="col-lg-5">
 								<div className="photo-description position-relative  rounded-4">
-									<img className="rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-1.png" alt="infinia" />
+									<img className="rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-1.png" alt="Millenium Yazılım" />
 									<div className="box-gradient-1 ms-lg-8 position-absolute bottom-0 start-0 bg-linear-1 rounded-4 z-0" />
 								</div>
 							</div>
@@ -49,12 +49,12 @@ export default function Features5() {
 							</div>
 							<div className="col-lg-6 offset-lg-1 order-1 order-lg-2 mt-5 text-lg-end text-center">
 								<div className="photo-description position-relative rounded-4 d-inline-block">
-									<img className="rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-2.png" alt="infinia" />
+									<img className="rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-2.png" alt="Millenium Yazılım" />
 									<div className="position-absolute top-50 start-50 translate-middle z-0">
 										<div className="box-gradient-2 position-relative bg-linear-1 rounded-4 z-0">
 										</div>
 									</div>
-									<img className="position-absolute top-100 start-0 d-none d-md-block translate-middle rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-3.png" alt="infinia" data-aos="zoom-in" data-aos-delay={100} />
+									<img className="position-absolute top-100 start-0 d-none d-md-block translate-middle rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-3.png" alt="Millenium Yazılım" data-aos="zoom-in" data-aos-delay={100} />
 								</div>
 							</div>
 						</div>
@@ -63,43 +63,43 @@ export default function Features5() {
 								<p className="text-500">Compatible with all operating systems and browsers in the world</p>
 								<div className="compatible-group bg-white p-5 mt-5 rounded-4 d-md-flex justify-content-between">
 									<div className="compatible hover-up">
-										<img src="/assets/imgs/features-5/icon-1.png" alt="infinia" />
+										<img src="/assets/imgs/features-5/icon-1.png" alt="Millenium Yazılım" />
 										<p className="text-900 mt-3 mb-0">MacOs</p>
 									</div>
 									<div className="compatible hover-up">
-										<img src="/assets/imgs/features-5/icon-2.png" alt="infinia" />
+										<img src="/assets/imgs/features-5/icon-2.png" alt="Millenium Yazılım" />
 										<p className="text-900 mt-3 mb-0">Windows</p>
 									</div>
 									<div className="compatible hover-up">
-										<img src="/assets/imgs/features-5/icon-3.png" alt="infinia" />
+										<img src="/assets/imgs/features-5/icon-3.png" alt="Millenium Yazılım" />
 										<p className="text-900 mt-3 mb-0">Linux</p>
 									</div>
 									<div className="compatible hover-up">
-										<img src="/assets/imgs/features-5/icon-4.png" alt="infinia" />
+										<img src="/assets/imgs/features-5/icon-4.png" alt="Millenium Yazılım" />
 										<p className="text-900 mt-3 mb-0">Android</p>
 									</div>
 									<div className="compatible hover-up">
-										<img src="/assets/imgs/features-5/icon-5.png" alt="infinia" />
+										<img src="/assets/imgs/features-5/icon-5.png" alt="Millenium Yazılım" />
 										<p className="text-900 mt-3 mb-0">iOS</p>
 									</div>
 									<div className="compatible hover-up">
-										<img src="/assets/imgs/features-5/icon-6.png" alt="infinia" />
+										<img src="/assets/imgs/features-5/icon-6.png" alt="Millenium Yazılım" />
 										<p className="text-900 mt-3 mb-0">Firefox</p>
 									</div>
 									<div className="compatible hover-up">
-										<img src="/assets/imgs/features-5/icon-7.png" alt="infinia" />
+										<img src="/assets/imgs/features-5/icon-7.png" alt="Millenium Yazılım" />
 										<p className="text-900 mt-3 mb-0">Chrome</p>
 									</div>
 									<div className="compatible hover-up">
-										<img src="/assets/imgs/features-5/icon-8.png" alt="infinia" />
+										<img src="/assets/imgs/features-5/icon-8.png" alt="Millenium Yazılım" />
 										<p className="text-900 mt-3 mb-0">Safari</p>
 									</div>
 									<div className="compatible hover-up">
-										<img src="/assets/imgs/features-5/icon-9.png" alt="infinia" />
+										<img src="/assets/imgs/features-5/icon-9.png" alt="Millenium Yazılım" />
 										<p className="text-900 mt-3 mb-0">Opera</p>
 									</div>
 									<div className="compatible hover-up">
-										<img src="/assets/imgs/features-5/icon-10.png" alt="infinia" />
+										<img src="/assets/imgs/features-5/icon-10.png" alt="Millenium Yazılım" />
 										<p className="text-900 mt-3 mb-0">Opera</p>
 									</div>
 								</div>

@@ -56,14 +56,14 @@ export default function Hero2() {
               <div className="mt-10 mt-md-8 position-relative z-1  text-900">
                 <img
                   src="/assets/imgs/hero-2/macbook.webp"
-                  alt="infinia"
+                  alt="Millenium Yazılım"
                   data-aos="fade-up"
                   data-aos-delay={100}
                 />
                 <img
                   className="alltuchtopdown d-none d-md-block position-absolute bottom-0 end-0 pe-10 me-lg-10 mb-lg-10"
                   src="/assets/imgs/hero-2/vector.png"
-                  alt="infinia"
+                  alt="Millenium Yazılım"
                 />
                 <div className="position-md-absolute d-inline-block pt-10 pt-md-5 top-50 start-0 translate-middle-y mt-10">
                   <div className="alltuchtopdown backdrop-filter rounded-4 p-4">
@@ -81,35 +81,35 @@ export default function Hero2() {
                       <li className="d-flex align-items-center mt-2">
                         <img
                           src="/assets/imgs/hero-2/check.png"
-                          alt="infinia"
+                          alt="Millenium Yazılım"
                         />
                         <span className="ms-2">Müşteri Odaklı Çözümler</span>
                       </li>
                       <li className="d-flex align-items-center mt-2">
                         <img
                           src="/assets/imgs/hero-2/check.png"
-                          alt="infinia"
+                          alt="Millenium Yazılım"
                         />
                         <span className="ms-2">Uzman ve Deneyimli Ekip</span>
                       </li>
                       <li className="d-flex align-items-center mt-2">
                         <img
                           src="/assets/imgs/hero-2/check.png"
-                          alt="infinia"
+                          alt="Millenium Yazılım"
                         />
                         <span className="ms-2">Yenilikçi Teknolojiler</span>
                       </li>
                       <li className="d-flex align-items-center mt-2">
                         <img
                           src="/assets/imgs/hero-2/check.png"
-                          alt="infinia"
+                          alt="Millenium Yazılım"
                         />
                         <span className="ms-2">Zamanında Teslimat</span>
                       </li>
                       <li className="d-flex align-items-center mt-2">
                         <img
                           src="/assets/imgs/hero-2/check.png"
-                          alt="infinia"
+                          alt="Millenium Yazılım"
                         />
                         <span className="ms-2">Kalite ve Güvenilirlik</span>
                       </li>
@@ -121,14 +121,14 @@ export default function Hero2() {
                 <img
                   className="flickering"
                   src="/assets/imgs/hero-2/star-1.png"
-                  alt="infinia"
+                  alt="Millenium Yazılım"
                 />
               </div>
               <div className="rotateme position-absolute top-0 end-0 me-10 pe-8 z-0">
                 <img
                   className="flickering"
                   src="/assets/imgs/hero-2/star-3.png"
-                  alt="infinia"
+                  alt="Millenium Yazılım"
                 />
               </div>
               <div className="position-absolute top-50 end-0 translate-middle-y pe-md-10 pe-5 pt-10 mt-8">
@@ -136,7 +136,7 @@ export default function Hero2() {
                   <img
                     className="flickering"
                     src="/assets/imgs/hero-2/star-2.png"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                 </div>
               </div>
@@ -144,7 +144,7 @@ export default function Hero2() {
           </div>
         </div>
         <div className="position-absolute top-0 start-50 translate-middle-x">
-          <img src="/assets/imgs/hero-2/bg-line.png" alt="infinia" />
+          <img src="/assets/imgs/hero-2/bg-line.png" alt="Millenium Yazılım" />
         </div>
         <div className="bouncing-blobs-container">
           <div className="bouncing-blobs-glass" />

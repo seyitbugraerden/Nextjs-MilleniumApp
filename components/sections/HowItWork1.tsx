@@ -16,7 +16,7 @@ export default function HowItWork1() {
               data-aos="zoom-in"
               data-aos-delay={200}
             >
-              <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+              <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
               <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                 Nasıl İlerliyoruz?
               </span>
@@ -46,7 +46,7 @@ export default function HowItWork1() {
           </div>
         </div>
         <div className="position-absolute top-0 start-50 translate-middle-x z-0">
-          <img src="/assets/imgs/howitwork-1/img-bg-line.png" alt="infinia" />
+          <img src="/assets/imgs/howitwork-1/img-bg-line.png" alt="Millenium Yazılım" />
         </div>
         <div className="container position-relative z-1">
           <div className="position-relative">
@@ -56,7 +56,7 @@ export default function HowItWork1() {
                   <div className="icon">
                     <img
                       src="/assets/imgs/howitwork-1/icon-1.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
@@ -80,7 +80,7 @@ export default function HowItWork1() {
                   <div className="icon">
                     <img
                       src="/assets/imgs/howitwork-1/icon-2.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
@@ -102,7 +102,7 @@ export default function HowItWork1() {
                   <div className="icon">
                     <img
                       src="/assets/imgs/howitwork-1/icon-3.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
@@ -124,7 +124,7 @@ export default function HowItWork1() {
               <img
                 className="rounded-3 w-100 img-fluid"
                 src="/assets/imgs/howitwork-1/img-bg.webp"
-                alt="infinia"
+                alt="Millenium Yazılım"
               />
               <div className="bg-linear-primary rounded-3 position-absolute top-0 start-0 w-75 h-100" />
               <div className="position-absolute bottom-0 end-0 m-md-8 m-4">

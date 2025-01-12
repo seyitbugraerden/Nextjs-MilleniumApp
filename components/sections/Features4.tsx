@@ -10,7 +10,7 @@ export default function Features4() {
 					<div className="container">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft d-inline-flex rounded-pill border-white border px-3 py-1" data-aos="zoom-in" data-aos-delay={200}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-regular">
@@ -23,7 +23,7 @@ export default function Features4() {
 						<div className="row">
 							<div className="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-zoom-in" data-aos-delay={0}>
 								<div className="card-service bg-white p-5 rounded-4 hover-up">
-									<img className="filter-invert" src="/assets/imgs/features-4/icon-1.svg" alt="infinia" />
+									<img className="filter-invert" src="/assets/imgs/features-4/icon-1.svg" alt="Millenium Yazılım" />
 									<h6 className="my-3 fs-5">Unified Communications</h6>
 									<p className="mb-6">Promptly solve urgent work issues! Create personal and group chats that allow for exchanging messages not only during conferences but also outside of them.</p>
 									<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -41,7 +41,7 @@ export default function Features4() {
 							</div>
 							<div className="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-zoom-in" data-aos-delay={100}>
 								<div className="card-service bg-white p-5 rounded-4 hover-up mt-lg-6">
-									<img className="filter-invert" src="/assets/imgs/features-4/icon-2.svg" alt="infinia" />
+									<img className="filter-invert" src="/assets/imgs/features-4/icon-2.svg" alt="Millenium Yazılım" />
 									<h6 className="my-3 fs-5">Team Messenger</h6>
 									<p className="mb-6">Promptly solve urgent work issues! Create personal and group chats that allow for exchanging messages not only during conferences but also outside of them.</p>
 									<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -59,7 +59,7 @@ export default function Features4() {
 							</div>
 							<div className="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-zoom-in" data-aos-delay={200}>
 								<div className="card-service bg-white p-5 rounded-4 hover-up">
-									<img className="filter-invert" src="/assets/imgs/features-4/icon-3.svg" alt="infinia" />
+									<img className="filter-invert" src="/assets/imgs/features-4/icon-3.svg" alt="Millenium Yazılım" />
 									<h6 className="my-3 fs-5">Telephony and PBX</h6>
 									<p className="mb-6">Promptly solve urgent work issues! Create personal and group chats that allow for exchanging messages not only during conferences but also outside of them.</p>
 									<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -77,7 +77,7 @@ export default function Features4() {
 							</div>
 							<div className="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-zoom-in" data-aos-delay={300}>
 								<div className="card-service bg-white p-5 rounded-4 hover-up mt-lg-6">
-									<img className="filter-invert" src="/assets/imgs/features-4/icon-4.svg" alt="infinia" />
+									<img className="filter-invert" src="/assets/imgs/features-4/icon-4.svg" alt="Millenium Yazılım" />
 									<h6 className="my-3 fs-5">Smart Meeting</h6>
 									<p className="mb-6">Promptly solve urgent work issues! Create personal and group chats that allow for exchanging messages not only during conferences but also outside of them.</p>
 									<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">

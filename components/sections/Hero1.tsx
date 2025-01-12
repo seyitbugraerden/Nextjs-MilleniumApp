@@ -38,34 +38,34 @@ export default function Hero1() {
 								<div className="d-flex align-items-center">
 									<div className="me-2" data-aos="fade-zoom-in" data-aos-delay={200}>
 										<div className="d-flex">
-											<img src="/assets/imgs/hero-1/avatar-1.png" alt="infinia" />
-											<img className="avt-hero" src="/assets/imgs/hero-1/avatar-2.png" alt="infinia" />
-											<img className="avt-hero" src=" assets/imgs/hero-1/avatar-3.png" alt="infinia" />
+											<img src="/assets/imgs/hero-1/avatar-1.png" alt="Millenium Yazılım" />
+											<img className="avt-hero" src="/assets/imgs/hero-1/avatar-2.png" alt="Millenium Yazılım" />
+											<img className="avt-hero" src=" assets/imgs/hero-1/avatar-3.png" alt="Millenium Yazılım" />
 										</div>
 										<span className="fs-6 fw-bold">4.8/5 <span className="text-secondary fw-medium">(26k Reviews)</span></span>
 									</div>
 									<div className="ms-3" data-aos="fade-zoom-in" data-aos-delay={300}>
-										<img src="/assets/imgs/hero-1/brand-1.svg" alt="infinia" />
+										<img src="/assets/imgs/hero-1/brand-1.svg" alt="Millenium Yazılım" />
 									</div>
 									<div className="ms-3" data-aos="fade-zoom-in" data-aos-delay={300}>
-										<img src="/assets/imgs/hero-1/brand-2.svg" alt="infinia" />
+										<img src="/assets/imgs/hero-1/brand-2.svg" alt="Millenium Yazılım" />
 									</div>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-6 position-relative justify-content-center">
-							<img className="hero-img" src="/assets/imgs/hero-1/background.png" alt="infinia" />
+							<img className="hero-img" src="/assets/imgs/hero-1/background.png" alt="Millenium Yazılım" />
 							<div className="shape-1 position-absolute">
-								<img className="rightToLeft" src="/assets/imgs/hero-1/shape-1.png" alt="infinia" data-aos="zoom-in" data-aos-delay={500} />
+								<img className="rightToLeft" src="/assets/imgs/hero-1/shape-1.png" alt="Millenium Yazılım" data-aos="zoom-in" data-aos-delay={500} />
 							</div>
 							<div className="shape-2 position-absolute d-none d-md-block">
-								<img src="/assets/imgs/hero-1/shape-2.png" alt="infinia" data-aos="zoom-in" data-aos-delay={200} />
+								<img src="/assets/imgs/hero-1/shape-2.png" alt="Millenium Yazılım" data-aos="zoom-in" data-aos-delay={200} />
 							</div>
 							<div className="shape-3 position-absolute d-none d-md-block">
-								<img src="/assets/imgs/hero-1/shape-3.png" alt="infinia" data-aos="zoom-in" data-aos-delay={300} />
+								<img src="/assets/imgs/hero-1/shape-3.png" alt="Millenium Yazılım" data-aos="zoom-in" data-aos-delay={300} />
 							</div>
 							<div className="alltuchtopdown card-hero backdrop-filter rounded-3 text-center d-inline-block p-3 position-absolute">
-								<img className="rounded-3" src="/assets/imgs/hero-1/shape-4.png" alt="infinia" />
+								<img className="rounded-3" src="/assets/imgs/hero-1/shape-4.png" alt="Millenium Yazılım" />
 								<h6 className="mt-3">Book A Call</h6>
 								<p className="fs-7 text-700">
 									Customer activity can be easily <br />

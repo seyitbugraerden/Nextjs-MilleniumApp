@@ -13,7 +13,7 @@ export default function Testimonial1() {
                   data-aos="zoom-in"
                   data-aos-delay={100}
                 >
-                  <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+                  <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
                   <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                     Başlıca Referanslarımız
                   </span>
@@ -81,7 +81,7 @@ export default function Testimonial1() {
                   <img
                     className="avatar-lg"
                     src="/assets/imgs/testimonial-1/avatar-1.png"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                   <div className="d-flex flex-column">
                     <h6 className="ms-3 fs-6 mb-0">A** G**</h6>
@@ -117,7 +117,7 @@ export default function Testimonial1() {
                   <img
                     className="avatar-lg"
                     src="/assets/imgs/testimonial-1/avatar-2.png"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                   <div className="d-flex flex-column">
                     <h6 className="ms-3 fs-6 mb-0">E** D**</h6>
@@ -151,7 +151,7 @@ export default function Testimonial1() {
                   <img
                     className="avatar-lg"
                     src="/assets/imgs/testimonial-1/avatar-3.png"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                   <div className="d-flex flex-column">
                     <h6 className="ms-3 fs-6 mb-0">S** T**</h6>
@@ -185,7 +185,7 @@ export default function Testimonial1() {
                   <img
                     className="avatar-lg"
                     src="/assets/imgs/testimonial-1/avatar-4.png"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                   <div className="d-flex flex-column">
                     <h6 className="ms-3 fs-6 mb-0">E** A**</h6>
@@ -203,7 +203,7 @@ export default function Testimonial1() {
           </div>
         </div>
         <div className="position-absolute top-0 start-0 z-0">
-          <img src="/assets/imgs/testimonial-1/bg-line.png" alt="infinia" />
+          <img src="/assets/imgs/testimonial-1/bg-line.png" alt="Millenium Yazılım" />
         </div>
       </section>
     </>

@@ -44,7 +44,7 @@ export default function Services5() {
               data-aos="zoom-in"
               data-aos-delay={100}
             >
-              <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+              <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
               <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                 Projelerimiz
               </span>

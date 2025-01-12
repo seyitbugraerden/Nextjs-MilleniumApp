@@ -6,7 +6,7 @@ export default function Contact1() {
 					<div className="row">
 						<div className="col-lg-6">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft-keep border border-2 border-white-keep d-inline-flex rounded-pill px-4 py-2">
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Contact Us</span>
 							</div>
 							<h5 className="ds-5 mt-3 mb-3 text-white">Thinking about a project? Get in touch with us.</h5>
@@ -16,7 +16,7 @@ export default function Contact1() {
 							<div className="d-flex pt-6 pb-3 align-items-center">
 								<div className="bg-white-keep icon-flip position-relative icon-shape icon-xxl rounded-3">
 									<div className="icon">
-										<img src="/assets/imgs/contact-1/icon-1.svg" alt="infinia" />
+										<img src="/assets/imgs/contact-1/icon-1.svg" alt="Millenium Yazılım" />
 									</div>
 								</div>
 								<div className="ps-5">
@@ -27,7 +27,7 @@ export default function Contact1() {
 							<div className="d-flex pt-3 pb-3 align-items-center">
 								<div className="bg-white-keep icon-flip position-relative icon-shape icon-xxl rounded-3">
 									<div className="icon">
-										<img src="/assets/imgs/contact-1/icon-2.svg" alt="infinia" />
+										<img src="/assets/imgs/contact-1/icon-2.svg" alt="Millenium Yazılım" />
 									</div>
 								</div>
 								<div className="ps-5">
@@ -41,7 +41,7 @@ export default function Contact1() {
 							<div className="d-flex pt-3 pb-3 align-items-center">
 								<div className="bg-white-keep icon-flip position-relative icon-shape icon-xxl rounded-3">
 									<div className="icon">
-										<img src="/assets/imgs/contact-1/icon-3.svg" alt="infinia" />
+										<img src="/assets/imgs/contact-1/icon-3.svg" alt="Millenium Yazılım" />
 									</div>
 								</div>
 								<div className="ps-5">

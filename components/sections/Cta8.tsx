@@ -14,7 +14,7 @@ export default function Cta8() {
                   data-aos="zoom-in"
                   data-aos-delay={100}
                 >
-                  <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+                  <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
                   <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                     Biz Kimiz?
                   </span>
@@ -34,7 +34,7 @@ export default function Cta8() {
                     <div className="icon">
                       <img
                         src="/assets/imgs/service-4/icon-1.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                     </div>
                   </div>
@@ -55,7 +55,7 @@ export default function Cta8() {
                     <div className="icon">
                       <img
                         src="/assets/imgs/service-4/icon-2.svg"
-                        alt="infinia"
+                        alt="Millenium Yazılım"
                       />
                     </div>
                   </div>
@@ -76,7 +76,7 @@ export default function Cta8() {
                   <img
                     className="rounded-4 position-relative z-1"
                     src="/assets/imgs/cta-5/img-1.webp"
-                    alt="infinia"
+                    alt="Millenium Yazılım"
                   />
                   <div className="alltuchtopdown tag-year position-absolute backdrop-filter bg-primary rounded-4 px-4 py-5 text-center z-1">
                     <span className="h2 count fw-black my-0 lh-1 text-white text-nowrap">
@@ -91,7 +91,7 @@ export default function Cta8() {
                     <img
                       className="alltuchtopdown"
                       src="/assets/imgs/cta-4/vector.svg"
-                      alt="infinia"
+                      alt="Millenium Yazılım"
                     />
                   </div>
                 </div>
