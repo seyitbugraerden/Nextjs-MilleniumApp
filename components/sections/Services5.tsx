@@ -21,9 +21,27 @@ const FILTERS = [
 ];
 
 const PROJECTS: any[] = [
-  // { id: 1, filter: "crm-cozumleri", title: "CRM Çözümleri", description: "Şirketinizi Tek Bir Yerde Yönetin", image: "/assets/imgs/project-1/img-1.png" },
-  // { id: 2, filter: "web-tasarim-ve-gelistirme", title: "Web Tasarım ve Geliştirme", description: "Modern ve İşlevsel Web Siteleri", image: "/assets/imgs/project-1/img-1.png" },
-  // { id: 3, filter: "mobil-uygulama-cozumleri", title: "Mobil Uygulama Çözümleri", description: "İnovatif Mobil Deneyimler", image: "/assets/imgs/project-1/img-1.png" },
+  {
+    id: 1,
+    filter: "crm-cozumleri",
+    title: "CRM Çözümleri",
+    description: "Şirketinizi Tek Bir Yerde Yönetin",
+    image: "/assets/imgs/project-1/img-1.png",
+  },
+  {
+    id: 2,
+    filter: "web-tasarim-ve-gelistirme",
+    title: "Web Tasarım ve Geliştirme",
+    description: "Modern ve İşlevsel Web Siteleri",
+    image: "/assets/imgs/project-1/img-1.png",
+  },
+  {
+    id: 3,
+    filter: "mobil-uygulama-cozumleri",
+    title: "Mobil Uygulama Çözümleri",
+    description: "İnovatif Mobil Deneyimler",
+    image: "/assets/imgs/project-1/img-1.png",
+  },
 ];
 
 export default function Services5() {
@@ -44,7 +62,10 @@ export default function Services5() {
               data-aos="zoom-in"
               data-aos-delay={100}
             >
-              <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
+              <img
+                src="/assets/imgs/features-1/dots.png"
+                alt="Millenium Yazılım"
+              />
               <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                 Projelerimiz
               </span>
