@@ -8,13 +8,13 @@ export const metadatas = {
   misyonVizyon: {
     title: "Millenium Yazılım | Misyonumuz ve Vizyonumuz",
     description:
-      "Millenium Yazılım misyonu, yenilikçi çözümlerle işletmeleri dijital dünyada başarıya taşımak; vizyonu ise sektörde lider teknoloji partneri olmaktır.",
+      "Millenium Yazılım misyonu, yenilikçi çözümlerle işletmeleri dijital dünyada başarıya taşımaktır. Millenium Yazılım vizyonu ise sektörde lider teknoloji partneri olmaktır.",
     canonical: "https://milleniumyazilim.com.tr/kurumsal/misyon-ve-vizyon",
   },
   projelerimiz: {
     title: "Millenium Yazılım | Başarıyla Tamamlanan Projelerimiz",
     description:
-      "Millenium Yazılım olarak, yenilikçi web ve mobil uygulama projelerimizle işletmelerin dijital dünyada büyümesine katkı sağlıyoruz. Projelerimizi keşfedin.",
+      "Millenium Yazılım olarak, yenilikçi web ve yenilikçi mobil uygulama projelerimizle işletmelerin dijital dünyada büyümesine katkı sağlıyoruz. Projelerimizi keşfedin.",
     canonical: "https://milleniumyazilim.com.tr/kurumsal/projelerimiz",
   },
   cozumlerimiz: {
@@ -32,7 +32,7 @@ export const metadatas = {
   iletisim: {
     title: "Millenium Yazılım | Bizimle İletişime Geçin",
     description:
-      "Millenium Yazılım ile iletişime geçerek dijital çözümlerimiz hakkında detaylı bilgi alabilir ve işbirliği fırsatlarını keşfedebilirsiniz.",
+      "Millenium Yazılım ile iletişime geçerek web sitesi ve mobil yazılım kaynaklı sorularınız hakkında detaylı bilgi alabilir ve iş birliği fırsatlarını keşfedebilirsiniz.",
     canonical: "https://milleniumyazilim.com.tr/kurumsal/iletisim",
   },
   home: {
