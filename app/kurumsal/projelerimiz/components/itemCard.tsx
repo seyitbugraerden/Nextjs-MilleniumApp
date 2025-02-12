@@ -13,7 +13,7 @@ const ItemCard = ({ title, description, src }: Props) => {
         <img
           className="rounded-2"
           src={src}
-          alt="infinia"
+          alt={title}
           style={{
             height: "600px",
             filter: "brightness(.75)",
