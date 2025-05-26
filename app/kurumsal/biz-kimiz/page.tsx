@@ -18,7 +18,7 @@ const page = () => {
       <section className="section-page-header py-10 fix position-relative">
         <div className="container position-relative z-1">
           <div className="text-start">
-            <h3>Biz Kimiz?</h3>
+            <h1 style={{ fontSize: "38px !important" }}>Biz Kimiz?</h1>
             <div className="d-flex">
               <Link href="/">
                 <p className="mb-0 text-900">Ana Sayfa</p>
