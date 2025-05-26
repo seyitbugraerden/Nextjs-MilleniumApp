@@ -31,7 +31,7 @@ export default function Static3() {
                   <div className="content text-center mx-auto">
                     <span className="h1 count fw-black text-primary my-0">
                       <span className="odometer">
-                        <CountUp end={45} enableScrollSpy={true} />
+                        <CountUp end={50} enableScrollSpy={true} />
                       </span>{" "}
                       +
                     </span>

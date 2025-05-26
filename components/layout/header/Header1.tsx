@@ -13,10 +13,10 @@ export default function Header1({
       <header>
         <nav
           className={`navbar navbar-expand-lg navbar-light w-100 z-999 ${
-            scroll ? "navbar-stick" : ""
+            scroll ? "relative" : ""
           }`}
           style={{
-            position: `${scroll ? "fixed" : "relative"}`,
+            position: `${scroll ? "relative" : "relative"}`,
             top: `${scroll ? "0" : "auto"}`,
           }}
         >

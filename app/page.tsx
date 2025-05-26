@@ -18,7 +18,10 @@ export default function Home() {
               data-aos="zoom-in"
               data-aos-delay={100}
             >
-              <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
+              <img
+                src="/assets/imgs/features-1/dots.png"
+                alt="Millenium Yazılım"
+              />
               <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                 Neler Sunuyoruz?
               </span>
@@ -44,7 +47,10 @@ export default function Home() {
                 data-aos-delay={100}
               >
                 <div className="card-service bg-white p-6 border rounded-4">
-                  <img src="/assets/imgs/service-1/icon-1.svg" alt="Millenium Yazılım" />
+                  <img
+                    src="/assets/imgs/service-1/icon-1.svg"
+                    alt="Millenium Yazılım"
+                  />
                   <h4 className="my-3" style={{ fontSize: "20px" }}>
                     Önceliğimiz Mutlu Müşteriler
                   </h4>
@@ -61,7 +67,10 @@ export default function Home() {
                 data-aos-delay={200}
               >
                 <div className="card-service bg-white p-6 border rounded-3">
-                  <img src="/assets/imgs/service-1/icon-2.svg" alt="Millenium Yazılım" />
+                  <img
+                    src="/assets/imgs/service-1/icon-2.svg"
+                    alt="Millenium Yazılım"
+                  />
                   <h5 className="my-3" style={{ fontSize: "20px" }}>
                     Büyük Düşünün, Dijitalde Fark Yaratın
                   </h5>
@@ -80,7 +89,10 @@ export default function Home() {
                 data-aos-delay={300}
               >
                 <div className="card-service bg-white p-6 border rounded-3">
-                  <img src="/assets/imgs/service-1/icon-3.svg" alt="Millenium Yazılım" />
+                  <img
+                    src="/assets/imgs/service-1/icon-3.svg"
+                    alt="Millenium Yazılım"
+                  />
                   <h6 className="my-3">Fark Yaratın, Dijitalde Öne Çıkın</h6>
                   <p className="mb-6">
                     Markanızı dijital dünyada benzersiz kılmak için yaratıcı ve
@@ -95,7 +107,10 @@ export default function Home() {
                 data-aos-delay={100}
               >
                 <div className="card-service bg-white p-6 border rounded-3">
-                  <img src="/assets/imgs/service-1/icon-4.svg" alt="Millenium Yazılım" />
+                  <img
+                    src="/assets/imgs/service-1/icon-4.svg"
+                    alt="Millenium Yazılım"
+                  />
                   <h6 className="my-3">Dürüstlük ve Güvenle Büyüyün</h6>
                   <p className="mb-6">
                     Tüm projelerimizde şeffaflık ve dürüstlük ilkelerine bağlı
@@ -112,7 +127,10 @@ export default function Home() {
                 data-aos-delay={200}
               >
                 <div className="card-service bg-white p-6 border rounded-3">
-                  <img src="/assets/imgs/service-1/icon-5.svg" alt="Millenium Yazılım" />
+                  <img
+                    src="/assets/imgs/service-1/icon-5.svg"
+                    alt="Millenium Yazılım"
+                  />
                   <h6 className="my-3">Doğru Yer, Doğru Zaman</h6>
                   <p className="mb-6">
                     Her projede doğru stratejileri belirleyerek markanızı
@@ -128,7 +146,10 @@ export default function Home() {
                 data-aos-delay={300}
               >
                 <div className="card-service bg-white p-6 border rounded-3">
-                  <img src="/assets/imgs/service-1/icon-6.svg" alt="Millenium Yazılım" />
+                  <img
+                    src="/assets/imgs/service-1/icon-6.svg"
+                    alt="Millenium Yazılım"
+                  />
                   <h6 className="my-3"> Birlikte Daha Güçlüyüz</h6>
                   <p className="mb-6">
                     Güçlü bir ekip ruhuyla çalışarak markanızı dijital dünyada
@@ -139,7 +160,10 @@ export default function Home() {
               </div>
             </div>
             <div className="position-absolute top-50 start-50 translate-middle z-0">
-              <img src="/assets/imgs/service-1/img-bg.png" alt="Millenium Yazılım" />
+              <img
+                src="/assets/imgs/service-1/img-bg.png"
+                alt="Millenium Yazılım"
+              />
             </div>
           </div>
         </div>
@@ -151,8 +175,20 @@ export default function Home() {
           <div className="row">
             <div className="col-lg-6">
               <div className="pe-lg-8 me-lg-auto mb-5 mb-lg-0">
-                <h6 className="text-primary">Geri Bildirimler</h6>
-                <h3 className="ds-3">Her Geri Bildirimde Mutluluk</h3>
+                <div
+                  className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1"
+                  data-aos="zoom-in"
+                  data-aos-delay={200}
+                >
+                  <img
+                    src="/assets/imgs/features-1/dots.png"
+                    alt="Millenium Yazılım"
+                  />
+                  <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
+                    Geri Bildirimler
+                  </span>
+                </div>
+                <h3 className="ds-3 mt-4">Her Geri Bildirimde Mutluluk</h3>
                 <p className="fs-5">
                   Müşterilerimizin memnuniyeti bizim için en büyük öncelik.
                   Gerçekleştirdiğimiz projelerde elde ettiğimiz başarılar ve
@@ -184,7 +220,10 @@ export default function Home() {
               <div className="h-100 bg-primary rounded-4 d-flex align-items-center justify-content-center border position-relative border-5 fix border-white py-5">
                 <div className="position-relative z-1 fix">
                   <div className="d-flex justify-content-center">
-                    <img src="/assets/imgs/hero-1/avatar-1.png" alt="Millenium Yazılım" />
+                    <img
+                      src="/assets/imgs/hero-1/avatar-1.png"
+                      alt="Millenium Yazılım"
+                    />
                     <img
                       className="avt-hero"
                       src="/assets/imgs/hero-1/avatar-2.png"
@@ -228,7 +267,10 @@ export default function Home() {
           <div className="row">
             <div className="col-lg-6">
               <div className="d-flex align-items-center justify-content-center bg-primary-soft-keep border border-2 border-white-keep d-inline-flex rounded-pill px-4 py-2">
-                <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
+                <img
+                  src="/assets/imgs/features-1/dots.png"
+                  alt="Millenium Yazılım"
+                />
                 <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                   İletişime Geç
                 </span>
