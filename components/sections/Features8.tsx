@@ -22,30 +22,6 @@ export default function Features8() {
                   en kısa sürede sunarak kalıcı ve sürdürülebilir başarıyı
                   hedefliyoruz.
                 </p>
-                <div className="col d-flex align-items-center mt-5 min-w-">
-                  <span className="h2 count fw-black text-white min-w-70">
-                    <span className="odometer" />
-                    <CountUp end={98} enableScrollSpy={true} />
-                  </span>
-                  <span className="fw-medium text-white fs-4 align-self-start">
-                    +
-                  </span>
-                  <p className="ms-3 text-white">
-                    Tamamlanmış Proje
-                    <br />
-                    Mutlu Müşteriler
-                  </p>
-                </div>
-                <div className="col d-flex align-items-center mt-5">
-                  <span className="h2 count fw-black text-white min-w-70">
-                    <span className="odometer" />
-                    <CountUp end={100} enableScrollSpy={true} />
-                  </span>
-                  <span className="fs-4 fw-medium text-white align-self-start">
-                    %
-                  </span>
-                  <p className="ms-3 text-white">Memnuniyet Garantisi</p>
-                </div>
               </div>
               <div className="col-lg-4 col-md-6 mb-lg-0 mb-8 pe-lg-8">
                 <ul className="list-unstyled ">

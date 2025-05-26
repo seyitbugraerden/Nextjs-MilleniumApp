@@ -78,7 +78,7 @@ const page = () => {
         </div>
       </section>
       <Cta6 />
-      <LogoCloud4 />
+      {/* <LogoCloud4 /> */}
       <Features8 />
     </>
   );

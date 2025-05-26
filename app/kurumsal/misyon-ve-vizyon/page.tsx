@@ -81,43 +81,48 @@ const page = () => {
             <div className="col-12 col-lg-6 ps-lg-0 align-self-stretch">
               <div className="bg-white p-md-8 p-5 rounded-start-lg-0 h-100 rounded-4 mt-lg-0 mt-5 border border-start-lg-0 shadow-1">
                 <div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill mb-2 px-4 py-2">
-                  <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
+                  <img
+                    src="/assets/imgs/features-1/dots.png"
+                    alt="Millenium Yazılım"
+                  />
                   <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                     Misyon ve Vizyon
                   </span>
                 </div>
                 <h3 className="fs-1">Misyonumuz</h3>
                 <p>
-                  Millenium Yazılım olarak, müşterilerimize dijital dünyada
-                  etkili ve sürdürülebilir çözümler sunmayı hedefliyoruz.
-                  Yenilikçi web tasarımı, mobil uygulama geliştirme, e-ticaret
-                  çözümleri ve sosyal medya yönetimi gibi hizmetlerle markaların
-                  çevrimiçi varlıklarını güçlendiriyor, iş hedeflerine
-                  ulaşmalarını sağlıyoruz. Amacımız, her projede yüksek kaliteli
-                  ve kullanıcı dostu dijital deneyimler sunarak müşteri
-                  memnuniyetini en üst düzeye çıkarmaktır.
+                  Millenium Yazılım olarak amacımız, müşterilerimize dijital
+                  dünyada etkili, yenilikçi ve sürdürülebilir çözümler
+                  sunmaktır. Web tasarımı, mobil uygulama geliştirme, e-ticaret
+                  çözümleri ve sosyal medya yönetimi gibi alanlarda sunduğumuz
+                  hizmetlerle markaların çevrimiçi varlıklarını güçlendiriyor,
+                  iş hedeflerine ulaşmalarına destek oluyoruz. Her projede
+                  yüksek kaliteli, kullanıcı odaklı dijital deneyimler sunarak
+                  müşteri memnuniyetini en üst seviyeye taşımayı hedefliyoruz.
                 </p>
               </div>
             </div>
             <div className="col-12 col-lg-6 ps-lg-0 align-self-stretch">
               <div className="bg-white p-md-8 p-5 rounded-start-lg-0 h-100 rounded-4 mt-lg-0 mt-5 border border-start-lg-0 shadow-1">
                 <div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill mb-2 px-4 py-2">
-                  <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
+                  <img
+                    src="/assets/imgs/features-1/dots.png"
+                    alt="Millenium Yazılım"
+                  />
                   <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                     Misyon ve Vizyon
                   </span>
                 </div>
                 <h3 className="fs-1">Vizyonumuz</h3>
                 <p>
-                  Millenium Yazılım, dijital dönüşümde öncü olmayı ve
-                  teknolojiyi verimli bir şekilde kullanarak işletmelerin
-                  büyümesine katkıda bulunmayı vizyon edinmiştir. Yenilikçi
-                  çözümlerimizle globalde tanınan bir marka olmayı, sektörümüzde
-                  lider konumda bulunmayı hedefliyoruz. Sürekli gelişen dijital
-                  pazarlama trendleriyle uyumlu çalışarak, müşterilerimizin
-                  çevrimiçi başarılarını garanti altına alıyoruz. Bu metin, hem
-                  SEO açısından anahtar kelimeler içeriyor hem de kullanıcı
-                  dostu bir şekilde yazılmıştır.
+                  Millenium Yazılım olarak vizyonumuz, dijital dönüşümde öncü
+                  bir rol üstlenmek ve teknolojiyi verimli kullanarak
+                  işletmelerin sürdürülebilir büyümesine katkı sağlamaktır.
+                  Yenilikçi çözümlerimizle global ölçekte tanınan bir marka
+                  olmayı ve sektörümüzde lider konuma ulaşmayı hedefliyoruz.
+                  Sürekli değişen dijital pazarlama trendlerine uyum sağlayarak,
+                  müşterilerimizin çevrimiçi başarısını kalıcı hale getirmeyi
+                  amaçlıyoruz.
                 </p>
               </div>
             </div>
