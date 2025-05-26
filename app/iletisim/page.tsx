@@ -38,7 +38,7 @@ const page = () => {
                 />
               </svg>
               <Link href="/">
-                <p className="mb-0 text-900">İletişim</p>
+                <p className="mb-0 text-primary">İletişim</p>
               </Link>
             </div>
           </div>
