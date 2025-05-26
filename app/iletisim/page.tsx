@@ -15,7 +15,7 @@ const page = () => {
       <section className="section-page-header py-10 fix position-relative">
         <div className="container position-relative z-1">
           <div className="text-start">
-            <h1 style={{ fontSize: "38px !important" }}>Bizimle İletişime Geçin</h1>
+            <h1 style={{ fontSize: "38px !important" }}>İletişim</h1>
             <div className="d-flex">
               <Link href="/">
                 <p className="mb-0 text-900">Ana Sayfa</p>
@@ -37,7 +37,9 @@ const page = () => {
                   strokeLinejoin="round"
                 />
               </svg>
-              <p className="text-primary mb-0">İletişim</p>
+              <Link href="/">
+                <p className="mb-0 text-900">İletişim</p>
+              </Link>
             </div>
           </div>
         </div>
