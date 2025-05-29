@@ -90,27 +90,23 @@ const page = () => {
               </div>
               <div className="col-lg-6 offset-lg-1 mt-lg-0 mt-5">
                 <h4 className="ds-4 fw-regular">
-                  Web Tasarımı
+                  İşletmeniz İçin Uçtan Uca
                   <span
                     className="fw-bold"
                     data-aos="fade-zoom-in"
                     data-aos-delay={200}
                   >
                     {" "}
-                    ve Geliştirme Çözümleri{" "}
+                    Dijital Dönüşüm Hizmetleri{" "}
                     <br className="d-none d-lg-inline" />
                   </span>
                 </h4>
                 <p className="fs-5">
-                  Gelişen dijital dünyada, etkileyici ve işlevsel bir web
-                  sitesi, her işletme için kritik öneme sahiptir. Millenium
-                  Yazılım olarak, kullanıcı dostu arayüzler ve modern tasarımlar
-                  ile markaların çevrimiçi varlıklarını güçlendiriyoruz.
-                  İhtiyaçlarınıza özel web çözümleri sunarak, yüksek
-                  performanslı, mobil uyumlu ve SEO dostu siteler oluşturuyoruz.
-                  İster bir başlangıç sitesi, ister büyük ölçekli bir e-ticaret
-                  platformu olsun, her tür web projesini başarıyla hayata
-                  geçiriyoruz.
+                  Millenium Yazılım olarak dijital çağın ihtiyaçlarına uygun,
+                  yenilikçi ve ölçülebilir çözümler sunuyoruz. Her ölçekten
+                  işletmeye özel olarak geliştirdiğimiz hizmetlerle dijital
+                  varlığınızı güçlendiriyor, müşteri deneyimini iyileştiriyor ve
+                  sürdürülebilir büyümeye katkı sağlıyoruz.
                 </p>
               </div>
             </div>
@@ -190,49 +186,6 @@ const page = () => {
                 </div>
               </div>
             </div>
-            <div className="row align-items-start pb-5 pt-lg-5 pt-0">
-              <div className="col-lg-5 order-2 order-lg-1 mt-lg-0 mt-10 pt-lg-0 pt-5">
-                <h4 className="ds-4 fw-regular">
-                  Mobil Uygulama <br />{" "}
-                  <span
-                    className="fw-bold"
-                    data-aos="fade-zoom-in"
-                    data-aos-delay={200}
-                  >
-                    Geliştirme Çözümleri <br />
-                  </span>
-                </h4>
-                <p className="fs-5">
-                  Dijital dünyada mobil uygulamalar, işletmelerin hedef
-                  kitlelerine ulaşmasında önemli bir araçtır. Millenium Yazılım
-                  olarak, iOS ve Android platformlarında yüksek performanslı
-                  mobil uygulamalar geliştirmekteyiz. Müşterilerimizin
-                  ihtiyaçlarına göre özelleştirilmiş, kullanıcı dostu, hızlı ve
-                  güvenli uygulamalar tasarlıyoruz. İnovasyon ve kullanıcı
-                  deneyimini ön planda tutarak, iş süreçlerinizi dijital ortamda
-                  kolayca yönetmenizi sağlıyoruz.
-                </p>
-              </div>
-              <div className="col-lg-6 offset-lg-1 order-1 order-lg-2 mt-5 text-lg-end text-center">
-                <div className="photo-description position-relative rounded-4 d-inline-block">
-                  <img
-                    className="rounded-4 border border-2 border-white position-relative z-1"
-                    src="/assets/imgs/features-5/img-2.png"
-                    alt="Millenium Yazılım"
-                  />
-                  <div className="position-absolute top-50 start-50 translate-middle z-0">
-                    <div className="box-gradient-2 position-relative bg-linear-1 rounded-4 z-0"></div>
-                  </div>
-                  <img
-                    className="position-absolute top-100 start-0 d-none d-md-block translate-middle rounded-4 border border-2 border-white position-relative z-1"
-                    src="/assets/imgs/features-5/img-3.png"
-                    alt="Millenium Yazılım"
-                    data-aos="zoom-in"
-                    data-aos-delay={100}
-                  />
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </section>
@@ -246,7 +199,10 @@ const page = () => {
                 data-aos="zoom-in"
                 data-aos-delay={200}
               >
-                <img src="/assets/imgs/features-1/dots.png" alt="Millenium Yazılım" />
+                <img
+                  src="/assets/imgs/features-1/dots.png"
+                  alt="Millenium Yazılım"
+                />
                 <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                   Ne sunuyoruz?
                 </span>
@@ -264,6 +220,88 @@ const page = () => {
                 Çözümler
               </h3>
             </div>
+            <div className="row">
+              <div
+                className="col-lg-3 col-md-6 mt-4 mt-lg-0"
+                data-aos="fade-zoom-in"
+                data-aos-delay={0}
+              >
+                <div className="card-service bg-white p-5 rounded-4 hover-up">
+                  <img
+                    className="filter-invert"
+                    src="/assets/imgs/features-4/icon-1.svg"
+                    alt="Millenium Yazılım"
+                  />
+                  <h6 className="my-3 fs-5">Web Tasarımı ve Geliştirme</h6>
+                  <p className="mb-6">
+                    Millenium Yazılım olarak, modern ve kullanıcı dostu web
+                    siteleri tasarlıyoruz. İşletmelerin dijital kimliklerini
+                    güçlendirmek için SEO dostu, mobil uyumlu ve hızlı
+                    performans gösteren web siteleri geliştiriyoruz.
+                  </p>
+                </div>
+              </div>
+              <div
+                className="col-lg-3 col-md-6 mt-4 mt-lg-0"
+                data-aos="fade-zoom-in"
+                data-aos-delay={100}
+              >
+                <div className="card-service bg-white p-5 rounded-4 hover-up mt-lg-6">
+                  <img
+                    className="filter-invert"
+                    src="/assets/imgs/features-4/icon-2.svg"
+                    alt="Millenium Yazılım"
+                  />
+                  <h6 className="my-3 fs-5">Mobil Uygulama Geliştirme</h6>
+                  <p className="mb-6">
+                    Dijital dünyada mobil uygulamalar, markaların hedef
+                    kitlelerine ulaşmasında kritik bir rol oynar. Millenium
+                    Yazılım, iOS ve Android platformlarında yüksek performanslı,
+                    güvenli ve kullanıcı dostu mobil uygulamalar geliştiriyoruz.
+                  </p>
+                </div>
+              </div>
+              <div
+                className="col-lg-3 col-md-6 mt-4 mt-lg-0"
+                data-aos="fade-zoom-in"
+                data-aos-delay={200}
+              >
+                <div className="card-service bg-white p-5 rounded-4 hover-up">
+                  <img
+                    className="filter-invert"
+                    src="/assets/imgs/features-4/icon-3.svg"
+                    alt="Millenium Yazılım"
+                  />
+                  <h6 className="my-3 fs-5">E-Ticaret Çözümleri</h6>
+                  <p className="mb-6">
+                    İnternetten satış yapmayı planlayan ya da mevcut e-ticaret
+                    sistemini güçlendirmek isteyen işletmeler için özel çözümler
+                    sunuyoruz.
+                  </p>
+                </div>
+              </div>
+              <div
+                className="col-lg-3 col-md-6 mt-4 mt-lg-0"
+                data-aos="fade-zoom-in"
+                data-aos-delay={300}
+              >
+                <div className="card-service bg-white p-5 rounded-4 hover-up mt-lg-6">
+                  <img
+                    className="filter-invert"
+                    src="/assets/imgs/features-4/icon-4.svg"
+                    alt="Millenium Yazılım"
+                  />
+                  <h6 className="my-3 fs-5">Dijital Pazarlama ve SEO</h6>
+                  <p className="mb-6">
+                    İnternetin gücünden tam anlamıyla faydalanabilmek için
+                    etkili dijital pazarlama stratejileri gereklidir. Millenium
+                    Yazılım, markaların çevrimiçi görünürlüğünü artırmak için
+                    SEO, içerik pazarlama, sosyal medya yönetimi ve dijital
+                    reklam çözümleri sunuyor.
+                  </p>
+                </div>
+              </div>
+            </div>{" "}
             <div className="row">
               <div
                 className="col-lg-3 col-md-6 mt-4 mt-lg-0"
